@@ -1,0 +1,37 @@
+name: AUTO-EARN AI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 6 * * *"
+
+permissions:
+  contents: read
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Recuperer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Lancer AUTO-EARN AI
+        run: python agent.py
+
+      - name: Sauvegarder les rapports
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: rapport-auto-earn-ai
+          path: |
+            report.json
+            report.md
+          if-no-files-found: warn
+          retention-days: 14
