@@ -82,16 +82,3 @@ jobs:
             workspace/
           if-no-files-found: warn
           retention-days: 30
-
-## Comment le lancer
-
-1. Ouvre ton dépôt : [GitHub — auto-earn-ai](https://github.com/Niaina5986/auto-earn-ai?utm_source=chatgpt.com).
-2. Crée `.github/workflows/agent.yml` ou remplace son contenu actuel.
-3. Enregistre le fichier avec **Commit changes**.
-4. Ouvre **Actions**.
-5. Sélectionne **AUTO-EARN AI ULTRA**.
-6. Clique sur **Run workflow**.
-
-**Attention :** ce workflow exécute le code présent dans ton dépôt. Il ne donne pas encore à l'IA la capacité de modifier elle-même le code et de déployer une nouvelle version. De plus, le rapport et les produits sont téléchargeables comme artefacts, mais ne sont pas automatiquement enregistrés dans le dépôt.
-
-Le lancement planifié est prévu à **05 h 17 UTC chaque jour**, soit **08 h 17 à Madagascar**. GitHub peut toutefois démarrer un lancement planifié avec du retard.
