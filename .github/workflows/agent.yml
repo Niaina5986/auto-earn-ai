@@ -15,19 +15,29 @@ concurrency:
 
 jobs:
   run-agent:
-    name: Run AI Agent
+    name: Run AUTO-EARN AI ULTRA
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
     steps:
-      - name: Download repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: "pip"
+
+      - name: Check Python version
+        run: python --version
+
+      - name: Verify entry file
+        run: |
+          if [ ! -f agent.py ]; then
+            echo "ERROR: agent.py is missing"
+            exit 1
+          fi
+          echo "Entry file found."
 
       - name: Install dependencies
         run: |
@@ -35,15 +45,6 @@ jobs:
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           fi
-
-      - name: Check project files
-        run: |
-          python --version
-          test -f agent.py
-          test -f research_agent.py
-          test -f analysis_agent.py
-          test -f product_engine.py
-          echo "Project files verified."
 
       - name: Run AUTO-EARN AI ULTRA
         env:
@@ -58,19 +59,18 @@ jobs:
           MAX_ITEMS_PER_SOURCE: "1000"
           REQUEST_TIMEOUT: "20"
           PYTHONUNBUFFERED: "1"
-        run: |
-          python agent.py
+        run: python agent.py
 
-      - name: Run automated tests
+      - name: Run tests
         if: success()
         run: |
           if [ -d tests ]; then
             python -m unittest discover -s tests -v
           else
-            echo "No tests directory found."
+            echo "No tests directory."
           fi
 
-      - name: Upload reports, products and database
+      - name: Save reports and products
         if: always()
         uses: actions/upload-artifact@v4
         with:
