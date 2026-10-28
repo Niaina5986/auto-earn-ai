@@ -2,7 +2,7 @@
 
 **Version:** 3.0.0
 
-**Generated:** 2026-10-28T06:01:29.236730+00:00
+**Generated:** 2026-10-28T06:02:28.225319+00:00
 
 ## Summary
 
@@ -230,8 +230,8 @@ A practical introduction to Python programming with simple exercises.
 
 ## Generated products
 
-- {"id": "3d15eb2a6ff5", "type": "ebook", "title": "Les outils numériques gratuits pour débuter", "file": "products/les-outils-num-riques-gratuits-pour-d-buter.md", "format": "md", "created_at": "2026-10-28T06:01:29.236143+00:00", "size_bytes": 2486, "sha256": "cf4d9c0b07bdce83965fc114329f9eba81a86e9ae4283dfd21f091ebeeb65876", "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL", "content_review": "À RELIRE", "commercial_status": "NON PUBLIÉ", "sales": 0, "verified_revenue": 0, "suggested_price_usd": null, "description": "Description commerciale à finaliser après vérification du contenu."}
-- {"id": "f88dd76789cd", "type": "script", "title": "Outil simple de classement de fichiers", "file": "products/outil-simple-de-classement-de-fichiers.py", "format": "py", "created_at": "2026-10-28T06:01:29.236411+00:00", "size_bytes": 2500, "sha256": "5a3664d09b92662ecabde3490d30c73d390d95a77ee8f29f90d51c91ad28dc0d", "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL", "content_review": "À RELIRE", "commercial_status": "NON PUBLIÉ", "sales": 0, "verified_revenue": 0, "suggested_price_usd": null, "description": "Description commerciale à finaliser après vérification du contenu."}
+- {"id": "3d15eb2a6ff5", "type": "ebook", "title": "Les outils numériques gratuits pour débuter", "file": "products/les-outils-num-riques-gratuits-pour-d-buter.md", "format": "md", "created_at": "2026-10-28T06:02:28.224398+00:00", "size_bytes": 2486, "sha256": "2882d808afbd471943a597204992a0551fc77b94b05185a340e8e83395d95c33", "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL", "content_review": "À RELIRE", "commercial_status": "NON PUBLIÉ", "sales": 0, "verified_revenue": 0, "suggested_price_usd": null, "description": "Description commerciale à finaliser après vérification du contenu."}
+- {"id": "f88dd76789cd", "type": "script", "title": "Outil simple de classement de fichiers", "file": "products/outil-simple-de-classement-de-fichiers.py", "format": "py", "created_at": "2026-10-28T06:02:28.224894+00:00", "size_bytes": 2500, "sha256": "5a3664d09b92662ecabde3490d30c73d390d95a77ee8f29f90d51c91ad28dc0d", "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL", "content_review": "À RELIRE", "commercial_status": "NON PUBLIÉ", "sales": 0, "verified_revenue": 0, "suggested_price_usd": null, "description": "Description commerciale à finaliser après vérification du contenu."}
 
 ---
 
