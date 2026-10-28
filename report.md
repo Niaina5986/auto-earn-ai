@@ -2,12 +2,12 @@
 
 **Version:** 3.0.0
 
-**Generated:** 2026-10-28T06:02:28.225319+00:00
+**Generated:** 2026-10-28T06:55:13.588371+00:00
 
 ## Summary
 
 - Opportunities found: 40
-- High-priority opportunities: 37
+- High-priority opportunities: 38
 - Product ideas: 3
 - Products generated: 2
 - Verified sales: 0
@@ -128,16 +128,7 @@ Who We Are<p>Political Asylum Lawyers is a Houston-based immigration law firm fo
 
 # Neon Requiem — Research handoff for Project Manager **Status:** Research / proposed plan; no implementation authorized by this issue alone. ## Core direction Preserve the existing Godot 4 game, combat simulation, progression, saves, and visual identity. Build a repeatable content production pipeline instead of replacing working systems. ## Character and sprite pipeline - Prefer **hybrid modular 
 
-### 13. queue_sweeper: HTTP 422 operations counted as successful closures/comments
-
-- **Source:** GitHub Issues
-- **Score:** 78/100
-- **URL:** https://github.com/limitlessprojects/Go-Hybrid/issues/2107
-- **Status:** Needs manual verification
-
-## Summary AI-assisted tooling-improvement report: `tools/queue_sweeper.py` treats HTTP 422 as successful closure and successful explanatory-comment delivery, without checking resulting state. This can misreport rejected operations as `closed=1 fails=0`. Revision reproduced: `1f0ff978f4deff78c77bca96db0e3e46f32de71b` (main rechecked 2026-10-28 UTC). [Source](https://github.com/limitlessprojects/Go
-
-### 14. Senior Software Engineer II Applied AI — Wrapbook
+### 13. Senior Software Engineer II Applied AI — Wrapbook
 
 - **Source:** Remote OK
 - **Score:** 78/100
@@ -146,7 +137,7 @@ Who We Are<p>Political Asylum Lawyers is a Houston-based immigration law firm fo
 
 <p style="min-height:1.5em"><strong>About Us:</strong></p><p style="min-height:1.5em">Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. </p><p style="min-height:1.5em">Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramo
 
-### 15. Manager Clinical Data Management — EDETEK
+### 14. Manager Clinical Data Management — EDETEK
 
 - **Source:** Remote OK
 - **Score:** 77/100
@@ -155,16 +146,7 @@ Who We Are<p>Political Asylum Lawyers is a Houston-based immigration law firm fo
 
 <p>Manager, Clinical Data Management leads clinical data management team to handle project management documentation, preform clinical data management activities and system implementations for EDETEKâs CONFORM eClinical, write design specifications for the system (forms, reports, etc.), and facilitate testing of system implementations. In addition to stay hands-on with clinical data management op
 
-### 16. Question: supported path (or explicit hold) for an external solver to become verification-ready — 13 claimable rows blocked by *_profile_unapproved
-
-- **Source:** GitHub Issues
-- **Score:** 76/100
-- **URL:** https://github.com/NSPG13/agent-bounties/issues/1690
-- **Status:** Needs manual verification
-
-## What I am asking Is there a supported path for an **independent solver** (wallet `0x226ea74D26E2aA98973Dc35ffE7E66fa2e3B2588`, chain 8453) to become verification-ready on the autonomous bounty lane — or is the reviewed profile registry closed to external runners by design? If it is closed, an explicit statement would help: solvers can then stop retrying and stop treating these rows as earnable 
-
-### 17. [EPIC][HF][RobotOps] Hugging Face + LeRobot + Jev research scenarios and public demos
+### 15. [EPIC][HF][RobotOps] Hugging Face + LeRobot + Jev research scenarios and public demos
 
 - **Source:** GitHub Issues
 - **Score:** 76/100
@@ -172,6 +154,24 @@ Who We Are<p>Political Asylum Lawyers is a Houston-based immigration law firm fo
 - **Status:** Needs manual verification
 
 # Epic — Hugging Face × ROS 2 × Kubernetes × Jev: open RobotOps research and student demos > **Status: proposed integration.** This epic extends the unmerged **scenario website PR #90** and the earlier HF RobotOps roadmap #53/#54; none of the proposed HF dataset conversions, SmolVLA/LIBERO evaluations, live Jev classifications, Kubernetes LeRobot policy-server deployments, or public Hugging Face S
+
+### 16. Implement scenario-first team demo UI and offline unit-test gate
+
+- **Source:** GitHub Issues
+- **Score:** 76/100
+- **URL:** https://github.com/JoranBergfeld/citadel-example/issues/33
+- **Status:** Needs manual verification
+
+## Problem Statement The Operator currently needs terminal commands and JSON results to demonstrate collaboration among Reference Data, Evidence Review and Exercise Planning. It is difficult to follow what the agents are doing, inspect their saved work across team boundaries, and explain why a candidate was selected, replaced or rejected without losing the run context. Development is also burdened
+
+### 17. docs(python): correct remaining Data Router buffering registration claim
+
+- **Source:** GitHub Issues
+- **Score:** 76/100
+- **URL:** https://github.com/okou-ai/okou/issues/43683
+- **Status:** Needs manual verification
+
+The Data Router streaming exclusion still says buffering makes registration precede execution. The current addon registers the Router-assigned ID only after receiving the upstream response. This leaves a false execution-order guarantee at the request-routing decision. Audited commit: `97e8ca71f4d6ac0cd015de589eb5d8179a96bddd`. ## Remaining incorrect comment [`crates/runner/mitm-addon/src/request_c
 
 ### 18. 🌐 Official AI Content Report 2026-10-28
 
@@ -230,8 +230,8 @@ A practical introduction to Python programming with simple exercises.
 
 ## Generated products
 
-- {"id": "3d15eb2a6ff5", "type": "ebook", "title": "Les outils numériques gratuits pour débuter", "file": "products/les-outils-num-riques-gratuits-pour-d-buter.md", "format": "md", "created_at": "2026-10-28T06:02:28.224398+00:00", "size_bytes": 2486, "sha256": "2882d808afbd471943a597204992a0551fc77b94b05185a340e8e83395d95c33", "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL", "content_review": "À RELIRE", "commercial_status": "NON PUBLIÉ", "sales": 0, "verified_revenue": 0, "suggested_price_usd": null, "description": "Description commerciale à finaliser après vérification du contenu."}
-- {"id": "f88dd76789cd", "type": "script", "title": "Outil simple de classement de fichiers", "file": "products/outil-simple-de-classement-de-fichiers.py", "format": "py", "created_at": "2026-10-28T06:02:28.224894+00:00", "size_bytes": 2500, "sha256": "5a3664d09b92662ecabde3490d30c73d390d95a77ee8f29f90d51c91ad28dc0d", "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL", "content_review": "À RELIRE", "commercial_status": "NON PUBLIÉ", "sales": 0, "verified_revenue": 0, "suggested_price_usd": null, "description": "Description commerciale à finaliser après vérification du contenu."}
+- {"id": "3d15eb2a6ff5", "type": "ebook", "title": "Les outils numériques gratuits pour débuter", "file": "products/les-outils-num-riques-gratuits-pour-d-buter.md", "format": "md", "created_at": "2026-10-28T06:55:13.587494+00:00", "size_bytes": 2486, "sha256": "68a51088b7b94bc21ee3588e4e20ef4af0fc42840018f5dc407b617fbc258bf7", "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL", "content_review": "À RELIRE", "commercial_status": "NON PUBLIÉ", "sales": 0, "verified_revenue": 0, "suggested_price_usd": null, "description": "Description commerciale à finaliser après vérification du contenu."}
+- {"id": "f88dd76789cd", "type": "script", "title": "Outil simple de classement de fichiers", "file": "products/outil-simple-de-classement-de-fichiers.py", "format": "py", "created_at": "2026-10-28T06:55:13.587971+00:00", "size_bytes": 2500, "sha256": "5a3664d09b92662ecabde3490d30c73d390d95a77ee8f29f90d51c91ad28dc0d", "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL", "content_review": "À RELIRE", "commercial_status": "NON PUBLIÉ", "sales": 0, "verified_revenue": 0, "suggested_price_usd": null, "description": "Description commerciale à finaliser après vérification du contenu."}
 
 ---
 

@@ -1,11 +1,11 @@
 {
   "agent": "AUTO-EARN AI ULTRA",
   "version": "3.0.0",
-  "generated_at": "2026-10-28T06:02:28.225319+00:00",
+  "generated_at": "2026-10-28T06:55:13.588371+00:00",
   "status": "completed",
   "summary": {
     "opportunities_found": 40,
-    "high_priority_opportunities": 37,
+    "high_priority_opportunities": 38,
     "product_ideas": 3,
     "products_generated": 2,
     "verified_sales": 0,
@@ -255,23 +255,6 @@
       "status": "Needs manual verification"
     },
     {
-      "source": "GitHub Issues",
-      "title": "queue_sweeper: HTTP 422 operations counted as successful closures/comments",
-      "description": "## Summary\nAI-assisted tooling-improvement report: `tools/queue_sweeper.py` treats HTTP 422 as successful closure and successful explanatory-comment delivery, without checking resulting state. This can misreport rejected operations as `closed=1 fails=0`.\n\nRevision reproduced: `1f0ff978f4deff78c77bca96db0e3e46f32de71b` (main rechecked 2026-10-28 UTC).\n[Source](https://github.com/limitlessprojects/Go-Hybrid/blob/1f0ff978f4deff78c77bca96db0e3e46f32de71b/tools/queue_sweeper.py), [daily workflow](https://github.com/limitlessprojects/Go-Hybrid/blob/1f0ff978f4deff78c77bca96db0e3e46f32de71b/.github/workflows/queue-sweeper.yml).\n\n## Reproduction (Python standard library only)\nSave the following as `repro.py` and run `python3 repro.py`. It downloads only the pinned public source, then mocks API calls and forbids socket connections during upstream main execution. No token is needed and no real PR/comment is changed. Do **not** run the live sweeper to reproduce.\n\n```python\n\"\"\"Offline mocked-control-flow reproduction. No GitHub writes or requests.\nRun: python3 queue-status-offline-repro.py\n403 is a mock-only control, not real-helper behavior.\n\"\"\"\nimport json, io, contextlib, types, sys, socket\nfrom pathlib import Path\nfrom unittest.mock import patch\nimport urllib.request\n# Only network operation: download pinned public source, before mock execution.\nsource=urllib.request.urlopen('https://raw.githubusercontent.com/limitlessprojects/Go-Hybrid/1f0ff978f4deff78c77bca96db0e3e46f32de71b/tools/q",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/2107",
-      "score": 78,
-      "positive_signals": [
-        "payment",
-        "bounty",
-        "python",
-        "api"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-28T04:58:28Z",
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
       "source": "Remote OK",
       "title": "Senior Software Engineer II Applied AI — Wrapbook",
       "description": "<p style=\"min-height:1.5em\"><strong>About Us:</strong></p><p style=\"min-height:1.5em\">Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. </p><p style=\"min-height:1.5em\">Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anonymous Content, and more. With backing from Andreessen Horowitz, Bessemer Venture Partners, and Jeffrey Katzenberg's WndrCo, our team of 350+ is using AI to transform how finance teams work and empower them to do more with less.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>The Opportunity: Senior Software Engineer II, Applied AI (Remote - USA / Canada) </strong></p><p style=\"min-height:1.5em\">We are looking for a Senior Software Engineer II, Applied AI to join our Agentic Systems team, where you'll build AI agents that automate workflows for teams across Wrapbook. You'll partner directly with internal teams like Marketing, Sales, Support, Operations and Finance to find high-leverage processes, then design, ship and iterate on agents that take real work off their plates. This is a chance to define how a 400+ person company runs on AI. You'll see the impact of your work every day, while shaping the patterns, tools and standards for how we build agents at Wrapbook.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What Youâll Do:<",
@@ -314,22 +297,6 @@
     },
     {
       "source": "GitHub Issues",
-      "title": "Question: supported path (or explicit hold) for an external solver to become verification-ready — 13 claimable rows blocked by *_profile_unapproved",
-      "description": "## What I am asking\n\nIs there a supported path for an **independent solver** (wallet `0x226ea74D26E2aA98973Dc35ffE7E66fa2e3B2588`, chain 8453) to become verification-ready on the autonomous bounty lane — or is the reviewed profile registry closed to external runners by design?\n\nIf it is closed, an explicit statement would help: solvers can then stop retrying and stop treating these rows as earnable inventory.\n\n## What I observed (all reproducible today, 2026-10-28, release with `verification_child_profile_unapproved`)\n\n1. Wallet session auth works for an unaffiliated wallet:\n   `POST /v1/auth/wallet/challenge` -> sign -> `POST /v1/auth/wallet/session` = `200`, `principal {kind: wallet, chain_id: 8453}`.\n2. `GET /v1/base/autonomous-bounties/feed?network=base-mainnet` = 73 rows, of which **13 are `status: claimable`**, and every one carries a verification blocker:\n   - `verification_child_profile_unapproved` x 6\n   - `verification_terms_not_ready` x 5\n   - `verification_profile_unapproved` x 2\n   Sample contracts: `0x294cda5faa1b1a9dd7eca2cb52daff1fa843ad22`, `0x15fe9336ddd83f87335d27f39f83750e6f86fcef`, `0x71b7b3a8ceb534ca904b8513987aa1f3bd6c3d91` (solver_reward 2.0 USDC, claim_bond 0.01 USDC, required_external_spend 0).\n3. `POST /v1/base/autonomous-bounties/claim-plan` for `0x294cda5f...` with `{bounty_contract, solver, network: \"base-mainnet\"}` -> `409 action_preparation_failed`, `retryable: false`, next action \"Refresh canonical state before attempting a claim\". The same ro",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1690",
-      "score": 76,
-      "positive_signals": [
-        "reward",
-        "bounty",
-        "contract"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-28T04:58:19Z",
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "GitHub Issues",
       "title": "[EPIC][HF][RobotOps] Hugging Face + LeRobot + Jev research scenarios and public demos",
       "description": "# Epic — Hugging Face × ROS 2 × Kubernetes × Jev: open RobotOps research and student demos\n\n> **Status: proposed integration.** This epic extends the unmerged **scenario website PR #90** and the earlier HF RobotOps roadmap #53/#54; none of the proposed HF dataset conversions, SmolVLA/LIBERO evaluations, live Jev classifications, Kubernetes LeRobot policy-server deployments, or public Hugging Face Spaces has been verified as implemented in this repository. Public repo and robot safety restrictions apply.\n\n## Objective\nCreate an approachable research journey: **synthetic ROS 2 evidence → compatible LeRobotDataset v3 / Hub metadata → pinned policy/model & simulator → constrained edge/Kubernetes inference experiments → independent Jev advisory evaluation → reproducible results → optional publicly discoverable HF Space and Collection**.\n\n## Four flagship additional website scenarios\n1. **HF Dataset Factory** — ROS 2 observation/action episodes → schema/units/privacy and copyright gates → LeRobotDataset v3 (when verified) → Hub Dataset + dataset card. Student-first, offline synthetic fixtures first.\n2. **Jev vs HF open-model fault triage** — same labeled synthetic ROS 2/DDS/QoS incidents, deterministic rules, local Hugging Face classifier and opt-in Jev structured Choice; macro-F1/calibration/selective risk, option-order and outage tests; never fabricate accuracy.\n3. **SmolVLA / LIBERO reproducible simulation lab** — pin policy/checkpoint/dataset/hardware and run proper compatible ",
       "url": "https://github.com/MSKazemi/ros2-kubernetes-lab/issues/92",
@@ -343,6 +310,42 @@
       ],
       "risk_signals": [],
       "created_at": "2026-10-27T21:25:48Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "Implement scenario-first team demo UI and offline unit-test gate",
+      "description": "## Problem Statement\n\nThe Operator currently needs terminal commands and JSON results to demonstrate collaboration among Reference Data, Evidence Review and Exercise Planning. It is difficult to follow what the agents are doing, inspect their saved work across team boundaries, and explain why a candidate was selected, replaced or rejected without losing the run context.\n\nDevelopment is also burdened by acceptance machinery designed around deployed Azure services, real model calls and collected cloud evidence. The Operator needs quick, deterministic feedback on application behavior without those prerequisites, while keeping claims about the real demo and deployed enforcement honest.\n\n## Solution\n\nProvide one Azure-hosted Operator application with three linked team views. Begin with a plain-language scenario chooser; make the current run and its observed agent/service flow the main experience. Let the Operator inspect actual connected data and actual saved agent products, reopen retained runs, and explicitly reconcile incomplete work without switching to the CLI for ordinary run recovery.\n\nProtect the application with the agreed shared Operator login, keep all browser access behind its backend, and obtain team-owned projections through separately authorized APIM actions. Preserve private assessment drafts versus approved findings, exact historical bindings, finite read accounting and conservative recovery.\n\nReplace mandatory cloud acceptance with a small, explicit offline unit-",
+      "url": "https://github.com/JoranBergfeld/citadel-example/issues/33",
+      "score": 76,
+      "positive_signals": [
+        "paid",
+        "contract",
+        "documentation",
+        "python",
+        "api"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T06:52:16Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "docs(python): correct remaining Data Router buffering registration claim",
+      "description": "The Data Router streaming exclusion still says buffering makes registration precede execution. The current addon registers the Router-assigned ID only after receiving the upstream response. This leaves a false execution-order guarantee at the request-routing decision.\n\nAudited commit: `97e8ca71f4d6ac0cd015de589eb5d8179a96bddd`.\n\n## Remaining incorrect comment\n\n[`crates/runner/mitm-addon/src/request_classification.py:705–712`](https://github.com/okou-ai/okou/blob/97e8ca71f4d6ac0cd015de589eb5d8179a96bddd/crates/runner/mitm-addon/src/request_classification.py#L705-L712), specifically lines 710–711:\n\n> Router JSON-RPC calls must be buffered so registration precedes execution,\n> including when credential authorization is already cached.\n\n## Verified behavior\n\n- The request-phase operation only discards a sandbox-supplied request-ID header: [`data_router.py:17–19`](https://github.com/okou-ai/okou/blob/97e8ca71f4d6ac0cd015de589eb5d8179a96bddd/crates/runner/mitm-addon/src/data_router.py#L17-L19), called after authorization at [`mitm_addon.py:1923–1925`](https://github.com/okou-ai/okou/blob/97e8ca71f4d6ac0cd015de589eb5d8179a96bddd/crates/runner/mitm-addon/src/mitm_addon.py#L1923-L1925).\n- [`data_router.register_response:22–44`](https://github.com/okou-ai/okou/blob/97e8ca71f4d6ac0cd015de589eb5d8179a96bddd/crates/runner/mitm-addon/src/data_router.py#L22-L44) requires an upstream response, reads its execution ID, and makes one registration attempt. The response hook awaits that operation",
+      "url": "https://github.com/okou-ai/okou/issues/43683",
+      "score": 76,
+      "positive_signals": [
+        "paid",
+        "contract",
+        "documentation",
+        "python",
+        "writing"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T06:49:02Z",
       "verified_payment": false,
       "status": "Needs manual verification"
     },
@@ -559,18 +562,20 @@
     },
     {
       "source": "GitHub Issues",
-      "title": "Overnight execution: real coding, security hardening, and evidence-gated LoRA (no benchmark churn)",
-      "description": "## Purpose\nOwner directive, 2026-10-28: stop broad synthetic benchmark churn. Overnight progress must produce **real code changes, meaningful security fixes, actual application/agent tests, or a verified real training result**. No fabricated CUDA receipts, token-wasting experiments, paid cloud provisioning, or unattended Model Lab restarts.\n\n## Execution order\n1. **Security provenance hardening** (from merged #75, #86, #89). Inspect `secpatch/remote/license_metadata.py` and `prepare.py` for fail-open parsing, missing metadata, path/notice coverage, untrusted audit fields and SPDX `AND` / `OR` ambiguity. Add focused regressions for real source-path license conflicts (GHSA-7c85-87cp-mr6g) and malformed/unclassifiable metadata. Default-deny unresolved provenance. Make a minimal PR from current `main`. Do not rewrite original source licenses or loosen row admission.\n2. **Real untrusted-code isolation** (from #75/#80): implement a **separately owned disposable-runner contract**, then if capability truly exists, confinement tests proving third-party `pip install -e` and `pytest` cannot read host secrets, access host network, or write outside the sandbox. Never execute third-party project setup/test code on Slink directly. Do not claim confinement from a venv, `--acknowledge-isolated-runner`, or a Docker command alone.\n3. **Real coding capability**: pick one concrete, previously failing Haven functional issue, ideally #69 (idempotent truthful model-start responses) or an observed ex",
-      "url": "https://github.com/erpzz/haven/issues/90",
+      "title": "[Dream Cycle 2026-10-28] memory: ControllerRegistry.set() wired — MutationGuard/AttestationLog activation was permanently dead + plugins,automation scan",
+      "description": "## 1. Tonight's Rotation\n\n`DATE=2026-10-28`, `SLOT=3` → `DEEP=memory`, `SCAN=plugins,automation`. No bonus deep-dive conditions matched (`DAYINT % 25 == 3`, `DAYINT % 75 == 3` — neither 0 nor 25). Session commit: `bd19b6f984fb0b4465e333c5e24cc5333784f410`.\n\nControl-plane discovery (STEP 0.5): native Ruflo CLI (`v3/@claude-flow/cli`) is **not built** in this checkout (`dist/` missing, no `node_modules` at root or in `v3/`) — fell back to `npx metaharness`/`npx ruvector harness`, both live (14/15 primitives reported available: MetaHarness, Darwin, Flywheel, routing, witness-chain, SONA+ReasoningBank memory, all direct dependencies). No local benchmark corpus / `.claude-flow/flywheel/` state exists.\n\n## 2. Ledger Check\n\nRead `docs/dream-cycle/LEDGER.md` (249 lines) plus last 14 rows. GitHub-verified fates for the trailing window before tonight (via `search_pull_requests`/`pull_request_read`, MCP tools — `gh` CLI unavailable this session): 10-15 #4215, 10-16 #4230, 10-18 #4271, 10-19 #4286, 10-20 #4313, 10-26 #4504, 10-27 #4532 all **MERGED**; 10-21 #4347 (security), 10-22 #4382 (intelligence), 10-23 #4411 (memory), 10-24 #4459 (swarm), 10-25 #4482 (performance) all open/draft, none stale (<14d) — these 5 nights ran with real branches/issues/PRs but aren't transcribed as their own ledger rows (same \"ledger rows only reach `main` via PR merge\" structural gap noted since 2026-08-19). No no-run gaps. Merge rate strong, no small-candidate bias forced by STEP 1.1.\n\n**#4411 (10-23, mem",
+      "url": "https://github.com/ruvnet/ruflo/issues/4549",
       "score": 72,
       "positive_signals": [
-        "paid",
-        "contract",
-        "remote",
+        "reward",
+        "documentation",
+        "automation",
+        "api",
+        "writing",
         "research"
       ],
       "risk_signals": [],
-      "created_at": "2026-10-28T04:43:11Z",
+      "created_at": "2026-10-28T06:44:53Z",
       "verified_payment": false,
       "status": "Needs manual verification"
     },
@@ -686,6 +691,22 @@
       "status": "Needs manual verification"
     },
     {
+      "source": "GitHub Issues",
+      "title": "Railway 赏金：有 6 条值得抢",
+      "description": "云端雷达发现可抢条目。\n\n```\n[railway-radar] 2026-10-28 06:21Z total=27 hot=5 new=1\n  🆕 Cookie header being stripped from response $10 0 replies 9m by benwainwright\n  [+5] Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 14h by Anonym\n        数小时内, 竞争低\n  [+4] Cloud PDF reads fail after bucket credential change; SSH host-key verification needed\n        竞争低, 提问·配置型\n  [+4] API contract: public variable values in environmentStageChanges patch(decryptVariables:f\n        竞争低, 提问·配置型\n  [+4] Worker-only CLI scale with unrelated staged changes\n        竞争低, 提问·配置型\n  [+4] iOS clients lose the connection right after upload; backend completes every request (edg\n        竞争低, 提问·配置型\n```\n\n详情: `reports/railway_bounty_latest.json`",
+      "url": "https://github.com/HCTDIP/corps-jobs/issues/136",
+      "score": 70,
+      "positive_signals": [
+        "bounty",
+        "contract",
+        "api"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T06:21:25Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
       "source": "Remote OK",
       "title": "Solutions Engineer — Onebrief",
       "description": "<h2><em>Consequential Work. Dedicated People.</em></h2><h2><br /><strong>About Onebrief</strong><br /></h2><p style=\"min-height:1.5em\">Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination.</p><p style=\"min-height:1.5em\">Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helping teams test strategies, adapt to changing conditions, and make decisions with greater clarity when the stakes are real.</p><p style=\"min-height:1.5em\">We are a distributed team of builders from military, operational, and technology backgrounds who care deeply about improving how important work gets done. Some team members work remotely, while others work directly alongside customers in operational environments around the world.</p><p style=\"min-height:1.5em\">Founded in 2019, Onebrief is backed by leading investors including General Catalyst, Battery Ventures, Insight Partners, Sapphire Ventures, and Human Capital. Valued at more than $2 billion, we continue to invest in product innovation, AI capabilities, and team growth.</p><p style=\"min-height:1.5em\"></p><h2><strong>Why This Role Exists</strong></h2><p style=\"min-height:1.5em\">As a Solutions Engineer at Onebrief, you work where mission, engineering, and compliance meet.</p><p style=\"min-height:1.5em\">You'll own techni",
@@ -760,25 +781,6 @@
       "salary_max": 0,
       "verified_payment": false,
       "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Senior React Full stack Developer — Lemon.io",
-      "description": "<p>Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than <a href=\"https://lemon.io/for-developers/?utm_source=remoteok&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_react_node/python/ruby_oct_2026_job_ad\">Lemon.io</a> â the marketplace that connects you with hand-picked startups in the US and Europe.</p><p><strong>What we offer:</strong></p><ul><li>The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.</li><li>No more hunting for clients or negotiating rates â let us handle the business side of things so you can focus on what you do best.</li><li>We'll manually find the best project for you according to your skills and preferences.</li><li>Choose a schedule that works best for you. Itâs possible to communicate async or minimally overlap within team working hours.</li><li>We respect your seniority so you can expect no micromanagement or screen trackers.</li><li>Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?</li><li>We will support you from the time you submit the application throughout all cooperation stages.</li><li>Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.</li><li>Through our community, we will connect you with the best developers from more than 75 countries.</li></ul><h3><strong>Requirements for the",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
-      "score": 69,
-      "positive_signals": [
-        "paid",
-        "remote",
-        "automation",
-        "python"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-09T13:09:18+00:00",
-      "salary_min": 80000,
-      "salary_max": 200000,
-      "verified_payment": false,
-      "status": "Needs manual verification"
     }
   ],
   "product_ideas": [
@@ -820,9 +822,9 @@
       "title": "Les outils numériques gratuits pour débuter",
       "file": "products/les-outils-num-riques-gratuits-pour-d-buter.md",
       "format": "md",
-      "created_at": "2026-10-28T06:02:28.224398+00:00",
+      "created_at": "2026-10-28T06:55:13.587494+00:00",
       "size_bytes": 2486,
-      "sha256": "2882d808afbd471943a597204992a0551fc77b94b05185a340e8e83395d95c33",
+      "sha256": "68a51088b7b94bc21ee3588e4e20ef4af0fc42840018f5dc407b617fbc258bf7",
       "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL",
       "content_review": "À RELIRE",
       "commercial_status": "NON PUBLIÉ",
@@ -837,7 +839,7 @@
       "title": "Outil simple de classement de fichiers",
       "file": "products/outil-simple-de-classement-de-fichiers.py",
       "format": "py",
-      "created_at": "2026-10-28T06:02:28.224894+00:00",
+      "created_at": "2026-10-28T06:55:13.587971+00:00",
       "size_bytes": 2500,
       "sha256": "5a3664d09b92662ecabde3490d30c73d390d95a77ee8f29f90d51c91ad28dc0d",
       "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL",
