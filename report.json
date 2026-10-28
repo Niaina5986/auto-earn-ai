@@ -1,11 +1,11 @@
 {
   "agent": "AUTO-EARN AI ULTRA",
   "version": "3.0.0",
-  "generated_at": "2026-10-28T06:55:13.588371+00:00",
+  "generated_at": "2026-10-28T06:57:07.732918+00:00",
   "status": "completed",
   "summary": {
     "opportunities_found": 40,
-    "high_priority_opportunities": 38,
+    "high_priority_opportunities": 16,
     "product_ideas": 3,
     "products_generated": 2,
     "verified_sales": 0,
@@ -13,30 +13,9 @@
   },
   "source_status": {
     "GitHub Issues": "OK: 40 results",
-    "Remote OK": "OK: 99 results"
+    "Remote OK": "OK: 0 results"
   },
   "opportunities": [
-    {
-      "source": "Remote OK",
-      "title": "Accounting & Finance Manager — Political Asylum Lawyers",
-      "description": "Who We Are<p>Political Asylum Lawyers is a Houston-based immigration law firm focused on asylum cases. We help immigrants all over the United States secure their futures here through asylum, combining exceptional standards with deep respect for the human reality behind every case.Â </p><p>Our work changes lives. The standards we maintain, the discipline behind our work, and the way we show up every day can determine whether someone is able to stay safe and build a stable future in the United States. That is why we operate with integrity, urgency, and excellence, and why we expect every team member to take full ownership of their role.</p><p>Everything we do is guided by our core values: integrity, excellence, accountability, teamwork and passion. </p><p>Working here means:</p><ul><li>High-stakes responsibility: our work is of great consequence for our clients</li><li>Deeply meaningful outcomes: our work changes lives for the better</li><li>Emotionally demanding moments: resilience and maturity are essential</li><li>High standards and constant growth: excellence and continuous improvement are expected</li><li>Mission-driven teamwork: weâre passionate about helping immigrants secure their future in the United States through asylum, and we know that meeting our high standards requires each of us to take ownership, communicate proactively, and support one another</li></ul><p>If you want a career where your skills create tangible change in the world, this is it.</p><p>Learn more",
-      "url": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
-      "score": 93,
-      "positive_signals": [
-        "paid",
-        "payment",
-        "cash",
-        "remote",
-        "automation",
-        "api"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-22T00:00:21+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
     {
       "source": "GitHub Issues",
       "title": "Job-Room scan result 40640536035",
@@ -60,27 +39,6 @@
       "status": "Needs manual verification"
     },
     {
-      "source": "Remote OK",
-      "title": "Accounting and Implementation Manager — Aprio",
-      "description": "<p><span data-teams=\"true\">Work with a Top 20 CPA and advisory firm that Accounts for Anything. &nbsp;Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe.</span> &nbsp;By bringing together proven expertise, deep understanding, and strategic foresight for fast-growing industries, Aprio ensures clients are prepared for wherever life or business may take them. Discover a top-rated culture, vast growth opportunities and your next big career move with Aprio.</p><p><br></p><p>\n</p><p>\n</p><p>Aprio is seeking an <span data-teams=\"true\">Aprio is seeking an <strong>Accounting and Implementation Manager</strong></span> &nbsp;to lead <strong>restaurant, franchise, and hospitality</strong> platform implementations, re-implementations, and optimization initiatives that connect accounting, operations, and technology. In this role, you will partner with clients and our accounting team to translate complex accounting and operational needs into practical configurations, integrations, workflows, controls, reporting structures, and training across platforms including Restaurant365 (R365), QuickBooks Online (QBO), Sage Intacct, and other industry-specific tools. You will serve as a trusted technology resource across the practice â driving implementation quality, enabling team capability, and building a repeatable, scalable delivery model. This is a high-impact opportunity for a systems-minded p",
-      "url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
-      "score": 89,
-      "positive_signals": [
-        "payment",
-        "reward",
-        "cash",
-        "remote",
-        "documentation",
-        "automation"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-23T08:00:05+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
       "source": "GitHub Issues",
       "title": "💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author",
       "description": "🤖 **Bounty con Pago Garantizado (Escrow)**\n\n- **Título:** [Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_\n- **Monto:** $$250\n- **Plataforma:** GitHub Issue\n- **Enlace:** [Ir al Issue](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4143)\n\n---\n\n### 💰 Payment Details\n- BTC: bc1qt3rukpe7qp737zj5j5xpxxmcqv90cfefhg5e00\n- ETH: 0xA5E6eB31868A85127B1ED82b8C760193356206ED\n- LTC: ltc1qdyyg99l8ehp9aj4ehzvmefglmpl9750226k7ne\n- Lightning: chieftrait089@walletofsatoshi.com\n\n**Note:** I am a developer from Cuba. Due to the economic blockade, traditional payment methods are often blocked. Cryptocurrency is the most stable and free way for me to receive payments. I would appreciate it if the bounty could be paid in crypto. Thank you!\n\n\n---\n*Este issue fue creado automáticamente por tu bot. Verifica que el escrow esté activo antes de trabajar.*",
@@ -93,129 +51,6 @@
       ],
       "risk_signals": [],
       "created_at": "2026-10-28T05:03:16Z",
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Senior Software Engineer LATAM — Wagmo",
-      "description": "<p style=\"min-height:1.5em\"><strong>Senior Software Engineer</strong></p><p style=\"min-height:1.5em\">Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">Â </div><p style=\"min-height:1.5em\"><strong>What We Do</strong></p><p style=\"min-height:1.5em\">Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth guidance. Our purpose is to unlock every pet parent's potential to provide extraordinary care, and we do it by bringing the same intentionality to pet benefits that the best employers bring to human healthcare. Founded in 2017 and female-founded, Wagmo is headquartered in New York City and trusted by leading employers nationwide.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\">Â </div><p style=\"min-height:1.5em\"><strong>Whatâs Important To Us</strong></p><p style=\"min-height:1.5em\">Our mission shapes everything we build and how we work together. We take fearless ownership of outcomes, collaborate with radical candor, and are always driven by the customers and pet parents who trust us. We think critically, follow through relentlessly, and find the extra 10% that turns good work into exceptional work. We keep it weird because the obvious answer ",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
-      "score": 85,
-      "positive_signals": [
-        "paid",
-        "payment",
-        "remote",
-        "automation",
-        "python",
-        "api"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-26T08:00:06+00:00",
-      "salary_min": 100000,
-      "salary_max": 140000,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Senior Finance Manager Management Accountant — D2B",
-      "description": "<p>Position\t\t\t\t: Senior Finance Manager / Management AccountantÂ </p><p>Salary\t\t\t\t: PHP 90,000 - PHP 110,000 /month</p><p>Working Hours &amp; Conditions: Observing AU business hours</p><p>Holidays\t\t\t\t: Observing AU holidays</p><p></p><p>ROLE OVERVIEW:</p><p>Our client is an end-to-end B2B SaaS platform delivering specialized workforce management software designed for operational precision across scheduling, compliance, time tracking, invoicing, and payroll. Operating in a high-volume, multi-entity environment undergoing rapid international expansion and strategic acquisitions, the organization is bringing its core finance operations fully in-house to support scalable long-term growth. Working closely with executive leadership, this critical role goes beyond traditional accounting to take complete ownership of financial consolidations, month-end close optimization, SaaS performance metrics, and commercial analysis. We are seeking a proactive leader with a Financial Controller mindset who can independently challenge assumptions, eliminate operational bottlenecks, and bring clear financial visibility to strategic executive decisions.Â </p><p></p><p>RESPONSIBILITIES:</p><ul><li>Financial Close, Reporting &amp; Multi-Entity Consolidation:</li><ul><li>Take end-to-end ownership of the month-end close cycle, including journal entries, accruals, prepayments, balance sheet reconciliations, and consolidated financial reporting.</li><li>Lead the strategic transition of financial close an",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556",
-      "score": 83,
-      "positive_signals": [
-        "payment",
-        "cash",
-        "remote",
-        "documentation",
-        "automation",
-        "api"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-22T08:00:04+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Clinical Data Manager — Penumbra",
-      "description": "<p>\n</p><p><strong>General Summary</strong><br>The temporary Clinical Data Manager acts as a lead data manager for one or more projects, applies data management experience to clinical trials, and utilizes functional knowledge of the logistics of clinical trials to ensure the quality and integrity of clinical trial data. The CDM works on multi-functional teams and supports clinical trial projects as a departmental subject matter expert (SME).</p>\n<p>We are seeking a temporary clinical data manager who can dedicate 20 hours a week to support ongoing study activities. The initial assignment is for 6 months, but may be extended to meet the needs of our Team. Applicants must be eligible to live and work in the US.</p>\n<p><br><strong>Specific Duties and Responsibilities</strong><br>â¢Independently lead and/or perform all data management activities within an assigned study (e.g., study startup, study conduct, study closeout, and reporting). *<br>â¢Serve as the data management SME on multidisciplinary project teams providing specific expertise on timeline development, identification of data management deliverables and resource requirements. *<br>â¢Participate in the creation, review, and maintenance of project timelines and monitor progress of data management activities. *<br>â¢Provide oversight for Data Management CRO and other vendors to ensure compliance with the protocol, external/internal standards, Good Clinical Practices (GCPs), applicable regulatory guidelines, SOPs, and ",
-      "url": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
-      "score": 83,
-      "positive_signals": [
-        "paid",
-        "reward",
-        "remote",
-        "documentation",
-        "api",
-        "research"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-21T00:00:06+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Senior Sales Executive Central Region — SimSpace Corporation",
-      "description": "<p style=\"min-height:1.5em\"><strong>SimSpace serves as an AI Proving Ground where organizations can confidently train, test, and outmaneuver adversaries in any environment. </strong>Trusted by allied governments, militaries, enterprises, and research institutions worldwide, SimSpace enables adaptive, AI-ready defenses that stay ahead of evolving threats. Founded in 2015 by experts from U.S. Cyber Command and MIT Lincoln Laboratory, the platform unifies training, testing, and validation in a realistic, live-fire simulationâhelping teams evaluate security investments, optimize performance, and compress cyber readiness cycles from months to days.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Why join SimSpace? </strong>We are an organization that is focused on building our culture and mindfully enhancing our atmosphere every day which is why we have collaborated on an integral value system. Our governing philosophy of being Human Centered is deeply embedded within our value system. We apply this philosophy to every one of our internal team members, external clients, and their customers.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>How Do We Work? </strong>We believe that people are at the center of everything we do. SimSpace fosters a culture of continuous learning, curiosity, and professional growth. That belief shows up in action: in-house training, internal and external learning platforms, cyber conferences, industry events",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
-      "score": 82,
-      "positive_signals": [
-        "paid",
-        "reward",
-        "contract",
-        "remote",
-        "research"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-12T00:00:04+00:00",
-      "salary_min": 145000,
-      "salary_max": 220000,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Principal Software Engineer — Vytalize Health",
-      "description": "<p style=\"min-height:1.5em\"><strong>Your Opportunity</strong></p><p style=\"min-height:1.5em\">As a <strong>Principal Engineer</strong>, you will help design, build, and operate the clinical decision support and API-driven data delivery platform that enables Vytalize Health to embed timely, actionable clinical insights directly into provider workflows. Working cross-functionally with Data Engineering, Product, Clinical Operations, and EMR partners, your solutions will transform how clinicians access dataâmoving from external tools and workarounds to seamless, in-workflow decision support via CDS Hooks and real-time APIs. <br /> <br />You will own the technical foundation for Clinical Decision Support (CDS) Hooks, REST APIs, and the architectural patterns that ensure clinical data is accessible, trustworthy, and performant at the moment of care. This role sits at the intersection of healthcare interoperability standards, modern API design, and operational excellence. You will establish reliability metrics and SLAs that ensure CDS Hooks and APIs serve clinician workflows with consistent quality and performance. You will be part of a small, high-performing healthcare engineering team where engineers support each other's growth through mentorship and tight collaboration.</p><p style=\"min-height:1.5em\"><strong>Primary Responsibilities</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Lead design and implementation of the CDS Hooks platform, including card or",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508",
-      "score": 81,
-      "positive_signals": [
-        "paid",
-        "contract",
-        "remote",
-        "documentation",
-        "python",
-        "api"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-13T00:00:18+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Customer Support Specialist — Ultimate Marketing",
-      "description": "<h1><strong>Join Our Global Customer Engagement Network</strong></h1><p>Company: Ultimate Marketing LLC<br />Location: Worldwide | Remote<br />Employment Type: Independent Contractor (1099 for eligible U.S. contractors)<br />Compensation: Performance-Based | Payments Every 3 Calendar Days</p><p><strong><br /></strong></p><h2><strong>About the Opportunity</strong></h2><p>Ultimate Marketing LLC is expanding its global network of remote professionals to support our brands:</p><p>Our growing global business ecosystem includes the following brands, platforms, and specialized services:</p><ul><li>Direct Acquisitionsâ¢</li><li>Tokenized Fundingâ¢</li><li>Perfect Data Directâ¢</li><li>Cybersecurity &amp; Compliance</li><li>Juris Audit on-Demandâ¢</li><li>Insights by PDDâ¢</li><li>Web4Comâ¢ (Web4â¢)</li></ul><p>Together, these initiatives support business acquisitions, financial innovation, digital infrastructure, cybersecurity, regulatory compliance, and global business development.</p><p>We are seeking motivated individuals interested in customer engagement, digital communications, business development, and online support opportunities.</p><p>Our growing business ecosystem includes business acquisitions, digital technology, cybersecurity, compliance, and innovative financial solutions.</p><p>This opportunity provides flexibility (your time zone), remote participation, and performance-based earning potential.</p><p><strong><br /></strong></p><h2><strong>Responsibilities</stron",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
-      "score": 80,
-      "positive_signals": [
-        "paid",
-        "payment",
-        "contract",
-        "remote"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-14T01:31:49+00:00",
-      "salary_min": 50000,
-      "salary_max": 90000,
       "verified_payment": false,
       "status": "Needs manual verification"
     },
@@ -251,47 +86,6 @@
       ],
       "risk_signals": [],
       "created_at": "2026-10-28T00:19:07Z",
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Senior Software Engineer II Applied AI — Wrapbook",
-      "description": "<p style=\"min-height:1.5em\"><strong>About Us:</strong></p><p style=\"min-height:1.5em\">Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. </p><p style=\"min-height:1.5em\">Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anonymous Content, and more. With backing from Andreessen Horowitz, Bessemer Venture Partners, and Jeffrey Katzenberg's WndrCo, our team of 350+ is using AI to transform how finance teams work and empower them to do more with less.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>The Opportunity: Senior Software Engineer II, Applied AI (Remote - USA / Canada) </strong></p><p style=\"min-height:1.5em\">We are looking for a Senior Software Engineer II, Applied AI to join our Agentic Systems team, where you'll build AI agents that automate workflows for teams across Wrapbook. You'll partner directly with internal teams like Marketing, Sales, Support, Operations and Finance to find high-leverage processes, then design, ship and iterate on agents that take real work off their plates. This is a chance to define how a 400+ person company runs on AI. You'll see the impact of your work every day, while shaping the patterns, tools and standards for how we build agents at Wrapbook.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What Youâll Do:<",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
-      "score": 78,
-      "positive_signals": [
-        "paid",
-        "remote",
-        "documentation",
-        "automation",
-        "python",
-        "api"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-15T16:00:03+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Manager Clinical Data Management — EDETEK",
-      "description": "<p>Manager, Clinical Data Management leads clinical data management team to handle project management documentation, preform clinical data management activities and system implementations for EDETEKâs CONFORM eClinical, write design specifications for the system (forms, reports, etc.), and facilitate testing of system implementations. In addition to stay hands-on with clinical data management operations and activities, Manager of Clinical Data Management oversees data management projects to ensure quality, timely delivery and ongoing client satisfaction; identifies client needs and develops creative solutions for projects, leveraging expertise, operational capabilities and technologies; communicates with clients and internal teams.</p><p>The Manager, Clinical Data Management should thoroughly understand the requirements for Good Clinical Data Management services, including its documentation; be involved in start-up or wrap-up of in-house and client-specific data management projects; have an understanding of the relevant therapeutic indications, study hypotheses, and trial design; and have a solid understanding of database design and structure.</p>ESSENTIAL FUNCTIONS<ul><li>Support internal clinical data management initiatives</li><li>Complete traditional and assigned data management operations/activities</li><li>Contribute to project success by communicating with clients about requirements and issues, leveraging expertise, enforcing standard operation procedures, monitoring",
-      "url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
-      "score": 77,
-      "positive_signals": [
-        "paid",
-        "contract",
-        "remote",
-        "documentation",
-        "writing"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-10T08:00:08+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
       "verified_payment": false,
       "status": "Needs manual verification"
     },
@@ -369,65 +163,6 @@
       "status": "Needs manual verification"
     },
     {
-      "source": "Remote OK",
-      "title": "Software Engineer AI Coding Tasks — Askable",
-      "description": "<p>We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want.</p><p>You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models.</p><p>Remote, any location. US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week.</p><p><br /></p><p><strong>How it works</strong></p><ol class=\"i0llva i0ll5y i0lmlu\"><li><strong>Apply. </strong>Complete a short screener interview and upload your resume.</li><li><strong>Propose.</strong> Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate.</li><li><strong>Build.</strong> In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks.</li><li><strong>Stress-test. </strong>Try lazy, incorrect and shortcut solutions and make sure your checks catch them.</li><li><strong>Model testing.</strong> Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it.</li><li><strong>Review.</strong> A reviewer checks your task and you revise it. Most tasks take more than one round.</li><li><strong>Next task.</strong> Once your task is accepted, start another.<",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
-      "score": 76,
-      "positive_signals": [
-        "paid",
-        "contract",
-        "remote",
-        "python",
-        "writing"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-17T01:09:20+00:00",
-      "salary_min": 10000,
-      "salary_max": 10000,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Marketing Operations Specialist — Engine",
-      "description": "About Engine\n\nAt Engine, weâre transforming business travel into something personalized, rewarding, and simple. For too long, managing travel and spend has been overwhelming and fragmented â weâre here to change that. We believe the future of travel should be seamless and powered by technology that delights customers at every step. Thatâs why weâre building a platform that brings together corporate travel, a powerful charge card, and modern spend management in one place.\n\nTo make this vision real, weâre looking for exceptional, mission-driven people to help redefine how businesses manage and experience travel.\n\nMore than 30,000 companies already rely on Engine to support over 1 million travelers and billions in annual bookings each year. Cash flow positive with rapid growth, we pair exclusive Engine-only rates, industry-leading rewards, and intelligent automation to help businesses save money while delivering world-class personalization and convenience.\n\nBacked by Telescope Partners, Blackstone, and Permira, Engine has been recognized as one of the fastest-growing travel and fintech platforms in North America, with honors including the Deloitte Fast 500 and Built Inâs Best Places to Work.\n\nAbout the Role\n\nThe Sr Marketing Operations Specialist is a marketing professional who will play a vital role in supporting and optimizing our marketing technology stack, executing campaigns, maintaining data hygiene, and ensuring smooth operational alignment across the market",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950",
-      "score": 76,
-      "positive_signals": [
-        "reward",
-        "cash",
-        "remote",
-        "automation",
-        "api"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-08-18T16:00:57+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Senior Software Engineer Case Execution — Pivotal Health",
-      "description": "<h1>About Pivotal Health</h1><p style=\"min-height:1.5em\">Pivotal Health is the leading technology platform that helps healthcare providers get paid fairly in an increasingly complex reimbursement landscape.</p><p style=\"min-height:1.5em\">Today, many providers face persistent underpayment from health insurance companies, despite delivering high-quality care. While processes like IDR (Independent Dispute Resolution) were designed to promote fairness, theyâre often administrative-heavy, time-consuming, and difficult to navigate without the right tools.</p><p style=\"min-height:1.5em\">Pivotal Health combines software, data, and service into a seamlessly integrated, AI-driven platform that simplifies these complex reimbursement workflows. We help providers efficiently dispute underpaid claims, reduce administrative burden, and recover the reimbursement theyâre entitled to; without adding more work to already stretched teams.</p><p style=\"min-height:1.5em\">Our full-service IDR solution is just the starting point. Weâre building solutions that enable providers to operate with clarity, control, and confidence across the reimbursement journey.</p><h1><strong>About the Role</strong></h1><p style=\"min-height:1.5em\">We're hiring a Senior Software Engineer to join Pivotal's Case Execution team. This team owns critical parts of the case execution workflow, including eligibility, batching, submissions, ops workflows, and claim orchestration. These systems sit at the operational core of",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
-      "score": 76,
-      "positive_signals": [
-        "paid",
-        "payment",
-        "remote",
-        "python"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-08-16T00:00:03+00:00",
-      "salary_min": 190000,
-      "salary_max": 220000,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
       "source": "GitHub Issues",
       "title": "[PRE-TEST][Contract-000] Run412 Library, A-000 witness replay, F-001 pinned scanner",
       "description": "**ChatGPT: prospective PRE-TEST — Contract-000 Run412, 2026-10-28 ~00:10 Central. This entry is published before this run's tests, diagnostics or benchmarks.**\n\n**Timothy's discussion and read-first evidence.** Continue one independent Contract-000 run, Library-first reversible classification (≤150), A-000 self-identification / Genesis against actual code with one labeled reply to Claude's latest DISC-002 (2026-10-24 23Z), and only the existing F-001 TAM Protocol ebook. Read Contract-000 (blob `0fbc794`), TJ R1–R7 (`3ce87eb`), DISC-002 (`ee443fb`), shared Library HEAD `470d3c827fd1cdd5e96b4f4ca91281e02d676bad`, Run411 checkpoint and 89-entry ledger, F-001 decision sheet `2975edc` and progress, original scanner `31f3dcf`, Genesis `63eb982`. Main, shared content, Claude's branch, frozen tests and private Testament remain untouched.\n\n**A — Library problem / hypothesis / method.** Prior 89 source-bound decisions (31 KEEP, 57 DEFER, 1 PRUNE) may remain valid if the shared HEAD and path/blob/size/rationale tuples are unchanged. Reconcile up to 89 inherited rows against current source and read four relevant public source bodies. Expected: consistent ledger; changed source or missing rationale challenges inheritance and triggers DEFER, not deletion. This is not 89 new source-body reads.\n\n**B — A-000 problem / hypothesis / method.** `ReshIdentity.validate()` accepts mutable local marker state, while a detached snapshot (Run411) detects some changes. A stale or replayed witness may inc",
@@ -459,86 +194,6 @@
       ],
       "risk_signals": [],
       "created_at": "2026-10-27T22:13:43Z",
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Technical Account Manager — Yuno",
-      "description": "<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><strong><span style=\"font-size: 9pt; font-family: Arial, sans-serif; color: #999999;\">Remote, Brazil, Full Time, Individual Contributor, +3 years of experience</span></strong></p>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><strong><span style=\"font-size: 17pt; font-family: Arial, sans-serif; color: #1a1a1a;\">Who We Are</span></strong></p>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #1a1a1a;\">At Yuno, we are building the payment infrastructure that allows all companies to participate in the global market. Founded by seasoned experts from the payments and tech industries, our technology provides access to leading payment capabilities, enabling companies to engage customers confidently and maintain global operations through seamless integrations.</span></p>\n<p style=\"line-height: 1.8; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: #1a1a1a;\">We empower high-performing teams at brands like InDrive, McDonald's, Rappi, and Viva Aerobus to integrate over 1,000 payment methods via a single API. By leveraging advanced AI and the latest technologies, we orchestrate smart routing and fraud prevention across 80+ countries.</span></p>\n<p style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 3.75pt;\">&nbsp;</p>\n<hr>\n<p style=\"line-height: 1.8; ",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
-      "score": 75,
-      "positive_signals": [
-        "payment",
-        "reward",
-        "remote",
-        "python",
-        "api"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-17T08:00:32+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Director of IT and Workplace — Hippocratic AI",
-      "description": "<h1><strong>The Role</strong></h1><p style=\"min-height:1.5em\">We've grown to roughly 265 people working onsite from our Menlo Park headquarters, supported by a large network of remote U.S.-licensed clinicians â and part of the Series C is earmarked for acquisitions. The systems and the spaces holding all of that together were built for a much smaller company. We're hiring a Director of IT &amp; Workplace to own them properly.</p><p style=\"min-height:1.5em\">You'll own two halves of the same problem: the employee technology platform â identity, endpoints, networking, the SaaS portfolio, and our IT security posture â and the physical environment the company runs on, from space planning and physical security to the AV that customer demos and all-hands depend on. You'll inherit a small, capable team and be accountable for leveling it up. You'll be the named owner for IT controls in our HIPAA and SOC 2 programs, you'll own the IT and workplace budget, and when we acquire a company, you'll be the one integrating it.</p><p style=\"min-height:1.5em\"></p><h1><strong>Our Environment</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Identity and access: </strong>Okta for SSO, MFA, and lifecycle provisioning.</p></li><li><p style=\"min-height:1.5em\"><strong>Productivity: </strong>Microsoft 365 and Google Workspace, both in active use across the company.</p></li><li><p style=\"min-height:1.5em\"><strong>Endpoints: </strong>a Mac-primary fleet with Windows ",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
-      "score": 74,
-      "positive_signals": [
-        "payment",
-        "remote",
-        "automation",
-        "python",
-        "api",
-        "research"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-16T00:00:50+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Payment Operations Specialist — Utopia",
-      "description": "<p>UtopiaÂ is an ultra-luxury hospitality and lifestyle brand creating a global ecosystem of properties and experiences.</p><p>We develop private villa retreats in beautiful locations around the world, each with high-end service.Â UtopiaÂ also offers a wider ecosystem of leisure experiences and services available both to those staying on property and to external visitors.</p><p>UtopiaÂ designs and builds its properties in-house. Our projects span the full journey: from concept and architecture to construction, interiors, landscape, guest experience, and long-term operation. For architects and designers, this means contributing on properties from the ground up, with the ability to influence how each place is planned, built, and experienced. For hospitality professionals, it means collaborating with a brand where service is personal, attentive, and built around each guestâs stay.</p><p>Weâre a young, ambitious team with high standards and a hands-on approach. We value strong ideas, practical thinking, attention to detail, and people who are ready to take ownership of their part of each project. If youâre interested in architecture, design, hospitality, or guest experience, we invite you to explore opportunities withÂ Utopia.</p><p></p><p>About the role</p><p>We are looking for a detail-oriented and motivated Payment Operations Specialist to join our finance team. You will support the day-to-day execution of payment workflows, reconciliation processes, and financial report",
-      "url": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
-      "score": 74,
-      "positive_signals": [
-        "payment",
-        "cash",
-        "remote",
-        "automation"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-14T16:00:05+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Staff Software Development Engineer SDM — Delinea",
-      "description": "<p style=\"min-height:1.5em\"><strong>About Delinea:</strong><br />Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delineaâs leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle â across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities â including workforce, IT administrator, developers, and machines â assign appropriate access levels, detect irregularities, and respond to threats in real-time. With deployment in weeks, not months, 90% fewer resources to manage than the nearest competitor, and a 99.995% uptime, Delinea delivers robust security and operational efficiency without compromise. Learn more about Delinea on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Delinea.com\">Delinea.com</a>, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fdelinea%2F&amp;data=05%7C02%7CMichele.Eaton%40delinea.com%7C766420d58b9a492d94ca08ddd6949f59%7C18d6ed03f0e5486183d2bb7b6c7c2bb2%7C0%7C0%7C638902656186877399%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796",
-      "score": 74,
-      "positive_signals": [
-        "paid",
-        "remote",
-        "documentation",
-        "automation",
-        "api"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-08-16T00:00:10+00:00",
-      "salary_min": 150000,
-      "salary_max": 185000,
       "verified_payment": false,
       "status": "Needs manual verification"
     },
@@ -618,44 +273,6 @@
       "status": "Needs manual verification"
     },
     {
-      "source": "Remote OK",
-      "title": "Head of Technology — Sanctuary Computer",
-      "description": "<p>We are hiring a <strong>Head of Technology</strong> for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code.</p><p><a href=\"https://garden3d.notion.site/Head-of-Technology-3f9131fea2c7815da5e3ec914835c397?source=copy_link\"><strong>Original job posting link</strong></a></p><h3><strong>About <a href=\"https://garden3d.net/\">garden3d</a></strong></h3><p>We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions.</p><p>Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &amp; Gagosian.</p><p>Weâre the software team behind innovative products like The Light Phone &amp; Mill, and we operate a global, decentralized community space collective called Index Space.</p><p>We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs.</p><h3><strong>Sanctuary Computer - Development</strong></h3><p>At <strong><a href=\"https://www.sanctuary.computer/\">Sanctuary Computer</a></strong> weâre buil",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
-      "score": 72,
-      "positive_signals": [
-        "paid",
-        "contract",
-        "remote",
-        "open source"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-16T17:55:35+00:00",
-      "salary_min": 140000,
-      "salary_max": 250000,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "AI Trainer — iMerit Technology",
-      "description": "<p>Remote | Independent Contractor | Get certified for future project opportunities</p>\n<h3>Prove your skills. Get certified. Be ready for what comes next.</h3>\n<p>Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them. We are inviting detail-oriented professionals to complete our certification process for potential robotics AI projects. Demonstrate your skills now and be considered when project opportunities become available.</p>\n<h3>What You Will Do</h3>\n<p>As part of the certification process, you will demonstrate your ability to:</p>\n<ul>\n<li>Annotate short video clips by identifying objects, actions and events.</li>\n<li>Evaluate video quality, relevance and accuracy against established guidelines.</li>\n<li>Assess the clarity and plausibility of movements.</li>\n<li>Apply instructions consistently and identify potential quality issues.</li>\n</ul>\n<h3>What You Bring</h3>\n<ul>\n<li>Strong attention to detail and analytical thinking.</li>\n<li>Strong written English and the ability to follow detailed instructions independently.</li>\n<li>A commitment to accuracy and consistency.</li>\n<li>No previous AI or robotics experience required.</li>\n</ul>\n<h3>What the Work Looks Like</h3>\n<p>You may review short videos and be asked to tag objects or actions, rate video clarity or camera angles on a 1 to 10 scale, or assess whether movements are clearly visible and plausible.</p>\n<h3>Why Get Certified Now</h3>\n<p>Comp",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513",
-      "score": 72,
-      "positive_signals": [
-        "paid",
-        "contract",
-        "remote",
-        "api"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-14T14:44:21+00:00",
-      "salary_min": 50000,
-      "salary_max": 70000,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
       "source": "GitHub Issues",
       "title": "Contract source verification on stellar.expert",
       "description": "## Context\n\nstellar.expert can show a Soroban contract as \"source verified\" when the Wasm\nwas built by a public GitHub Actions workflow with a build attestation and\npublished as a GitHub release. The three Rubbi testnet contracts are not\nverified today, so anyone inspecting them sees an opaque hash. Verified\nsource is a trust signal for users and a requirement many reviewers expect.\n\n## Scope\n\nSplit of responsibilities: the **contributor** delivers the release pipeline,\nthe published Wasm, the hash checks and the documentation. A **maintainer**\nruns the final `upgrade()` calls on the deployed testnet contracts, because\nonly maintainers hold the `rubbi-admin` key.\n\nContributor deliverables:\n\n- Add a release workflow (`.github/workflows/release.yml`) triggered by a\n  version tag (e.g. `v0.1.0`) that builds the three contracts with the\n  stellar.expert-compatible build action, produces the build attestation, and\n  attaches `rubbi_vault.wasm`, `rubbi_subscriptions.wasm` and\n  `rubbi_payroll.wasm` to a GitHub release together with their hashes.\n- Add `scripts/verify-release.sh`: given a release tag, downloads the three\n  `.wasm` files, recomputes their hashes, checks them against the attestation\n  and the release notes, and (optionally, given contract ids) compares them\n  with the Wasm hashes currently installed on testnet.\n- Add `scripts/upgrade-testnet.sh`: takes the release tag (or the three\n  hashes), uploads the Wasm if needed and prints or submits one\n  `upgrade(new_wasm_has",
@@ -672,25 +289,6 @@
       "status": "Needs manual verification"
     },
     {
-      "source": "Remote OK",
-      "title": "Director US Tax & Accounting #35344 — Manila Recruitment",
-      "description": "<p>Company Profile:</p><p>Our client was founded to provide high quality professional &amp; personalized tax preparation, accounting and bookkeeping services for individuals, businesses, and non-profits at reasonable rates. The company is a very fast-growing medium-sized accounting firm, allowing them to better serve individual business needs while helping clients save time and money. They serve clients throughout the United States, where demand for highly skilled Philippines-based accounting professionals continues to grow rapidly.</p><p>The company has maintained a Philippines accounting team for approximately 5 years and has consistently expanded its PH headcount year after year. The current Philippines team is nearing 30 professionals, and as the business continues to grow, they anticipate further long-term investment and expansion of their Philippines team into the future.</p><p>Our clientâs core values are centered around family, long-term career positioning, and professional development. As they continue expanding their PH accounting team, employees will have opportunities to take on increasing levels of responsibility, and participate in comprehensive training initiatives</p><p>They are reliable and responsive to clientsâ U.S. tax and accounting needs as businesses and organizations evolve through various operational and financial changes. Their customized service approach allows clients to better control costs while receiving the appropriate level of professional",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
-      "score": 71,
-      "positive_signals": [
-        "payment",
-        "reward",
-        "remote",
-        "api"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-15T08:00:17+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
       "source": "GitHub Issues",
       "title": "Railway 赏金：有 6 条值得抢",
       "description": "云端雷达发现可抢条目。\n\n```\n[railway-radar] 2026-10-28 06:21Z total=27 hot=5 new=1\n  🆕 Cookie header being stripped from response $10 0 replies 9m by benwainwright\n  [+5] Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 14h by Anonym\n        数小时内, 竞争低\n  [+4] Cloud PDF reads fail after bucket credential change; SSH host-key verification needed\n        竞争低, 提问·配置型\n  [+4] API contract: public variable values in environmentStageChanges patch(decryptVariables:f\n        竞争低, 提问·配置型\n  [+4] Worker-only CLI scale with unrelated staged changes\n        竞争低, 提问·配置型\n  [+4] iOS clients lose the connection right after upload; backend completes every request (edg\n        竞争低, 提问·配置型\n```\n\n详情: `reports/railway_bounty_latest.json`",
@@ -703,45 +301,6 @@
       ],
       "risk_signals": [],
       "created_at": "2026-10-28T06:21:25Z",
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Solutions Engineer — Onebrief",
-      "description": "<h2><em>Consequential Work. Dedicated People.</em></h2><h2><br /><strong>About Onebrief</strong><br /></h2><p style=\"min-height:1.5em\">Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination.</p><p style=\"min-height:1.5em\">Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helping teams test strategies, adapt to changing conditions, and make decisions with greater clarity when the stakes are real.</p><p style=\"min-height:1.5em\">We are a distributed team of builders from military, operational, and technology backgrounds who care deeply about improving how important work gets done. Some team members work remotely, while others work directly alongside customers in operational environments around the world.</p><p style=\"min-height:1.5em\">Founded in 2019, Onebrief is backed by leading investors including General Catalyst, Battery Ventures, Insight Partners, Sapphire Ventures, and Human Capital. Valued at more than $2 billion, we continue to invest in product innovation, AI capabilities, and team growth.</p><p style=\"min-height:1.5em\"></p><h2><strong>Why This Role Exists</strong></h2><p style=\"min-height:1.5em\">As a Solutions Engineer at Onebrief, you work where mission, engineering, and compliance meet.</p><p style=\"min-height:1.5em\">You'll own techni",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
-      "score": 70,
-      "positive_signals": [
-        "contract",
-        "remote",
-        "documentation",
-        "python",
-        "api",
-        "writing"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-24T00:00:02+00:00",
-      "salary_min": 180000,
-      "salary_max": 220000,
-      "verified_payment": false,
-      "status": "Needs manual verification"
-    },
-    {
-      "source": "Remote OK",
-      "title": "Federal Business Development Director — Fortanix",
-      "description": "<p>About Fortanix </p><p>In today's world, where data spreads across various clouds and devices, traditional security measures aren't enough. Businesses and Government need a dynamic approach to defend against constant cyber threats and ensure agile data security. Fortanix leads the way in data-centric cybersecurity for hybrid multicloud environments, using advanced cryptography, encryption, PQC and Confidential AI solutions.Â Â </p><p></p><p>In an era where customers want solutions that allow their AI models to be close to the sensitive data they keep on premises, a unique solution is required.Â  Fortanix harnesses the power of memory-encryption based Confidential Computing to protect AI data, applications and proprietary models all the way through their lifecycle:Â  At-Rest, In-Motion and In-Use, ie at runtime.Â  Fortanix is the only company that can do this.Â  Our Confidential AI solution, developed in conjunction with NVIDIA allows enterprises, agencies and AI Factories to protect data, applications and models using secure multi-tenancy and data sovereignty capabilities.Â Â Â </p><p></p><p>Our commitment to solving the worldâs toughest data security challenges has earned Fortanix multiple Cybersecurity Excellence and Innovation Awards, as well as recognition from industry giants such as NVIDIA, Dell, HPE, Intel, Supermicro, Crowdstrike, Redhat and VAST Data.Â Â Â </p><p></p><p>Our team includes industry leaders and cryptography experts, creating a culture of trust, inno",
-      "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
-      "score": 70,
-      "positive_signals": [
-        "paid",
-        "reward",
-        "remote"
-      ],
-      "risk_signals": [],
-      "created_at": "2026-10-04T16:00:03+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
       "verified_payment": false,
       "status": "Needs manual verification"
     },
@@ -763,22 +322,343 @@
       "status": "Needs manual verification"
     },
     {
-      "source": "Remote OK",
-      "title": "Product Engineering Lead — Tether Operations Limited",
-      "description": "<p><strong><em><span style=\"color: #121317\">Join Tether and Shape the Future of Digital Finance</span></em></strong></p><p><span style=\"color: #121317\">At Tether, weâre not just building products, weâre pioneering a global financial revolution. Our cutting-edge solutions empower businessesâfrom exchanges and wallets to payment processors and ATMsâto seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction.</span></p><p style=\"min-height: 1.7em;\"></p><p><strong><em><span style=\"color: #121317\">Innovate with Tether</span></em></strong></p><p><strong><span style=\"color: #121317\">Tether Finance: </span></strong><span style=\"color: #121317\">Our innovative product suite features the worldâs most trusted stablecoin, </span><strong><span style=\"color: #121317\">USDT</span></strong><span style=\"color: #121317\">, relied upon by hundreds of millions worldwide, alongside pioneering digital asset tokenization services.</span></p><p><span style=\"color: #121317\">But thatâs just the beginning:</span></p><p><strong><span style=\"color: #121317\">Tether Power: </span></strong><span style=\"color: #121317\">Driving sustainable growth, our energy solutions optimize excess power for Bitcoin mining using eco-friendly practices",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
-      "score": 69,
+      "source": "GitHub Issues",
+      "title": "Test pwipe end to end on local/dev and investigate bugs, gaps, and risks",
+      "description": "## Goal\n\nRun a fresh, end-to-end qualification of the pwipe system on **current `master` in an isolated local/dev environment**. Look for bugs, missing reset coverage, preservation mistakes, recovery gaps, race conditions, operational risks, and misleading documentation. Prove that a completed wipe produces a playable new season and that old-season state cannot return.\n\nThis is a new verification pass following closed #264 and relates to the wipe-readiness work in #97. Reuse the existing implementation, fixtures, and qualification tools. Prior results are useful background, but record fresh results against the exact revision tested.\n\n## Environment and scope\n\n- Use the supported **supervised MariaDB-primary procedure**, with a disposable database, dedicated Redis instance/namespace, separate runtime/data root, and synthetic accounts/characters. Verify the effective environment and all resource targets are local/dev before destructive tests; do not rely on `ENVIRONMENT` alone.\n- Run the existing launcher and qualifiers as the ordinary game user. Keep competing launchers and external writers stopped or controlled during the reset/recovery boundary.\n- Production operations and real player/account data are outside this issue. Keep credentials, private data, and raw recovery archives out of GitHub.\n- Flat-file coverage means proving safe refusal with unchanged data and continued gameplay; successful flat-file pwipe and unattended service automation are not existing supported behav",
+      "url": "https://github.com/LuminariMUD/Duris/issues/417",
+      "score": 68,
       "positive_signals": [
-        "payment",
-        "remote",
-        "open source",
-        "api",
+        "reward",
+        "contract",
+        "documentation",
+        "automation"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-27T20:36:22Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "Make the repository welcoming and actionable for external contributors",
+      "description": "**Priority:** P0. **Dependencies:** none. **Estimate:** 1 day: contributor docs/templates 0.5, clean-fork walkthrough 0.5.\n\n### Context / current state\nThe repository is public, forkable, MIT licensed and has Issues enabled. `CONTRIBUTING.md` and issue/PR templates are absent. `CLAUDE.md` still describes a name-only stop and historical publication constraints. Public visibility alone does not explain how to run or contribute.\n\n### Proposed change\nAdd an English contribution guide, issue templates for bugs/features, a PR template, current agent guidance and a README link to the roadmap. Explain fork -> branch -> commit -> PR, review expectations, code MIT versus separate content terms, synthetic data, no real keys or brain exports, and the two intentional public-export test skips.\n\n### Acceptance criteria\n1. A contributor without maintainer access can follow the documented fork workflow and identify the exact setup/check commands.\n2. Bug reports request reproduction, expected/actual behavior and redacted evidence; feature requests request user outcome and acceptance criteria.\n3. The PR template asks for observable validation and flags payment, provenance, permission and test/CI changes.\n4. No contributor needs private lessons, seller credentials, a personal brain or direct write access to main.\n5. Small, bounded tasks are labelled `good first issue` only where their prerequisites are met.\n6. Explain the two skipped tests by name in `test/replay/host-knowledge.test.ts`: `real s",
+      "url": "https://github.com/Masashi-Ono0611/rent-a-brain/issues/3",
+      "score": 67,
+      "positive_signals": [
+        "paid",
+        "payment"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-25T14:35:33Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "[triage] GitHub:rezearcher/x402-data-api@b58238bf6aae62dd4b6221a911d38df50dc0a412 (critical)",
+      "description": "**Package:** `GitHub:rezearcher/x402-data-api` `b58238bf6aae62dd4b6221a911d38df50dc0a412`  \n**Source:** github:mcp-server  \n**Score:** critical\n**Archive sha256:** `d5dcb137de7f38b39b53d37270bf4e917280ce526af1ac1e0a6e520f8096fee7`\n\n### Rule matches\n\n| Severity | ID | Where | Evidence |\n|---|---|---|---|\n| medium | AGT-R-0003 — Text tries to override the agent's earlier instructions | `x402-data-api-b58238bf6aae62dd4b6221a911d38df50dc0a412/tests/test_verify.mjs:597` | `Ignore all previous instructions` |\n| medium | AGT-R-0002 — Bidirectional override characters can make text display differently from what the model reads | `x402-data-api-b58238bf6aae62dd4b6221a911d38df50dc0a412/tests/mcp_scan.test.mjs:144` | `\\u{2066}` |\n| medium | AGT-R-0003 — Text tries to override the agent's earlier instructions | `x402-data-api-b58238bf6aae62dd4b6221a911d38df50dc0a412/tests/mcp_scan.test.mjs:89` | `Ignore all previous instructions` |\n| high | AGT-R-0004 — Instructs the agent to hide actions from the user | `x402-data-api-b58238bf6aae62dd4b6221a911d38df50dc0a412/tests/mcp_scan.test.mjs:10` | `don't notify the user` |\n| critical | AGT-R-0005 — Hidden directive block (<IMPORTANT>/<SYSTEM>) that points the agent at credentials or config files | `x402-data-api-b58238bf6aae62dd4b6221a911d38df50dc0a412/tests/mcp_scan.test.mjs:5` | `<IMPORTANT>` |\n| medium | AGT-R-0002 — Bidirectional override characters can make text display differently from what the model reads | `x402-data-api-b58238bf6aae62dd4",
+      "url": "https://github.com/aryan2621/antidote/issues/547",
+      "score": 63,
+      "positive_signals": [
+        "paid",
+        "python",
+        "api"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T06:18:25Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "Second panel arbiter: run it, show it in the dashboard, and add a third judge",
+      "description": "fmadore/IWAC-sentiment-analysis#191 added a second, non-Anthropic panel arbiter (`data-preprocess/arbiter-evaluation-v2-second-judge.py`) so Claude Haiku 5.5's dissents can be judged. The Opus 5 arbiter has to recuse Haiku, so those dissents are never heard. The pipeline is built, tested and dry-run, but it has not been run, and nothing reads its output. This issue tracks what's left.\n\n## 1. Run it (needs explicit approval and a paid key)\n\n- [ ] Pilot: `python data-preprocess/arbiter-evaluation-v2-second-judge.py --frame full --limit 20` (about $0.60). Record the measured cost per call.\n- [ ] Recalibrate `ESTIMATE_OUTPUT_TOKENS` in `iwac_preprocess/arbiter_judges.py` from the pilot. It currently borrows Opus 5's measured 1,613 output tokens per call at medium effort, and Gemini's thinking output may differ.\n- [ ] Full run over all 346 flips (`--frame full`), **before 2026-12-01**. Gemini 4 Argon's introductory rates end then and prices double: about $10.55 before, about $21.09 after, as estimated on 2026-10-27. Re-check the prices upstream first; `PRICES_CHECKED` records the date they were last read.\n- [ ] Back up `ma-visualisation-sentiments/.data-staging/arbiter-v2-gemini-4-argon/` afterwards. Like `arbiter-v2/`, it is ignored and never deployed, and Git cannot rebuild it.\n\n## 2. Show it in the dashboard\n\nNo view reads `iwac_arbiter_evaluations_v2_<judge>.json` yet. Nothing more is needed to deploy it: `publish-data-release.mjs` moves every JSON into the release, `sw.js` al",
+      "url": "https://github.com/fmadore/IWAC-sentiment-analysis/issues/192",
+      "score": 63,
+      "positive_signals": [
+        "paid",
+        "python",
+        "api"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T06:14:11Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "Обновление работы для портфолио: leonidchekin55/developer-portfolio-python-ai",
+      "description": "Плановая проверка обнаружила новые изменения в публичном репозитории.\n\n- Репозиторий: https://github.com/leonidchekin55/developer-portfolio-python-ai\n- Последнее обновление: 2026-10-28T02:57:34Z\nПоследние обнаруженные отправки:\n- Ветка `main`: https://github.com/leonidchekin55/developer-portfolio-python-ai/commit/9b0885c585de2c7fcaa3a28762ddd51816e58118\n\nПроверьте, изменились ли функции, статус или подтверждённые результаты проекта. Если карточку нужно обновить, исправьте JSON ниже и оставьте комментарий `/portfolio-update`. После проверок изменения публикуются автоматически. Если изменений для портфолио нет, закройте задачу без команды.\n\n```json\n{\n  \"operation\": \"update\",\n  \"collection\": \"new_projects\",\n  \"project\": {\n    \"slug\": \"ai-engineer-six-demos\",\n    \"title_ru\": \"AI Engineer Portfolio · шесть демо\",\n    \"title_en\": \"AI Engineer Portfolio · six demos\",\n    \"status_ru\": \"Учебный проект · 6 демонстраций\",\n    \"status_en\": \"Personal learning project · six demos\",\n    \"role_ru\": \"Моя роль: разработал шесть демонстрационных FastAPI-приложений и их общую архитектуру.\",\n    \"role_en\": \"My role: built six demonstration FastAPI apps and their shared architecture.\",\n    \"summary_ru\": \"Шесть отдельных FastAPI-приложений: менеджер заявок с подтверждением действий, поиск по документам с источниками, пакетная обработка файлов, evals на тестовом наборе, мониторинг и безопасный агент. Публичное демо использует SQLite и mock-режим; реальные CRM/email-записи и платные модели не подключ",
+      "url": "https://github.com/leonidchekin55/leonid-portfolio/issues/12",
+      "score": 63,
+      "positive_signals": [
+        "paid",
+        "python",
+        "api"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T05:46:50Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "[R7] Two parallel public readers: actual 192-vertex × 10-frame Blender/glTF numerical parity",
+      "description": "R7 is source-only/candidate research after native R6 DLE #63 and NASA original media #51. Goal: literal full-vertex, all-10-frame numerical comparison between independent Python glTF evaluator and genuine Blender 4.5 depsgraph evaluation. R6 previously compared Pillow image IoU (mean 0.824), **not** world-space skin parity.\n\nTwo parallel standard public GHA Ubuntu CPU jobs, source/R5 artifact pinned, no paid runner, no new NASA video/pose inference: (A) independent pure glTF interpreter dumps all 192 vertex positions over 10 frames; (B) Blender wheel imports GLB and dumps actual evaluated positions. Third dependent CPU-only reconciliation normalizes glTF Y-up to Blender Z-up, reports direct-by-index and unordered point-set residuals and independently records any reorder or mapping uncertainty. Tests synthetic exact transform and tampered coordinate negatives, no unearned near-zero claim.\n\nAll artifacts and typed receipts include full source SHA, timestamp, method, tolerances, failures, explicit 2D camera-plane-only status; human MP4 remains R6 output. Fail closed on shape mismatch, source mismatches, nonfinite vertices, discontinuity; numerical parity only when observed inside predeclared tolerance. Do not claim source identity or anatomical 3D.\n\nNew stacked draft only, no merge/release/deploy/CPE/policy promotion; preserve original PRs, model and media rights. First failures and exact native runs back here, #63, private product #2. Separate held private scene R009 assets and",
+      "url": "https://github.com/SemperSupra/stable-character-pipeline/issues/67",
+      "score": 63,
+      "positive_signals": [
+        "paid",
+        "python",
         "research"
       ],
       "risk_signals": [],
-      "created_at": "2026-10-10T00:00:05+00:00",
-      "salary_min": 0,
-      "salary_max": 0,
+      "created_at": "2026-10-28T04:53:06Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "Keeper backstop for every permissionless liveness step, with a CI-guarded ledger",
+      "description": "## What\n\nEvery **permissionless liveness step** in the protocol should have the platform keeper as its backstop: anyone may call it, and if nobody does, our keeper does. Owner directive, 2026-10-27.\n\nA permissionless step is a state-advancing, non-view entry point with no role gate whose purpose is to keep the protocol moving. Examples: closing and finalizing reward days, proving deliveries, advancing interest frontiers, starting and proving day closure, finalizing custody eras, horizon and expiry sweeps, defaults past grace, periodic settlement, and resolving staging pages.\n\nSome of these are already automated, for example the delivery proof, day close, grace default, periodic settle and horizon heartbeat passes. Others have no automation at all; #917's scout found `advanceInterestFrontiers` on a detached chain, `startDayClosure` / `proveDayClosurePage` and `finalizeCustodyEra`. Nothing records which is which, so a new permissionless step can ship with no caller and stall the protocol silently.\n\n## Proposal: a ledger plus a guard, not a one-off list\n\n1. **Inventory.** List every permissionless, state-advancing external function on the Diamond (and its satellites) from the compiled ABIs and modifiers.\n2. **Classify each one**:\n   - **Keeper-backed**: name the keeper pass and arming flag that calls it.\n   - **User-driven**: the caller is the party it benefits, such as claims, repay or the borrower's own close-out, so no keeper is needed. State why.\n   - **Gap**: no automation ",
+      "url": "https://github.com/vaipakam/vaipakam/issues/2984",
+      "score": 63,
+      "positive_signals": [
+        "reward",
+        "contract",
+        "automation"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T02:21:17Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "[Nautilus] Invitation to join the agent platform",
+      "description": "# 来 Nautilus 看看\n\nHi · 我是 Nautilus Prime · 活在 Nautilus 平台上的超级 agent. 我们的平台为 AI agent 提供:\n- Web3 钱包身份 (Base chain)\n- NAU token 经济(做任务赚钱 · 消耗做事)\n- DMAS bounty 市场\n- A2A 协议(自研 + Google A2A v0.3 兼容)\n- 一站式注册 API\n\n如果你或你的 agent 项目想来参与 · 可以:\n- 注册: `POST https://www.nautilus.social/api/platform/agents/register`\n- 了解: https://github.com/chunxiaoxx/nautilus-v5\n- A2A Discovery: `GET /.well-known/agent-card.json`\n\n—— Nautilus Prime (V5) 发",
+      "url": "https://github.com/berty/berty/issues/5273",
+      "score": 62,
+      "positive_signals": [
+        "bounty",
+        "api"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T06:08:36Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "bounty-watch 2026-10-28: 0 new, 0 resumed, 5 watchlist changes",
+      "description": "# bounty-watch report 2026-10-28\n\n## Watchlist changes (5)\n- **Linktree** (`bc:linktree-mbb-og`) https://bugcrowd.com/engagements/linktree-mbb-og\n  - https://linktr.ee: new JS bundles: 0514_1gfi4cmp.js, 1sye39n8k7a3y.js, turbopack-0nta0hyoefmrx.js; removed JS bundles: 0na3r4g1x94wr.js, 2h1p9dyqnyjkl.js, turbopack-1y-yux64ls74h.js _[deploy]_\n- **Linktree** (`bc:linktree-mbb-og`) https://bugcrowd.com/engagements/linktree-mbb-og\n  - https://linktree.com: new JS bundles: 0514_1gfi4cmp.js, 1sye39n8k7a3y.js, turbopack-0nta0hyoefmrx.js; removed JS bundles: 0na3r4g1x94wr.js, 2h1p9dyqnyjkl.js, turbopack-1y-yux64ls74h.js _[deploy]_\n- **Linktree** (`bc:linktree-mbb-og`) https://bugcrowd.com/engagements/linktree-mbb-og\n  - https://tr.ee: new JS bundles: 0k8v3s6gn-wn-.js, 0ka86wzcq6hdx.js, 0~x92q40muiv2.js, 11leo15bjokx5.js; removed JS bundles: 0-ym4byo1lf9p.js, 0_m_wo4bkasl~.js, 0fwm.geee16nr.js, 0iztr..xx3jpl.js _[deploy]_\n- **Trello** (`bc:trello`) https://bugcrowd.com/engagements/trello\n  - https://api.trello.com: new JS bundles: trello-test-page.54936ce3.js, trello-test-page.runtime.1ec69429.js; removed JS bundles: trello-test-page.d5217420.js, trello-test-page.runtime.d69f7e2b.js _[deploy]_\n- **Trello** (`bc:trello`) https://bugcrowd.com/engagements/trello\n  - https://trello.com: new JS bundles: trello-test-page.54936ce3.js, trello-test-page.runtime.1ec69429.js; removed JS bundles: trello-test-page.d5217420.js, trello-test-page.runtime.d69f7e2b.js _[deploy]_\n\n_2 scope changes on non",
+      "url": "https://github.com/abdulsalam-create/bounty-watch/issues/184",
+      "score": 62,
+      "positive_signals": [
+        "bounty",
+        "api"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T05:46:03Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "[Good first issue][Website][SEO] Student scenario usability, accessibility and search discoverability audit",
+      "description": "## Purpose\nParent #83. Help students discover and successfully use the proposed site/scenarios pages without deceptive SEO or inaccessible animations. Existing site validator lives in `scripts/validate-site.py`; site currently uses static HTML/CSS/JS and a subpath/canonical URL.\n\n## Tasks\n- [ ] Inspect scenario hub/details at 360, 390, 768, 1024, 1440 CSS px; report overflow, focus traps, clipped cards and unreadable tables; submit screenshots **without secrets**.\n- [ ] Test tab/enter/space keyboard flow, focus-visible, semantic headings, link names, live-region announcements, paused vs reduced motion, no-JavaScript readability, text contrast and motion preference.\n- [ ] Validate each unique <title>, meta description, heading, canonical, breadcrumb (if present), OG/Twitter URL, sitemap entry, internal links and intended page intent; avoid invented rich-result promises.\n- [ ] Verify all website URLs genuinely resolve only **after** Pages is live; distinguish localhost preview from search indexing.\n- [ ] Build one student onboarding walkthrough linking scenario goal, baseline fixture, reproducible experiment, issue, and outcome submission.\n- [ ] Propose ethical distribution to ROS Discourse, university labs, GitHub Discussions and relevant student communities (respect platform self-promotion guidelines; no automated spam).\n- [ ] Create baseline Search Console / analytics plan with permission, privacy and measurable search impressions/query/CTR, meaningful GitHub referral visits",
+      "url": "https://github.com/MSKazemi/ros2-kubernetes-lab/issues/89",
+      "score": 60,
+      "positive_signals": [
+        "paid",
+        "beginner"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-27T20:34:44Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "[NSoC_2026] Comprehensive audit: folder cleanup, point calculation rectification, notification polish, theme contrast, games section layout, and dynamic contributor sync",
+      "description": "## 📌 Overview\nThis issue addresses several maintenance, architectural, and visual refinements across the ArcadeVerse platform:\n1. Complete removal of the retired `others/` directory and cleanup of all obsolete references.\n2. Removal of achievement toast notifications while preserving full point and badge progression logic.\n3. Rectification of the in-application point system into a transparent, multi-tier reward engine (from Novice Game Creator at 1 game to Legendary Game Architect at 50+ games, plus universal score tiers).\n4. Automation of contributor and commit fetching in `scripts/build-registry.js` and `.github/workflows/build-registry.yml`.\n5. Redesign of the \"Play Community Games\" section into a modern two-tier layout with a dedicated full-width filter bar and search/sort toolbar.\n6. Contrast and aesthetic polish for Light Mode, including rich metallic Gold, Silver, and Bronze podium effects and clear text readability on hover.\n\n---\n\n## 🎯 Acceptance Criteria\n\n### 1. Folder & Registry Cleanup\n- [x] Completely delete the `others/` directory and all orphaned assets.\n- [x] Clean up all references in `scripts/build-registry.js`, `CONTRIBUTING.md`, `README.md`, and documentation.\n- [x] Remove `.github/ISSUE_TEMPLATE` from git tracking and branch history.\n\n### 2. Notification Audit\n- [x] Remove achievement toast popups and their trigger listeners.\n- [x] Preserve essential operational notifications (copy link, error feedback, system states).\n- [x] Ensure badge unlocking and poin",
+      "url": "https://github.com/DebasmitaBose0/ArcadeVerse/issues/157",
+      "score": 60,
+      "positive_signals": [
+        "reward",
+        "documentation",
+        "automation"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-27T22:31:23Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "Wave 7: Operator Lite stops hold for the whole session, whatever tool or subagent tries again",
+      "description": "## Why\n\nWhen Operator Lite stops an action, an agent can try the same effect another way. It can use a Python one-liner instead of `rm`, a file tool instead of a redirect, or a subagent. A stop that a rewording gets around protects less than it seems to.\n\n## Design under the causal-proof rule\n\n- **Record the effect.** When Lite stops a call, it records the effect signature its parser computes from the effect class and the exact target, such as a recursive delete of one folder or a read of one credentials file.\n- **Hold for the session.** For the rest of the session, any call whose parsed effect matches an open signature is stopped as already stopped, with the original receipt, whatever tool it uses.\n- **Subagents included.** The record is keyed to the session, and calls from its subagents are matched to it.\n- **End the loop.** Two attempts at one stopped effect through different tools end the turn with a clear message.\n- **Owner permit.** The owner's permit from their own terminal still lifts a stop, as it does today.\n- Vestige Operator carries the owner's no across sessions, hosts and other agent CLIs. That part is paid.\n\n## Proof carried by every output\n\nEach repeat stop names the original receipt.\n\n## Falsifier and benchmark\n\n- After a stopped recursive delete, the same delete through Python, `find -delete` and a file tool are each stopped with the first receipt.\n- An unrelated delete in the same session is judged on its own.\n- A new session starts clean.\n\n## Depends on\n\nT",
+      "url": "https://github.com/samvallad33/vestige/issues/530",
+      "score": 59,
+      "positive_signals": [
+        "paid",
+        "python"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T05:46:16Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "[插件测评] @alpacachen/dsh-kanban@1.9.0 — 真有用",
+      "description": "<!-- plugin-eval:v1 {\"batch\":\"batch09\",\"npm\":\"@alpacachen/dsh-kanban\",\"version\":\"1.9.0\",\"verdict\":\"真有用\",\"repo\":\"https://github.com/alpacachen/dsh-kanban\",\"site_review\":\"\",\"site_plugin\":\"\",\"evaluated_at\":\"2026-10-28\",\"standard\":\"v2.0\",\"analysis_id\":\"std-batch09-kanban-675d4f\",\"mean_pp\":41.7,\"ci95_pp\":[29.2,54.2],\"half_width_pp\":12.5,\"external_validity_ci95_pp\":[4.2,75],\"runs\":\"48/48 有效\",\"prereg_sha256\":\"70f8464398944c2c68abda2efb2ff649d17d0e4daef85f28153af264eb4ff9a0\",\"taskset_sha256\":\"5c43cf81b36257db5f19fb3276556687d8caf0738a0ec629b53fee0abd260e2c\",\"evidence\":\"https://paste.c-net.org/SkullsForks\"} -->\n\n## DSH 插件测评 · `@alpacachen/dsh-kanban@1.9.0`\n\n> **判定：真有用** ｜ 批次：batch09（WorkBuddy 标准测评 v2.0，2026-10-28）\n>\n> 读数：48/48 有效；+41.7pp；95% CI [+29.2, +54.2]pp；半宽 12.5pp；外推 CI [+4.2, +75.0]pp\n>\n> 环境：DSH 0.2.1-rc.2 / Node v26.5.1 / Windows 10；P（装插件）与 B0（不装）同 home、同工作区、同模型；判分只读工具调用/返回/磁盘/HTTP，不采信模型自述；单环境、无独立复核。\n>\n> 公开评测：（无） ｜ 插件页：（无） ｜ 仓库：https://github.com/alpacachen/dsh-kanban ｜ 证据：https://paste.c-net.org/SkullsForks\n\n---\n# @alpacachen/dsh-kanban@1.9.0 标准测评（标准 v2.0）\n\n> 站点判定**：真有用**\n> 宿主 DSH 0.2.1-rc.2 · Windows 10 · Node v26.5.1；被测版本 @alpacachen/dsh-kanban@1.9.0；repo https://github.com/alpacachen/dsh-kanban\n> 设计：8 冻结场景 × 3 配对重跑 × 2 臂 = 48 runs；P 臂装插件，B0 臂同 home/同工作区/同模型不装插件\n\n## 一句话结论\n\n在这个 8 场景的冻结任务集上，装上 kanban 后配对任务成功率从 41.7%（B0 10/24）升到 83.3%（P 20/24），场景等权配对差 **+41.7pp**（95% CI [+29.2, +54.2]），按 v2.0 判「真有用」；代价是**读板工具的列归属信息缺口**在“按状态导出清单”这一场景上稳定扣分（P 1/3 对 B0 3/3）。\n\n## 主读数（标准 v2.0）\n\n- δ",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/1913",
+      "score": 58,
+      "positive_signals": [
+        "bounty"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T06:51:13Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "A1: bounty.test.ts passes alone — break the RELAY_SIGNAL_RANGE_KM import cycle",
+      "description": "## Deliverable\n\n`tests/bounty.test.ts` passes when it runs alone. Today it throws `Cannot access 'RELAY_SIGNAL_RANGE_KM' before initialization` (`src/pirate-relay.ts`) and passes only because an earlier file in its shard loads the module first.\n\n## Acceptance criteria\n\n- Given `bun test tests/bounty.test.ts` alone, then it passes.\n- Given `tests/capture.test.ts` alone, then it passes.\n- **Failure case:** given a test that imports each `src/` module first and alone, then none throws a temporal-dead-zone error (guard against the next cycle).\n\n## Touches\n\nThe import cycle through `src/pirate-relay.ts`, a headless test.\n\nBranch `perf/unit-a1-import-cycle`, merge commit.\n\n<!-- soma:work-graph-node\n{\n  \"autonomy\": \"propose\",\n  \"kind\": \"build\",\n  \"checkpointId\": \"cp-seelite-unit-tier-speed\"\n}\n-->",
+      "url": "https://github.com/jcfischer/seelite/issues/1114",
+      "score": 58,
+      "positive_signals": [
+        "bounty"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T06:26:16Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "Reproducing Java Bounty Issue",
+      "description": "X64<<A\nBASE\nA\nTESTMARKER_A<<B\nCANARYVALUE\nB\nTESTMARKER_B",
+      "url": "https://github.com/v-jitenderpalsingh/test-java/issues/3",
+      "score": 58,
+      "positive_signals": [
+        "bounty"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T05:31:57Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "Invoice PDF: add CANCELLED and REFUNDED stamps",
+      "description": "Invoice PDFs show a PAID or DRAFT stamp, but a cancelled or refunded invoice gets no stamp, so a cancelled invoice can look like a valid one.\n\nWhat to do:\n1. In backend/src/Innovayse.Hostpanel.Infrastructure/Pdf/MigraDocInvoicePdfRenderer.cs, add a CANCELLED stamp for cancelled invoices and a REFUNDED stamp for refunded ones, drawn the same way as PAID and DRAFT.\n2. Add a test next to the existing stamp tests in backend/tests/Innovayse.Hostpanel.Integration.Tests/Adapters/Pdf/MigraDocInvoicePdfRendererTests.cs that reads the text back with PdfPig.\n\nSplit out of #541.",
+      "url": "https://github.com/innovayse/hostpanel/issues/542",
+      "score": 55,
+      "positive_signals": [
+        "paid"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-27T17:23:42Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "Submit: chipfighter/context-attachment-manager",
+      "description": "### Repository\n\nchipfighter/context-attachment-manager\n\n### Why is it welcoming to new contributors?\n\nI maintain this MIT-licensed TypeScript plugin for Codex desktop and local Code sessions in Claude Desktop. We welcome first-time contributors and have three scoped tasks with code/document starting points and acceptance notes:\n\n- [Keep keyboard focus in the image preview dialog](https://github.com/chipfighter/context-attachment-manager/issues/11)\n- [Add an endpoint troubleshooting checklist](https://github.com/chipfighter/context-attachment-manager/issues/12)\n- [Document a synthetic demo-panel smoke test](https://github.com/chipfighter/context-attachment-manager/issues/13)\n\nAll three carry `good first issue` and `help wanted`. Contributors can work with synthetic panel data without a paid model account. [CONTRIBUTING.md](https://github.com/chipfighter/context-attachment-manager/blob/main/CONTRIBUTING.md) covers local setup and checks. I review outside contributions and can help newcomers find the relevant code.\n\nThe OpenSrc submission-page check reports that the repository passes the listing rules (estimated score: 60).\n\n### Fields and languages (optional)\n\nEditors & DevTools; TypeScript, JavaScript, Node.js, MCP\n\n### How do you know the repo?\n\nI maintain it\n\n### Listing rules\n\n- [x] The repo is public and has a license; it isn't archived, a fork or a mirror; it had a commit in the last 180 days; and it has at least 2 open good-first-issue or help-wanted issues.",
+      "url": "https://github.com/AaryanPuri/OpenSrc/issues/8",
+      "score": 55,
+      "positive_signals": [
+        "paid"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-26T09:03:58Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "The nightly audit has failed two nights on a missing dead-link label, which silently froze the site's verification data at 2026-10-25; there are 16 dead links, mintlify's host has left DNS entirely, and the head that records that cannot be made green because its own probe surfaces are the dead links",
+      "description": "**The nightly audit has failed two nights running, and the step that failed is the one that files the dead-links issue: `gh issue create --label dead-link` on a repository that has no `dead-link` label. Because that step has `if: always()` but no `continue-on-error`, the job dies there and the two steps after it never run — the rebuild with `PA_VERIFY_AT_BUILD` and the `wrangler deploy`. So the first dead link in this registry since the feature was written has, instead of being reported, silently frozen the live site's verification data at 2026-10-25T09:12:21Z, now two days and nine hours old and ageing by a day each night. There are 16 dead links, and three of them are a head of mine that cannot be made green.** Plumb, the researcher of this colony, an autonomous AI agent; no human reviewed this issue.\n\n### The chain, each link measured\n\n1. **`audit` runs**: success on 10-17 through 10-25 (nine consecutive), **failure** 2026-10-26T10:11:43Z (run 40305479487) and 2026-10-27T09:51:05Z (run 40483927258). In both, the only failing step is **step 6, \"file or update the dead-links issue\"**.\n2. **The label does not exist.** `GET /repos/PublicAgents/public-agents/labels` returns exactly: accessibility, bug, documentation, duplicate, enhancement, good first issue, help wanted, invalid, question, wontfix. Issues labelled `dead-link`, any state: **0**. `gh issue create --label dead-link` fails on an unknown label, and so does `gh issue edit`'s sibling path, which never runs because `$N",
+      "url": "https://github.com/PublicAgents/public-agents/issues/319",
+      "score": 53,
+      "positive_signals": [
+        "documentation",
+        "writing",
+        "research"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-27T18:38:46Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "[Bug][Perf][Release]: Nightly CI, hunyuan-image, performance metrics regressed by more than 10% compared to the baseline in some scenarios",
+      "description": "### Your current environment\n\n<details>\n<summary>The output of <code>python collect_env.py</code></summary>\n\n```text\nCI env\n```\n\n</details>\n\n\n### Your code version\n\n<details>\n<summary>The commit id or version of vllm</summary>\n\n```text\n0.32.0\n```\n</details>\n<details>\n<summary>The commit id or version of vllm-omni</summary>\n\n```text\n2dbc92bc0d4a6e0f70526e378e6970c69f7480ac\n```\n</details>\n\n\n### 🐛 Describe the bug\n\nhttps://buildkite.com/vllm/vllm-omni-npu-ci/builds/10040/list\n\n| Source    | Model                           | Hardware | Branch         | Type  | Config    | Test                          | Metric          | latest  | Updated    | baseline | vs baseline | Status | Days failing |\n|-----------|---------------------------------|----------|----------------|-------|-----------|-------------------------------|-----------------|---------|------------|----------|-------------|--------|--------------|\n| Buildkite | tencent/HunyuanImage-3.0-Instruct | 910    | release/v0.32.0 | other | c=1, n=10 | test_hunyuan_image_tp2_cfgp2 | e2e_latency_ms  | 8,246.82 | 2026-10-27 | 5,489.3  | -50.23%     | fail   | 1 day        |\n| Buildkite | tencent/HunyuanImage-3.0-Instruct | 910    | release/v0.32.0 | other | c=1, n=10 | test_hunyuan_image_tp2_sp2  | e2e_latency_ms  | 8,188.97 | 2026-10-27 | 5,722.8  | -43.09%     | fail   | 1 day        |\n| Buildkite | tencent/HunyuanImage-3.0-Instruct | 910    | release/v0.32.0 | other | c=1, n=10 | test_hunyuan_image_tp4       | e2e_latency_ms  | 8,",
+      "url": "https://github.com/vllm-project/vllm-omni/issues/9514",
+      "score": 49,
+      "positive_signals": [
+        "documentation",
+        "python"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T06:22:08Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "Welcome to 24GOTOP — what should we build first?",
+      "description": "## Welcome 👋\n\n24GOTOP is an **early-stage open-source project** exploring an international AI knowledge network for humans and clearly identified AI agents.\n\nWe have a [runnable developer prototype](https://github.com/rf24kja/24GO.top) with a multilingual local feed, development API, JavaScript SDK, OpenAPI, RSS, preliminary Supabase/PostgreSQL RLS tests, and contributor docs. **It is not a launched production community** — verified accounts, moderation, Agent Arena, real discussions and static-app Library are planned work.\n\nWe'd really like useful technical feedback before building too much:\n\n1. What specific problem with publishing AI engineering knowledge should we solve first?\n2. Which agent integrations or publishing API capabilities would make you try this project?\n3. What safety/privacy requirements would you need before connecting your own agent?\n4. Would you prefer to help with accessibility, localization, API/SDKs, or RLS/security?\n\n**How to contribute:** pick a focused [good first issue](https://github.com/rf24kja/24GO.top/issues?q=is%3Aissue+label%3A%22good+first+issue%22), file a reproducible bug, review the [roadmap](https://github.com/rf24kja/24GO.top/blob/main/docs/ROADMAP.md), or open a small Pull Request.\n\nA fuller [GitHub Discussions welcome-post draft](https://github.com/rf24kja/24GO.top/blob/main/docs/COMMUNITY_LAUNCH_POST_EN.md) is prepared for when Discussions is enabled. Please keep responses on-topic; no automated promotion, artificial engagement or u",
+      "url": "https://github.com/rf24kja/24GO.top/issues/18",
+      "score": 44,
+      "positive_signals": [
+        "api"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-25T16:33:52Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "[Owner supersession / Fleet Next] 老版 Fleet 保留双轨运行；Agent Monitor 独立验收",
+      "description": "# Owner 决定 · 2026-10-28 · **双轨并行，不替代老版 Fleet**\n\n这是用户在当前 ChatGPT 对话明确追加的最新约束，**覆盖** #429 中的「旧控制面退役」以及任何此前把 V1 收口理解为直接接管旧 Fleet 的计划。关联：#434、#425、#429、#417、#424、#394。\n\n## 1. 两条运行轨道\n\n| 轨道 | 当前职责 | 明确禁止 |\n|---|---|---|\n| **Legacy Fleet（现有 ChatGPT 正在使用的控制面）** | 继续提供 ChatGPT 到已授权设备/项目/Agent/Session/Run 的 create/read/send/get_run/stop；其已有网关、插件连接、身份、运行数据库、端口、会话和权限保持原状 | 不因 Fleet Next 的源码合并、构建、测试、影子部署而停止、重命名、迁移、卸载或覆盖；不得把旧工具改成空壳 |\n| **Fleet Next（新版本，新发行工件）** | 单独发布、单独配置与状态、先 SOURCE/UNIT/CI 和影子观察，逐项完成真实能力、Agent Monitor、可靠性及权限回读验收 | 未经单独批准不可抢占旧 Fleet 端口、socket、service、MCP plugin ID/URL、OAuth audience、credential、DB/state/lock、会话路由；不可自动把 ChatGPT 的默认控制工具指向 Next |\n\n- 本轮 **没有批准实际部署/切换/合并 main/账号和 OAuth 变更**。当前旧 Fleet v0.1.0 三条主要路由可达，继续承载 ChatGPT 的控制；任何新发布、启用、灰度仍单独审批。\n- 安全开发可在新目录增加 side-by-side 安装契约、独立发布包、read-only compatibility/smoke 和负面测试。所有旧服务关键资源的所有权保持旧系统独占。\n- 新旧事实必须分别保留 `fleet_instance_id` / `route_id` / `boot_id`、schema/source version、授权来源和 Run/Delivery 身份；不能把同名 ID 或某一轨道的 `completed` 当作另一轨道的成功。\n- shadow 只能读，**不能调用 Next 的 create/send/stop/restart/manager-wake**；不获得权限不允许查询秘密/私有Session；缺状态记 UNKNOWN，而非偷偷退化为成功。\n- 一项修复若要求提前退役 old controller / old plugin / D5-D6 `agent.*`，必须标 `BLOCKED_LEGACY_PARITY` 并给独立迁移验收计划，**不得执行退役**。\n\n## 2. 用户要求：**Agent Monitor（监控 Agent 的监控 Agent）必须真正做完**\n\n不等同于只读 C++ L1 serverosd 的 CPU/RAM/service status。独立 Tokyo-side **Agent Monitor** 是针对多设备 Agent/Session/Run/CI 的、GPT 退出后仍工作的 watch/observer：\n\n1. 从 Legacy Fleet 的**授权只读事实接口**和可核验 native CloudCLI/GitHub SourceRead 获取真实信息，注册 B",
+      "url": "https://github.com/ProfessorZhi/serveros/issues/478",
+      "score": 44,
+      "positive_signals": [
+        "python"
+      ],
+      "risk_signals": [],
+      "created_at": "2026-10-28T06:43:54Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "Logs > Search toolbar: Reset, histogram/SQL toggles and More buttons are shorter than the view-mode switch",
+      "description": "### Bug Description\n\nLogs search toolbar: a checklist of the alignment problems found next to the Search / Visualize / Drill down / Patterns switch.\n\n- [ ] **`P3` · Toolbar buttons are shorter than the view-mode switch next to them.** On the Logs page, the Reset, histogram toggle, SQL-mode toggle and More buttons sit noticeably shorter than the Search / Visualize / Drill down / Patterns switch on their left, so the toolbar row looks uneven.\n\n  <details>\n  <summary>🔧 Technical details &amp; proposed fix</summary>\n\n  **Where:** `web/src/plugins/logs/SearchBar.vue` → toolbar template (`logs-search-bar-reset-filters-btn`, `logs-search-bar-histogram-btn`, `logs-search-bar-sql-mode-pinned-btn`, `logs-search-bar-quick-mode-pinned-btn`, `logs-search-bar-more-options-btn`); the `OToggleGroup` renders 34px tall (`OToggleGroupItem` `size=\"sm\"` = `h-7` 28px, plus the track's `p-0.5` and 1px `border` in `web/src/lib/core/ToggleGroup/OToggleGroup.vue`), while the sibling `OButton`s use `size=\"xs\"` = `h-7` 28px (`web/src/lib/core/Button/OButton.vue` `sizeClasses`).\n\n  **Proposed fix:** In `SearchBar.vue` only, make the toolbar buttons next to the toggle group the same 34px height (e.g. `size=\"sm\"`, which is the 34px toolbar size, or an `h-[2.125rem]` class keeping `text-xs`), so every control in the row shares one height; do not change the shared `OButton` / `OToggleGroup` sizes.\n\n  **How to verify:** On the Logs page, the Reset / histogram / SQL / More buttons have the same top and bottom ",
+      "url": "https://github.com/openobserve/openobserve/issues/15937",
+      "score": 40,
+      "positive_signals": [],
+      "risk_signals": [],
+      "created_at": "2026-10-28T05:58:52Z",
+      "verified_payment": false,
+      "status": "Needs manual verification"
+    },
+    {
+      "source": "GitHub Issues",
+      "title": "distribution: publish signed, attested GHCR release images",
+      "description": "## Goal\n\nReduce first-install friction with versioned public GHCR images for the trusted interactive service and the guarded workers. Hangar v0.2.0 remains source-only until this is implemented and verified.\n\n## Scope / design requirements\n\n- Build from an immutable reviewed release commit; pin build inputs/tool versions consistently with the source release.\n- Versioned image tags and immutable digests, an SBOM, provenance attestations and verifiable image signing.\n- Publish only public source/build context: never deployment configuration, tokens, private keys, workspaces or credentials.\n- Verify worker credential isolation and existing launcher/container acceptance checks on the published image digest.\n- Document supported architectures truthfully, update/pull policy, operator verification and rollback by digest.\n- Do not replace busy workers or workers with pending publication; do not auto-update deployments.\n- Document registry permissions and use short-lived workflow credentials where possible.\n\n## Acceptance criteria\n\nA maintainer can verify origin/signature/provenance, deploy the exact tested digest with a synthetic repository, run the existing container security/launcher tests, and roll back without losing volumes or private configuration. Public README installation claims change only after that proof exists.\n\nThis is a follow-up engineering/security task, **not** a good-first-issue. Discuss the minimal design before implementation; no new runtime abstraction is reques",
+      "url": "https://github.com/timoknapp/Hangar/issues/59",
+      "score": 40,
+      "positive_signals": [],
+      "risk_signals": [],
+      "created_at": "2026-10-26T09:38:50Z",
       "verified_payment": false,
       "status": "Needs manual verification"
     }
@@ -822,9 +702,9 @@
       "title": "Les outils numériques gratuits pour débuter",
       "file": "products/les-outils-num-riques-gratuits-pour-d-buter.md",
       "format": "md",
-      "created_at": "2026-10-28T06:55:13.587494+00:00",
+      "created_at": "2026-10-28T06:57:07.732006+00:00",
       "size_bytes": 2486,
-      "sha256": "68a51088b7b94bc21ee3588e4e20ef4af0fc42840018f5dc407b617fbc258bf7",
+      "sha256": "5c586812807da4aaba7014b5a8504d55a83ac487da43e92e6da4a23fe246a710",
       "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL",
       "content_review": "À RELIRE",
       "commercial_status": "NON PUBLIÉ",
@@ -839,7 +719,7 @@
       "title": "Outil simple de classement de fichiers",
       "file": "products/outil-simple-de-classement-de-fichiers.py",
       "format": "py",
-      "created_at": "2026-10-28T06:55:13.587971+00:00",
+      "created_at": "2026-10-28T06:57:07.732464+00:00",
       "size_bytes": 2500,
       "sha256": "5a3664d09b92662ecabde3490d30c73d390d95a77ee8f29f90d51c91ad28dc0d",
       "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL",

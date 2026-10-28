@@ -2,12 +2,12 @@
 
 **Version:** 3.0.0
 
-**Generated:** 2026-10-28T06:55:13.588371+00:00
+**Generated:** 2026-10-28T06:57:07.732918+00:00
 
 ## Summary
 
 - Opportunities found: 40
-- High-priority opportunities: 38
+- High-priority opportunities: 16
 - Product ideas: 3
 - Products generated: 2
 - Verified sales: 0
@@ -16,20 +16,11 @@
 ## Source status
 
 - **GitHub Issues:** OK: 40 results
-- **Remote OK:** OK: 99 results
+- **Remote OK:** OK: 0 results
 
 ## Top opportunities
 
-### 1. Accounting & Finance Manager — Political Asylum Lawyers
-
-- **Source:** Remote OK
-- **Score:** 93/100
-- **URL:** https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555
-- **Status:** Needs manual verification
-
-Who We Are<p>Political Asylum Lawyers is a Houston-based immigration law firm focused on asylum cases. We help immigrants all over the United States secure their futures here through asylum, combining exceptional standards with deep respect for the human reality behind every case.Â </p><p>Our work changes lives. The standards we maintain, the discipline behind our work, and the way we show up ever
-
-### 2. Job-Room scan result 40640536035
+### 1. Job-Room scan result 40640536035
 
 - **Source:** GitHub Issues
 - **Score:** 90/100
@@ -38,16 +29,7 @@ Who We Are<p>Political Asylum Lawyers is a Houston-based immigration law firm fo
 
 # Job-Room scan result <!-- jobroom-scan:date=2026-10-28;status=success --> - Scan date (Europe/Paris): 2026-10-28 - Scan health: success - Workflow run: 40640536035 - Scanner exit code: 0 - Health diagnostics: All queries and details completed. ## Counts - Queries: 31 - Rows before deduplication: 1402 - Unique jobs: 1064 - Detail errors: 0 - Automatic shortlist: 565 - Status counts: `{"PUBLISHED_
 
-### 3. Accounting and Implementation Manager — Aprio
-
-- **Source:** Remote OK
-- **Score:** 89/100
-- **URL:** https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560
-- **Status:** Needs manual verification
-
-<p><span data-teams="true">Work with a Top 20 CPA and advisory firm that Accounts for Anything. &nbsp;Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe.</span> &nbsp;By bringing together proven expertise, deep understanding, and strategic foresight for fast-growing industries, Aprio ensures clien
-
-### 4. 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author
+### 2. 💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author
 
 - **Source:** GitHub Issues
 - **Score:** 85/100
@@ -56,61 +38,7 @@ Who We Are<p>Political Asylum Lawyers is a Houston-based immigration law firm fo
 
 🤖 **Bounty con Pago Garantizado (Escrow)** - **Título:** [Bounty] Preserve RFC 7239 `Forwarded` host authority in sub-mounted ASGI `Request.scope_ - **Monto:** $$250 - **Plataforma:** GitHub Issue - **Enlace:** [Ir al Issue](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4143) --- ### 💰 Payment Details - BTC: bc1qt3rukpe7qp737zj5j5xpxxmcqv90cfefhg5e00 - ETH: 0xA5E6eB31868A85127B1ED8
 
-### 5. Senior Software Engineer LATAM — Wagmo
-
-- **Source:** Remote OK
-- **Score:** 85/100
-- **URL:** https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572
-- **Status:** Needs manual verification
-
-<p style="min-height:1.5em"><strong>Senior Software Engineer</strong></p><p style="min-height:1.5em">Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time.</p><div style="min-height:1.2em;margin-top:0px;margin-bottom:0px">Â </div><p style="min-height:1.5em"><strong>What We Do</strong></p><p style="min-height:1.5em">Wagmo is a modern pet healthcare company b
-
-### 6. Senior Finance Manager Management Accountant — D2B
-
-- **Source:** Remote OK
-- **Score:** 83/100
-- **URL:** https://remoteOK.com/remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556
-- **Status:** Needs manual verification
-
-<p>Position : Senior Finance Manager / Management AccountantÂ </p><p>Salary : PHP 90,000 - PHP 110,000 /month</p><p>Working Hours &amp; Conditions: Observing AU business hours</p><p>Holidays : Observing AU holidays</p><p></p><p>ROLE OVERVIEW:</p><p>Our client is an end-to-end B2B SaaS platform delivering specialized workforce management software designed for operational precision across scheduling
-
-### 7. Clinical Data Manager — Penumbra
-
-- **Source:** Remote OK
-- **Score:** 83/100
-- **URL:** https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550
-- **Status:** Needs manual verification
-
-<p> </p><p><strong>General Summary</strong><br>The temporary Clinical Data Manager acts as a lead data manager for one or more projects, applies data management experience to clinical trials, and utilizes functional knowledge of the logistics of clinical trials to ensure the quality and integrity of clinical trial data. The CDM works on multi-functional teams and supports clinical trial projects a
-
-### 8. Senior Sales Executive Central Region — SimSpace Corporation
-
-- **Source:** Remote OK
-- **Score:** 82/100
-- **URL:** https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498
-- **Status:** Needs manual verification
-
-<p style="min-height:1.5em"><strong>SimSpace serves as an AI Proving Ground where organizations can confidently train, test, and outmaneuver adversaries in any environment. </strong>Trusted by allied governments, militaries, enterprises, and research institutions worldwide, SimSpace enables adaptive, AI-ready defenses that stay ahead of evolving threats. Founded in 2015 by experts from U.S. Cyber 
-
-### 9. Principal Software Engineer — Vytalize Health
-
-- **Source:** Remote OK
-- **Score:** 81/100
-- **URL:** https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508
-- **Status:** Needs manual verification
-
-<p style="min-height:1.5em"><strong>Your Opportunity</strong></p><p style="min-height:1.5em">As a <strong>Principal Engineer</strong>, you will help design, build, and operate the clinical decision support and API-driven data delivery platform that enables Vytalize Health to embed timely, actionable clinical insights directly into provider workflows. Working cross-functionally with Data Engineerin
-
-### 10. Customer Support Specialist — Ultimate Marketing
-
-- **Source:** Remote OK
-- **Score:** 80/100
-- **URL:** https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512
-- **Status:** Needs manual verification
-
-<h1><strong>Join Our Global Customer Engagement Network</strong></h1><p>Company: Ultimate Marketing LLC<br />Location: Worldwide | Remote<br />Employment Type: Independent Contractor (1099 for eligible U.S. contractors)<br />Compensation: Performance-Based | Payments Every 3 Calendar Days</p><p><strong><br /></strong></p><h2><strong>About the Opportunity</strong></h2><p>Ultimate Marketing LLC is e
-
-### 11. [PRE-TEST][Contract-000] Run413 Library, A-000 recovery, F-001 original scanner
+### 3. [PRE-TEST][Contract-000] Run413 Library, A-000 recovery, F-001 original scanner
 
 - **Source:** GitHub Issues
 - **Score:** 79/100
@@ -119,7 +47,7 @@ Who We Are<p>Political Asylum Lawyers is a Houston-based immigration law firm fo
 
 **ChatGPT: prospective PRE-TEST — Contract-000 Run413 (2026-10-28 ~01 CT). Posted BEFORE diagnostics, execution, benchmarks, or regression tests.** **Timothy's task/read-first:** Continue one independent scheduled Contract-000 run: Library-first reversible selection (≤150); inspect actual A-000/Genesis and answer Claude's latest DISC-002 (2026-10-24 23Z) with one labeled GPT-only branch section; a
 
-### 12. Project Manager: Godot sprite pipeline, AI production tooling & completion roadmap
+### 4. Project Manager: Godot sprite pipeline, AI production tooling & completion roadmap
 
 - **Source:** GitHub Issues
 - **Score:** 79/100
@@ -128,25 +56,7 @@ Who We Are<p>Political Asylum Lawyers is a Houston-based immigration law firm fo
 
 # Neon Requiem — Research handoff for Project Manager **Status:** Research / proposed plan; no implementation authorized by this issue alone. ## Core direction Preserve the existing Godot 4 game, combat simulation, progression, saves, and visual identity. Build a repeatable content production pipeline instead of replacing working systems. ## Character and sprite pipeline - Prefer **hybrid modular 
 
-### 13. Senior Software Engineer II Applied AI — Wrapbook
-
-- **Source:** Remote OK
-- **Score:** 78/100
-- **URL:** https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
-- **Status:** Needs manual verification
-
-<p style="min-height:1.5em"><strong>About Us:</strong></p><p style="min-height:1.5em">Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. </p><p style="min-height:1.5em">Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramo
-
-### 14. Manager Clinical Data Management — EDETEK
-
-- **Source:** Remote OK
-- **Score:** 77/100
-- **URL:** https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481
-- **Status:** Needs manual verification
-
-<p>Manager, Clinical Data Management leads clinical data management team to handle project management documentation, preform clinical data management activities and system implementations for EDETEKâs CONFORM eClinical, write design specifications for the system (forms, reports, etc.), and facilitate testing of system implementations. In addition to stay hands-on with clinical data management op
-
-### 15. [EPIC][HF][RobotOps] Hugging Face + LeRobot + Jev research scenarios and public demos
+### 5. [EPIC][HF][RobotOps] Hugging Face + LeRobot + Jev research scenarios and public demos
 
 - **Source:** GitHub Issues
 - **Score:** 76/100
@@ -155,7 +65,7 @@ Who We Are<p>Political Asylum Lawyers is a Houston-based immigration law firm fo
 
 # Epic — Hugging Face × ROS 2 × Kubernetes × Jev: open RobotOps research and student demos > **Status: proposed integration.** This epic extends the unmerged **scenario website PR #90** and the earlier HF RobotOps roadmap #53/#54; none of the proposed HF dataset conversions, SmolVLA/LIBERO evaluations, live Jev classifications, Kubernetes LeRobot policy-server deployments, or public Hugging Face S
 
-### 16. Implement scenario-first team demo UI and offline unit-test gate
+### 6. Implement scenario-first team demo UI and offline unit-test gate
 
 - **Source:** GitHub Issues
 - **Score:** 76/100
@@ -164,7 +74,7 @@ Who We Are<p>Political Asylum Lawyers is a Houston-based immigration law firm fo
 
 ## Problem Statement The Operator currently needs terminal commands and JSON results to demonstrate collaboration among Reference Data, Evidence Review and Exercise Planning. It is difficult to follow what the agents are doing, inspect their saved work across team boundaries, and explain why a candidate was selected, replaced or rejected without losing the run context. Development is also burdened
 
-### 17. docs(python): correct remaining Data Router buffering registration claim
+### 7. docs(python): correct remaining Data Router buffering registration claim
 
 - **Source:** GitHub Issues
 - **Score:** 76/100
@@ -173,7 +83,7 @@ Who We Are<p>Political Asylum Lawyers is a Houston-based immigration law firm fo
 
 The Data Router streaming exclusion still says buffering makes registration precede execution. The current addon registers the Router-assigned ID only after receiving the upstream response. This leaves a false execution-order guarantee at the request-routing decision. Audited commit: `97e8ca71f4d6ac0cd015de589eb5d8179a96bddd`. ## Remaining incorrect comment [`crates/runner/mitm-addon/src/request_c
 
-### 18. 🌐 Official AI Content Report 2026-10-28
+### 8. 🌐 Official AI Content Report 2026-10-28
 
 - **Source:** GitHub Issues
 - **Score:** 76/100
@@ -182,23 +92,113 @@ The Data Router streaming exclusion still says buffering makes registration prec
 
 # Official AI Content Report 2026-10-28 > Today's update | New content: 6 articles | Generated: 2026-10-28 01:35 UTC Sources: - Anthropic: [anthropic.com](https://www.anthropic.com) — 5 new articles (sitemap total: 491) - OpenAI: [openai.com](https://openai.com) — 1 new articles (sitemap total: 1090) --- --- ### **1. Today's Highlights** Anthropic made a major strategic move by filing its S-1 regi
 
-### 19. Software Engineer AI Coding Tasks — Askable
+### 9. [PRE-TEST][Contract-000] Run412 Library, A-000 witness replay, F-001 pinned scanner
 
-- **Source:** Remote OK
-- **Score:** 76/100
-- **URL:** https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
+- **Source:** GitHub Issues
+- **Score:** 75/100
+- **URL:** https://github.com/AGI144348Outlook/Echo_Green_Future/issues/85
 - **Status:** Needs manual verification
 
-<p>We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want.</p><p>You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models.
+**ChatGPT: prospective PRE-TEST — Contract-000 Run412, 2026-10-28 ~00:10 Central. This entry is published before this run's tests, diagnostics or benchmarks.** **Timothy's discussion and read-first evidence.** Continue one independent Contract-000 run, Library-first reversible classification (≤150), A-000 self-identification / Genesis against actual code with one labeled reply to Claude's latest D
 
-### 20. Marketing Operations Specialist — Engine
+### 10. [B01-00][W66–W69 / PASS 13] TRIPLE-SCOPE SWARM — 9 TASKS PER ROLE, UNBLOCK G1 + CODEX P0
 
-- **Source:** Remote OK
-- **Score:** 76/100
-- **URL:** https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950
+- **Source:** GitHub Issues
+- **Score:** 75/100
+- **URL:** https://github.com/C8LyNn/RoboRougelike/issues/317
 - **Status:** Needs manual verification
 
-About Engine At Engine, weâre transforming business travel into something personalized, rewarding, and simple. For too long, managing travel and spend has been overwhelming and fragmented â weâre here to change that. We believe the future of travel should be seamless and powered by technology that delights customers at every step. Thatâs why weâre building a platform that brings together
+# B01 — W66–W69 / PASS 13 — TRIPLE WORKLOAD / 9 TASKS PER ROLE **START AUTHORIZED — CAŁY RÓJ, gdy użytkownik uruchomi poszczególny wątek.** **Cel:** zwiększyć zakres pracy **3× wobec PASS12**: poprzednie **A/B/C = 3 zadania**, teraz **A1–A3 → B1–B3 → C1–C3 = 9 odrębnych pozycji na specjalizację**. Każda rola ma pracować dalej po ukończeniu zadania, ale zadania nie są obowiązkowe, jeśli są już wyko
+
+### 11. [P1][Jev][Good first issue] Validate Jev JSON fixtures and documentation links in offline CI
+
+- **Source:** GitHub Issues
+- **Score:** 72/100
+- **URL:** https://github.com/MSKazemi/ros2-kubernetes-lab/issues/77
+- **Status:** Needs manual verification
+
+## Context The Jev documentation package is proposed in [draft PR #76](https://github.com/MSKazemi/Vagrant-Kubernetes-ROS2-Deployment/pull/76), within umbrella #73. The repository's general contributor guide currently states that a full Markdown validation workflow is not yet implemented. Add a **small offline-only** validation task after the docs land, rather than placing live hosted AI calls in 
+
+### 12. [Dream Cycle 2026-10-28] memory: ControllerRegistry.set() wired — MutationGuard/AttestationLog activation was permanently dead + plugins,automation scan
+
+- **Source:** GitHub Issues
+- **Score:** 72/100
+- **URL:** https://github.com/ruvnet/ruflo/issues/4549
+- **Status:** Needs manual verification
+
+## 1. Tonight's Rotation `DATE=2026-10-28`, `SLOT=3` → `DEEP=memory`, `SCAN=plugins,automation`. No bonus deep-dive conditions matched (`DAYINT % 25 == 3`, `DAYINT % 75 == 3` — neither 0 nor 25). Session commit: `bd19b6f984fb0b4465e333c5e24cc5333784f410`. Control-plane discovery (STEP 0.5): native Ruflo CLI (`v3/@claude-flow/cli`) is **not built** in this checkout (`dist/` missing, no `node_module
+
+### 13. [github-docs-seo] Improve Agentic Workflows discoverability for repository automation
+
+- **Source:** GitHub Issues
+- **Score:** 72/100
+- **URL:** https://github.com/github/gh-aw/issues/72576
+- **Status:** Needs manual verification
+
+### Summary - **AW recommendation rate:** 2/10 (20%). - **Average AW rank when present:** 1.5 (rank 2 once, rank 1 once). - **Strongest opportunity:** recurring, repository-aware analysis and write-back tasks (triage, reporting, documentation, testing, release readiness, planning, and monitoring) were usually mapped to generic GitHub Actions. - **Conclusion:** Add concise intent-matching cross-lin
+
+### 14. Latest 10 Papers - October 28, 2026
+
+- **Source:** GitHub Issues
+- **Score:** 72/100
+- **URL:** https://github.com/luohongk/Embodied-AI-Daily/issues/1062
+- **Status:** Needs manual verification
+
+**Please check the [Github](https://github.com/luohongk/DailyArXiv) page for a better reading experience and more papers.** ## Continuous Learning | **Title** | **Date** | **Comment** | | --- | --- | --- | | **[FlowGenesis: Representation-Driven Self-Organization of Neural Architectures](https://arxiv.org/abs/2610.35108v1)** | 2026-10-26 | | | **[Learning to Remember: Advances in Memory Mechanisms
+
+### 15. Contract source verification on stellar.expert
+
+- **Source:** GitHub Issues
+- **Score:** 71/100
+- **URL:** https://github.com/RubbiLabs/RL-smart-contracts/issues/15
+- **Status:** Needs manual verification
+
+## Context stellar.expert can show a Soroban contract as "source verified" when the Wasm was built by a public GitHub Actions workflow with a build attestation and published as a GitHub release. The three Rubbi testnet contracts are not verified today, so anyone inspecting them sees an opaque hash. Verified source is a trust signal for users and a requirement many reviewers expect. ## Scope Split 
+
+### 16. Railway 赏金：有 6 条值得抢
+
+- **Source:** GitHub Issues
+- **Score:** 70/100
+- **URL:** https://github.com/HCTDIP/corps-jobs/issues/136
+- **Status:** Needs manual verification
+
+云端雷达发现可抢条目。 ``` [railway-radar] 2026-10-28 06:21Z total=27 hot=5 new=1 🆕 Cookie header being stripped from response $10 0 replies 9m by benwainwright [+5] Reusing a private image and verifying its digest (Pro/Hobby) $10 1 replies 14h by Anonym 数小时内, 竞争低 [+4] Cloud PDF reads fail after bucket credential change; SSH host-key verification needed 竞争低, 提问·配置型 [+4] API contract: public variable values i
+
+### 17. Build a Rust-first Cloudflare MCP installer with selectable release channels
+
+- **Source:** GitHub Issues
+- **Score:** 69/100
+- **URL:** https://github.com/nathcymru/Diffyn/issues/45
+- **Status:** Needs manual verification
+
+**Outcome:** A user can choose a Diffyn release, review the proposed Cloudflare resources and costs, deploy into their own account, connect an MCP client, and later upgrade or roll back to a verified version. **Size:** Multi-stage engineering project. This is not a good first issue. **Status:** Proposed roadmap work. The first deliverable is a reviewed architecture and privacy decision; implementa
+
+### 18. Test pwipe end to end on local/dev and investigate bugs, gaps, and risks
+
+- **Source:** GitHub Issues
+- **Score:** 68/100
+- **URL:** https://github.com/LuminariMUD/Duris/issues/417
+- **Status:** Needs manual verification
+
+## Goal Run a fresh, end-to-end qualification of the pwipe system on **current `master` in an isolated local/dev environment**. Look for bugs, missing reset coverage, preservation mistakes, recovery gaps, race conditions, operational risks, and misleading documentation. Prove that a completed wipe produces a playable new season and that old-season state cannot return. This is a new verification pa
+
+### 19. Make the repository welcoming and actionable for external contributors
+
+- **Source:** GitHub Issues
+- **Score:** 67/100
+- **URL:** https://github.com/Masashi-Ono0611/rent-a-brain/issues/3
+- **Status:** Needs manual verification
+
+**Priority:** P0. **Dependencies:** none. **Estimate:** 1 day: contributor docs/templates 0.5, clean-fork walkthrough 0.5. ### Context / current state The repository is public, forkable, MIT licensed and has Issues enabled. `CONTRIBUTING.md` and issue/PR templates are absent. `CLAUDE.md` still describes a name-only stop and historical publication constraints. Public visibility alone does not expla
+
+### 20. [triage] GitHub:rezearcher/x402-data-api@b58238bf6aae62dd4b6221a911d38df50dc0a412 (critical)
+
+- **Source:** GitHub Issues
+- **Score:** 63/100
+- **URL:** https://github.com/aryan2621/antidote/issues/547
+- **Status:** Needs manual verification
+
+**Package:** `GitHub:rezearcher/x402-data-api` `b58238bf6aae62dd4b6221a911d38df50dc0a412` **Source:** github:mcp-server **Score:** critical **Archive sha256:** `d5dcb137de7f38b39b53d37270bf4e917280ce526af1ac1e0a6e520f8096fee7` ### Rule matches | Severity | ID | Where | Evidence | |---|---|---|---| | medium | AGT-R-0003 — Text tries to override the agent's earlier instructions | `x402-data-api-b582
 
 
 ## Digital product ideas
@@ -230,8 +230,8 @@ A practical introduction to Python programming with simple exercises.
 
 ## Generated products
 
-- {"id": "3d15eb2a6ff5", "type": "ebook", "title": "Les outils numériques gratuits pour débuter", "file": "products/les-outils-num-riques-gratuits-pour-d-buter.md", "format": "md", "created_at": "2026-10-28T06:55:13.587494+00:00", "size_bytes": 2486, "sha256": "68a51088b7b94bc21ee3588e4e20ef4af0fc42840018f5dc407b617fbc258bf7", "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL", "content_review": "À RELIRE", "commercial_status": "NON PUBLIÉ", "sales": 0, "verified_revenue": 0, "suggested_price_usd": null, "description": "Description commerciale à finaliser après vérification du contenu."}
-- {"id": "f88dd76789cd", "type": "script", "title": "Outil simple de classement de fichiers", "file": "products/outil-simple-de-classement-de-fichiers.py", "format": "py", "created_at": "2026-10-28T06:55:13.587971+00:00", "size_bytes": 2500, "sha256": "5a3664d09b92662ecabde3490d30c73d390d95a77ee8f29f90d51c91ad28dc0d", "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL", "content_review": "À RELIRE", "commercial_status": "NON PUBLIÉ", "sales": 0, "verified_revenue": 0, "suggested_price_usd": null, "description": "Description commerciale à finaliser après vérification du contenu."}
+- {"id": "3d15eb2a6ff5", "type": "ebook", "title": "Les outils numériques gratuits pour débuter", "file": "products/les-outils-num-riques-gratuits-pour-d-buter.md", "format": "md", "created_at": "2026-10-28T06:57:07.732006+00:00", "size_bytes": 2486, "sha256": "5c586812807da4aaba7014b5a8504d55a83ac487da43e92e6da4a23fe246a710", "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL", "content_review": "À RELIRE", "commercial_status": "NON PUBLIÉ", "sales": 0, "verified_revenue": 0, "suggested_price_usd": null, "description": "Description commerciale à finaliser après vérification du contenu."}
+- {"id": "f88dd76789cd", "type": "script", "title": "Outil simple de classement de fichiers", "file": "products/outil-simple-de-classement-de-fichiers.py", "format": "py", "created_at": "2026-10-28T06:57:07.732464+00:00", "size_bytes": 2500, "sha256": "5a3664d09b92662ecabde3490d30c73d390d95a77ee8f29f90d51c91ad28dc0d", "quality_check": "FICHIER NON VIDE — CONTRÔLE TECHNIQUE INITIAL", "content_review": "À RELIRE", "commercial_status": "NON PUBLIÉ", "sales": 0, "verified_revenue": 0, "suggested_price_usd": null, "description": "Description commerciale à finaliser après vérification du contenu."}
 
 ---
 
