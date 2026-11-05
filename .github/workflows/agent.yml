@@ -49,6 +49,9 @@ jobs:
       - name: Run AUTO-EARN AI ULTRA
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SUPABASE_OWNER_ID: ${{ secrets.SUPABASE_OWNER_ID }}
           ENABLE_PUBLIC_JOB_FEEDS: "1"
           ENABLE_GITHUB_SEARCH: "1"
           ENABLE_CRYPTO_MARKET_DATA: "1"
