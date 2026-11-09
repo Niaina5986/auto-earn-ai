@@ -1,0 +1,45 @@
+name: AUTO-EARN ENGINE
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 */6 * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: auto-earn-engine
+  cancel-in-progress: false
+
+jobs:
+  engine:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Recuperer le depot
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Lancer le moteur
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AUTONOMOUS_GITHUB_TOKEN: ${{ secrets.AUTONOMOUS_GITHUB_TOKEN }}
+          AUTONOMOUS_FORK: ${{ secrets.AUTONOMOUS_FORK }}
+          MIN_REWARD_USD: "10"
+          MAX_ISSUES: "30"
+        run: python auto_earn_engine.py
+
+      - name: Sauvegarder le rapport
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: auto-earn-engine-${{ github.run_number }}
+          path: engine-reports/
+          if-no-files-found: warn
+          retention-days: 30
