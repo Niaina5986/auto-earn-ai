@@ -1,0 +1,81 @@
+name: AUTO-EARN DASHBOARD SYNC
+
+on:
+  workflow_run:
+    workflows: ["AUTO-EARN ENGINE"]
+    types:
+      - completed
+
+permissions:
+  actions: read
+  contents: write
+
+jobs:
+  publish-data:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Recuperer le depot
+        uses: actions/checkout@v4
+
+      - name: Telecharger le rapport du moteur
+        uses: actions/download-artifact@v4
+        with:
+          name: auto-earn-engine-${{ github.event.workflow_run.run_number }}
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          path: downloaded-report
+
+      - name: Creer db.json automatiquement
+        run: |
+          python - <<'PY'
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          candidates = list(
+              Path("downloaded-report").rglob("run.json")
+          )
+
+          if not candidates:
+              raise SystemExit("Rapport run.json introuvable.")
+
+          source = candidates[0]
+
+          data = json.loads(
+              source.read_text(encoding="utf-8")
+          )
+
+          data["generated_at"] = datetime.now(
+              timezone.utc
+          ).isoformat()
+
+          Path("db.json").write_text(
+              json.dumps(
+                  data,
+                  ensure_ascii=False,
+                  indent=2
+              ),
+              encoding="utf-8"
+          )
+
+          print("db.json créé avec succès.")
+
+          PY
+
+      - name: Publier db.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add db.json
+
+          if git diff --cached --quiet; then
+            echo "Aucune modification."
+          else
+            git commit -m "Mise à jour automatique du dashboard"
+            git push
+          fi
