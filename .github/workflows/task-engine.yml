@@ -1,0 +1,34 @@
+name: OPTIMUS Task Engine
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  execute:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Télécharger le projet
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Vérifier le moteur
+        run: python -m py_compile task_engine.py
+
+      - name: Lancer OPTIMUS Task Engine
+        run: python task_engine.py task.json
+
+      - name: Enregistrer les rapports
+        uses: actions/upload-artifact@v4
+        with:
+          name: optimus-task-reports
+          path: |
+            task-reports/
+            task-history.json
