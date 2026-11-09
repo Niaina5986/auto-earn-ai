@@ -1,0 +1,11 @@
+{
+  "description": "Analyser les fichiers du projet OPTIMUS",
+  "type": "programming",
+  "files": [
+    "optimus.py",
+    "agent.py",
+    "execution_agent.py",
+    "analysis_agent.py",
+    "config.py"
+  ]
+}
