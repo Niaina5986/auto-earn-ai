@@ -1,0 +1,71 @@
+name: OPTIMUS AI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: read
+
+concurrency:
+  group: optimus-ai
+  cancel-in-progress: false
+
+jobs:
+  optimus:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Recuperer le depot
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verifier le moteur
+        run: python -m py_compile optimus.py
+
+      - name: Lancer OPTIMUS AI
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AUTONOMOUS_GITHUB_TOKEN: ${{ secrets.AUTONOMOUS_GITHUB_TOKEN }}
+          AUTONOMOUS_FORK: ${{ secrets.AUTONOMOUS_FORK }}
+          GITHUB_OWNER: ${{ github.repository_owner }}
+          MIN_REWARD_USD: "10"
+          MAX_ISSUES: "100"
+          OPTIMUS_WORKERS: "4"
+        run: python optimus.py
+
+      - name: Publier db.json et historique
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add db.json optimus-state.json optimus-reports/run.json
+          if git diff --cached --quiet; then
+            echo "Aucune modification a publier."
+          else
+            git commit -m "chore(optimus): update dashboard data"
+            git push origin HEAD:main
+          fi
+
+      - name: Archiver le rapport
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: optimus-report-${{ github.run_number }}
+          path: |
+            db.json
+            optimus-state.json
+            optimus-reports/
+          if-no-files-found: warn
+          retention-days: 30
