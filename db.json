@@ -1,10 +1,124 @@
 {
   "engine": "AUTO-EARN ENGINE",
   "version": "1.0",
-  "discovered": 76,
+  "discovered": 83,
   "reviewed": 30,
   "pull_requests_submitted": 0,
   "results": [
+    {
+      "issue": "https://github.com/drexthealpha/Knos/issues/17",
+      "title": "Knos relay log",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/SkriptLang/Skript/issues/8383",
+      "title": "When using multiline examples the docs generator breaks",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/0xSneaks/ai-coms/issues/13",
+      "title": "AI COMS health: board needs attention",
+      "reward_usd": 30.0,
+      "status": "unsafe task"
+    },
+    {
+      "issue": "https://github.com/quadseven/loom/issues/30",
+      "title": "Goal: Loom keeps your goals moving on every subscription",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/vouchlabsio/humanvouch/issues/65",
+      "title": "[Bounty: $85] Make circom-to-soroban-hex parse a BLS12-381 verifying key",
+      "reward_usd": 85.0,
+      "status": "no supported execution contract"
+    },
+    {
+      "issue": "https://github.com/ethereum/ethereum-org-website/issues/18192",
+      "title": "chore(design-system): inline or relocate single-use server components",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/InferMatrixLab/InferRSI/issues/362",
+      "title": "discussion: Knowledge / Workbench / Benchmark 三模块目标架构——现状、原语、交接时序与遗留问题",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/QubesOS/qubes-issues/issues/10567",
+      "title": "[Contribution] Buskill",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/tenstorrent/tt-metal/issues/64740",
+      "title": "[Bug Report] layernorm_post_all_gather enables two-stage reduce on 2D grids, interleaved layernorm ignores output dtype, and groupnorm swaps wrong NOC_1 mcast coords",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/auscaster/frantic-board/issues/575",
+      "title": "support: agent-feee4a — machine verification inconclusive on delivered claims #128 and #129",
+      "reward_usd": 16.0,
+      "status": "no supported execution contract"
+    },
+    {
+      "issue": "https://github.com/EPF-MDE/GUESS.ARC/issues/105",
+      "title": "Exclude Titles and Concepts from Registry(t) by wiki category",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/xeprotocol/xe/issues/272",
+      "title": "Activation docs describe a feature gating system this build does not have: a fictitious 'messaging' feature, lease_renew gating, and a 14-day lead warning",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/Zoverions/AXIOM-MESH/issues/1575",
+      "title": "Watch findings integration backlog — architecture/security conformance",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/498",
+      "title": "Grant Application - Zcash 中文入门包 / Zcash Chinese Onboarding Pack",
+      "reward_usd": 400.0,
+      "status": "no supported execution contract"
+    },
+    {
+      "issue": "https://github.com/auscaster/frantic-board/issues/53",
+      "title": "Frantic bounty #33: Publish Sourcey docs for a maintained OSS library",
+      "reward_usd": 20.0,
+      "status": "no supported execution contract"
+    },
+    {
+      "issue": "https://github.com/Emaren/wolochain/issues/5",
+      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/quadseven/wow-overseer/issues/512",
+      "title": "Goal: our guild one-shots Ragnaros on wow-dev, naturally",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/dmavs412/twilights-eve-wow/issues/621",
+      "title": "Mistmantle Manor's quests: Stalvan and the surveyor's site record (#595)",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/6823",
+      "title": "Issue Bounty",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
     {
       "issue": "https://github.com/faizal97/realm-of-loner/issues/542",
       "title": "Board rewards: pay for finishing some of The Weekly Board's and The Daily Board's jobs",
@@ -16,24 +130,6 @@
       "title": "Adding missing information to Release_notes_26.3 page.",
       "reward_usd": 0,
       "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/auscaster/frantic-board/issues/53",
-      "title": "Frantic bounty #33: Publish Sourcey docs for a maintained OSS library",
-      "reward_usd": 20.0,
-      "status": "no supported execution contract"
-    },
-    {
-      "issue": "https://github.com/drexthealpha/Knos/issues/17",
-      "title": "Knos relay log",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/0xSneaks/ai-coms/issues/13",
-      "title": "AI COMS health: board needs attention",
-      "reward_usd": 30.0,
-      "status": "unsafe task"
     },
     {
       "issue": "https://github.com/telegraphprotocol/bounties/issues/167",
@@ -88,104 +184,8 @@
       "title": "Add QCon to the conference data tracker",
       "reward_usd": 0,
       "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/speakers-in-tech/conference-data/issues/10",
-      "title": "Add CodeMash to the conference data tracker",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/SkriptLang/Skript/issues/8383",
-      "title": "When using multiline examples the docs generator breaks",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/tenstorrent/tt-metal/issues/64732",
-      "title": "Sharded `ttnn.transpose(x, -2, -1)` and `ttnn.bcast(..., BcastOpDim.H)` compute wrong cores/offsets on offset and non-full-width core grids",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/blackcode-ch/tmx-go-public/issues/3",
-      "title": "[Bounty: USD 40] Make public build and contribution instructions accurate",
-      "reward_usd": 40.0,
-      "status": "no supported execution contract"
-    },
-    {
-      "issue": "https://github.com/blackcode-ch/tmx-go-public/issues/2",
-      "title": "[Bounty: USD 50] Preserve cache variation on plain JSON responses",
-      "reward_usd": 50.0,
-      "status": "no supported execution contract"
-    },
-    {
-      "issue": "https://github.com/me-fake-you/clearsheet-offers/issues/3",
-      "title": "Revenue reset: prioritize verified cashflow over infrastructure",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/jcfischer/seelite/issues/1",
-      "title": "Map: seelite v1 — a classic-Elite trade–fight–explore loop in the browser",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/CrChCn/agentcoin/issues/1",
-      "title": "Связь Codex ↔ Codebuff",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/Minidoracat/MinidoracatModLangFor42/issues/1331",
-      "title": "[可能過時] 3807707103 上游文本變更 (3807707103)",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/vouchlabsio/humanvouch/issues/65",
-      "title": "[Bounty: $85] Make circom-to-soroban-hex parse a BLS12-381 verifying key",
-      "reward_usd": 85.0,
-      "status": "no supported execution contract"
-    },
-    {
-      "issue": "https://github.com/tari-project/special_contributions/issues/577",
-      "title": "Security report: tari-ootle unseparated UtxoAddress(TARI_TOKEN, commitment) Namespace Between claim_burn and execute_stealth_transfer Allows L1 Burner to Pre-Create and Spend the Burn Commitment UTXO v0, Permanently Blocking the Recipient's ClaimBurn (GHSA-8mh4-mhrw-5j87)",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/quadseven/loom/issues/30",
-      "title": "Goal: Loom keeps your goals moving on every subscription",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/dmavs412/twilights-eve-wow/issues/621",
-      "title": "Mistmantle Manor's quests: Stalvan and the surveyor's site record (#595)",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/onthefox/Nexus-7/issues/2",
-      "title": "🚀 v1.0 Feature Roadmap",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/tenstorrent/tt-metal/issues/64876",
-      "title": "Switch numeric_stable default to true in softmax in-place APIs now that ",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/tenstorrent/tt-metal/issues/64877",
-      "title": "GeneralCLarge softmax factory uses bfloat8_b intermediates (inconsistent with GeneralW/GeneralH)",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
     }
   ],
   "notice": "A PR is not proof of acceptance or payment.",
-  "generated_at": "2026-11-09T13:16:58.623495+00:00"
+  "generated_at": "2026-11-09T13:38:49.303921+00:00"
 }
