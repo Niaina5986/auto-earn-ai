@@ -1,6 +1,7 @@
 name: AUTO-EARN DASHBOARD SYNC
 
 on:
+  workflow_dispatch:
   workflow_run:
     workflows: ["AUTO-EARN ENGINE"]
     types:
