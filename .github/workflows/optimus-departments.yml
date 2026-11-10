@@ -1,0 +1,39 @@
+name: OPTIMUS Departments
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'optimus-tasks.json'
+      - 'optimus_departments.py'
+
+permissions:
+  contents: read
+
+jobs:
+  execution:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Télécharger OPTIMUS
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Vérifier le code
+        run: python -m py_compile optimus_departments.py
+
+      - name: Exécuter les départements
+        run: python optimus_departments.py --workers 4
+
+      - name: Enregistrer les rapports
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: optimus-department-reports
+          path: |
+            optimus-department-reports/
+            optimus-workspaces/
