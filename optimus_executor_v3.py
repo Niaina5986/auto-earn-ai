@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # ============================================================
-# OPTIMUS V3 - EXECUTION ET SOUMISSION
+# OPTIMUS V3 - EXECUTION ET RAPPORT CENTRAL
 # ============================================================
 
 import os
@@ -12,6 +12,7 @@ import shutil
 import hashlib
 import subprocess
 import concurrent.futures
+import base64
 
 from pathlib import Path
 from datetime import datetime, timezone
@@ -22,6 +23,7 @@ ROOT = Path(__file__).resolve().parent
 TASK_FILE = ROOT / "optimus-missions.json"
 WORK_DIR = ROOT / "optimus-v3-workspaces"
 REPORT_DIR = ROOT / "optimus-v3-reports"
+REPORT_FILE = REPORT_DIR / "latest.json"
 
 MAX_WORKERS = 2
 MAX_RUNTIME = 60
@@ -43,12 +45,60 @@ ALLOWED_EXTENSIONS = {
 
 def initialize():
 
-    WORK_DIR.mkdir(exist_ok=True)
-    REPORT_DIR.mkdir(exist_ok=True)
+    WORK_DIR.mkdir(parents=True, exist_ok=True)
+    REPORT_DIR.mkdir(parents=True, exist_ok=True)
+
+
+def current_date():
+
+    return datetime.now(timezone.utc).isoformat()
 
 
 # ============================================================
-# 2. SECURITE DES FICHIERS
+# 2. ENREGISTREMENT DU RAPPORT
+# ============================================================
+
+def save_report(report):
+
+    initialize()
+
+    temporary_file = REPORT_DIR / "latest.tmp"
+
+    temporary_file.write_text(
+        json.dumps(
+            report,
+            indent=4,
+            ensure_ascii=False
+        ),
+        encoding="utf-8"
+    )
+
+    temporary_file.replace(REPORT_FILE)
+
+    print(json.dumps(
+        report,
+        indent=4,
+        ensure_ascii=False
+    ))
+
+
+def create_error_report(status, message):
+
+    return {
+        "system": "OPTIMUS AI",
+        "version": "3.0",
+        "date": current_date(),
+        "status": status,
+        "error": str(message),
+        "total": 0,
+        "successful": 0,
+        "failed": 0,
+        "missions": []
+    }
+
+
+# ============================================================
+# 3. SECURITE DES FICHIERS
 # ============================================================
 
 def safe_name(name):
@@ -68,7 +118,7 @@ def safe_name(name):
 
 
 # ============================================================
-# 3. GENERATION DES LIVRABLES
+# 4. CREATION DES LIVRABLES
 # ============================================================
 
 def save_generated_files(mission, generated):
@@ -119,19 +169,17 @@ def save_generated_files(mission, generated):
 
 
 # ============================================================
-# 4. EXECUTION DES PROGRAMMES PYTHON
+# 5. EXECUTION DES PROGRAMMES PYTHON
 # ============================================================
 
 def execute_python(path):
 
     if path.suffix != ".py":
+
         return {
             "file": path.name,
             "status": "NOT_EXECUTABLE"
         }
-
-    # Ne pas transmettre les secrets GitHub ou API
-    # aux programmes générés.
 
     safe_env = {
         "PATH": os.environ.get("PATH", ""),
@@ -167,7 +215,8 @@ def execute_python(path):
 
         return {
             "file": path.name,
-            "status": "TIMEOUT"
+            "status": "TIMEOUT",
+            "error": "Temps maximal dépassé."
         }
 
     except Exception as error:
@@ -180,7 +229,7 @@ def execute_python(path):
 
 
 # ============================================================
-# 5. TESTS ET CONTROLE QUALITE
+# 6. CONTROLE QUALITE
 # ============================================================
 
 def test_programs(files):
@@ -200,9 +249,7 @@ def test_programs(files):
             try:
 
                 json.loads(
-                    path.read_text(
-                        encoding="utf-8"
-                    )
+                    path.read_text(encoding="utf-8")
                 )
 
                 results.append({
@@ -240,7 +287,7 @@ def quality_passed(results):
 
 
 # ============================================================
-# 6. SOUMISSION GITHUB
+# 7. SOUMISSION GITHUB
 # ============================================================
 
 def submit_github(mission, folder, files):
@@ -286,10 +333,6 @@ def submit_github(mission, folder, files):
     )
 
     safe_env = os.environ.copy()
-
-    # Le token est transmis uniquement au processus gh,
-    # jamais au programme Python généré.
-
     safe_env["GH_TOKEN"] = token
 
     def run_gh(command):
@@ -306,8 +349,6 @@ def submit_github(mission, folder, files):
 
     try:
 
-        # Créer une branche de travail
-
         run_gh([
             "api",
             "-X",
@@ -318,8 +359,6 @@ def submit_github(mission, folder, files):
             "-f",
             "sha=" + os.environ["GITHUB_SHA"]
         ])
-
-        # Ajouter les fichiers dans la branche
 
         for path in files:
 
@@ -332,6 +371,10 @@ def submit_github(mission, folder, files):
                 + str(relative)
             )
 
+            encoded_content = base64.b64encode(
+                path.read_bytes()
+            ).decode("ascii")
+
             run_gh([
                 "api",
                 "-X",
@@ -342,12 +385,8 @@ def submit_github(mission, folder, files):
                 "-f",
                 "branch=" + branch,
                 "-f",
-                "content=" + path.read_text(
-                    encoding="utf-8"
-                )
+                "content=" + encoded_content
             ])
-
-        # Créer la Pull Request
 
         response = run_gh([
             "pr",
@@ -377,12 +416,19 @@ def submit_github(mission, folder, files):
 
         return {
             "status": "SUBMISSION_FAILED",
-            "error": error.stderr[-3000:]
+            "error": (error.stderr or str(error))[-3000:]
+        }
+
+    except Exception as error:
+
+        return {
+            "status": "SUBMISSION_FAILED",
+            "error": str(error)
         }
 
 
 # ============================================================
-# 7. EXECUTION COMPLETE D'UNE MISSION
+# 8. EXECUTION D'UNE MISSION
 # ============================================================
 
 def execute_mission(mission):
@@ -397,13 +443,12 @@ def execute_mission(mission):
 
     try:
 
-        # Les livrables doivent être fournis par V2
-        # ou par un autre département de production.
+        if not isinstance(mission, dict):
+            raise ValueError("Mission invalide.")
 
         generated = mission.get("generated")
 
         if not generated:
-
             raise ValueError(
                 "Aucun livrable généré dans la mission."
             )
@@ -413,49 +458,42 @@ def execute_mission(mission):
             generated
         )
 
-        # Exécution
-
         tests = test_programs(files)
 
         report["tests"] = tests
-
-        # Interdiction de soumettre en cas d'échec
-
-        if not quality_passed(tests):
-
-            report["status"] = "TEST_FAILED"
-
-            return report
-
-        # Soumission GitHub
-
-        if mission.get("submit_github") is True:
-
-            submission = submit_github(
-                mission,
-                folder,
-                files
-            )
-
-        else:
-
-            submission = {
-                "status": "NOT_REQUESTED"
-            }
-
-        report["submission"] = submission
 
         report["files"] = [
             str(path.relative_to(ROOT))
             for path in files
         ]
 
-        report["status"] = "SUCCESS"
+        if not quality_passed(tests):
+
+            report["status"] = "TEST_FAILED"
+
+        else:
+
+            if mission.get("submit_github") is True:
+
+                submission = submit_github(
+                    mission,
+                    folder,
+                    files
+                )
+
+            else:
+
+                submission = {
+                    "status": "NOT_REQUESTED"
+                }
+
+            report["submission"] = submission
+
+            report["status"] = "SUCCESS"
 
     except Exception as error:
 
         report["status"] = "FAILED"
-
         report["error"] = str(error)
 
     report["duration"] = round(
@@ -467,26 +505,82 @@ def execute_mission(mission):
 
 
 # ============================================================
-# 8. CONTROLEUR CENTRAL
+# 9. CONTROLEUR CENTRAL
 # ============================================================
 
 def main():
 
     initialize()
 
+    # --------------------------------------------------------
+    # CAS 1 : FICHIER DES MISSIONS ABSENT
+    # --------------------------------------------------------
+
     if not TASK_FILE.exists():
 
-        print("Fichier optimus-missions.json absent.")
+        report = create_error_report(
+            "WAITING_FOR_MISSIONS",
+            "Fichier optimus-missions.json absent."
+        )
 
+        save_report(report)
         return
 
-    data = json.loads(
-        TASK_FILE.read_text(
-            encoding="utf-8"
-        )
-    )
+    # --------------------------------------------------------
+    # CAS 2 : LECTURE DU FICHIER DES MISSIONS
+    # --------------------------------------------------------
 
-    missions = data.get("missions", [])
+    try:
+
+        data = json.loads(
+            TASK_FILE.read_text(
+                encoding="utf-8"
+            )
+        )
+
+        if not isinstance(data, dict):
+            raise ValueError("Format JSON invalide.")
+
+        missions = data.get("missions", [])
+
+        if not isinstance(missions, list):
+            raise ValueError(
+                "Le champ missions doit être une liste."
+            )
+
+    except Exception as error:
+
+        report = create_error_report(
+            "INPUT_ERROR",
+            error
+        )
+
+        save_report(report)
+        return
+
+    # --------------------------------------------------------
+    # CAS 3 : AUCUNE MISSION
+    # --------------------------------------------------------
+
+    if not missions:
+
+        report = {
+            "system": "OPTIMUS AI",
+            "version": "3.0",
+            "date": current_date(),
+            "status": "NO_MISSIONS",
+            "total": 0,
+            "successful": 0,
+            "failed": 0,
+            "missions": []
+        }
+
+        save_report(report)
+        return
+
+    # --------------------------------------------------------
+    # CAS 4 : EXECUTION DES MISSIONS
+    # --------------------------------------------------------
 
     reports = []
 
@@ -504,7 +598,33 @@ def main():
 
         for future in concurrent.futures.as_completed(futures):
 
-            reports.append(future.result())
+            try:
+
+                reports.append(future.result())
+
+            except Exception as error:
+
+                reports.append({
+                    "status": "FAILED",
+                    "error": str(error)
+                })
+
+    # --------------------------------------------------------
+    # CAS 5 : RAPPORT FINAL
+    # --------------------------------------------------------
+
+    successful = sum(
+        r.get("status") == "SUCCESS"
+        for r in reports
+    )
+
+    failed = sum(
+        r.get("status") in (
+            "FAILED",
+            "TEST_FAILED"
+        )
+        for r in reports
+    )
 
     final_report = {
 
@@ -512,40 +632,46 @@ def main():
 
         "version": "3.0",
 
-        "date": datetime.now(
-            timezone.utc
-        ).isoformat(),
+        "date": current_date(),
+
+        "status": (
+            "SUCCESS"
+            if failed == 0
+            else "PARTIAL_FAILURE"
+        ),
 
         "total": len(reports),
 
-        "successful": sum(
-            r["status"] == "SUCCESS"
-            for r in reports
-        ),
+        "successful": successful,
 
-        "failed": sum(
-            r["status"] == "FAILED"
-            for r in reports
-        ),
+        "failed": failed,
 
         "missions": reports
+
     }
 
-    (REPORT_DIR / "latest.json").write_text(
-        json.dumps(
-            final_report,
-            indent=4,
-            ensure_ascii=False
-        ),
-        encoding="utf-8"
-    )
+    save_report(final_report)
 
-    print(json.dumps(
-        final_report,
-        indent=4,
-        ensure_ascii=False
-    ))
 
+# ============================================================
+# 10. DEMARRAGE
+# ============================================================
 
 if __name__ == "__main__":
-    main()
+
+    try:
+
+        main()
+
+    except Exception as error:
+
+        initialize()
+
+        report = create_error_report(
+            "FATAL_ERROR",
+            error
+        )
+
+        save_report(report)
+
+        sys.exit(1)
