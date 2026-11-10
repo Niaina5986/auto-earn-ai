@@ -6,16 +6,40 @@
   "pull_requests_submitted": 0,
   "results": [
     {
+      "issue": "https://github.com/me-fake-you/clearsheet-offers/issues/3",
+      "title": "Revenue reset: prioritize verified cashflow over infrastructure",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
       "issue": "https://github.com/drexthealpha/Knos/issues/17",
       "title": "Knos relay log",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/sybil-solutions/local-ai-registry/issues/262",
-      "title": "Bounty ledger: claims, submissions and payouts",
-      "reward_usd": 1000.0,
-      "status": "no supported execution contract"
+      "issue": "https://github.com/silasfelinus/kind_robots/issues/4535",
+      "title": "[ROADMAP] Slime City: Clash | Cards, Factions, Art, Balance and QA",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/smv620/Discord-DMbot/issues/3244",
+      "title": "Theatrical transcript and relationship descriptions, beside the old path, behind a switch (#3242 stage 1)",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/jorgerdemocorp-mend/WebGoat/issues/77",
+      "title": "axios-0.21.1.tgz: 30 vulnerabilities (highest severity is: 9.3)",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/smv620/Discord-DMbot/issues/3172",
+      "title": "Story memory: an internal importance rank (0 to 5) set by the story, used to pick recap details",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
     },
     {
       "issue": "https://github.com/SkriptLang/Skript/issues/8383",
@@ -24,94 +48,100 @@
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/mboyer1269-pixel/GlobalLand.si/issues/10",
-      "title": "GlobalLand : le monde a besoin d'attention",
+      "issue": "https://github.com/Conxian/conxius-enclave-sdk/issues/726",
+      "title": "[Challenge] Independently review the release-signing design and the ceremony invite",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/mkolade/mkolade/issues/1",
-      "title": "Security: malware in this repository and 55 other repositories under mkolade",
-      "reward_usd": 0,
-      "status": "unsafe task"
-    },
-    {
-      "issue": "https://github.com/prasenjeet-symon/shipli-ai/issues/1",
-      "title": "Add React Native support",
+      "issue": "https://github.com/ditto-assistant/ditto-subnet/issues/2044",
+      "title": "Specify scoped build-bounty rules, alpha funding and governance",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/Emaren/app-prodn/issues/1212",
-      "title": "C03 funded Wolo release: isolate HD/DE financial table DML without breaking 3030/Steam",
-      "reward_usd": 0,
-      "status": "unsafe task"
-    },
-    {
-      "issue": "https://github.com/tmsteph/3dvr-portal/issues/3285",
-      "title": "Open-source contribution candidate: Hacker Fab",
+      "issue": "https://github.com/ditto-assistant/ditto-subnet/issues/2046",
+      "title": "Implement bounty acceptance, alpha awards, fee refunds and accounting",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/Darwin-River/Ex-Machinis/issues/380",
-      "title": "Public Forge: grow a livelier economy with new company designs",
+      "issue": "https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/16",
+      "title": "[Slice A] Public-evidence coverage score and gap atlas",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/Emaren/wolochain/issues/5",
-      "title": "Mainnet two-settlement release HOLD: rebaseline bdbce253 vs live 78c25985 (no node restart)",
+      "issue": "https://github.com/lizTheDeveloper/privacy-the-game/issues/408",
+      "title": "[find opt-out] Safety Holdings Inc.: find the official opt-out route",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/Emaren/app-prodn/issues/1108",
-      "title": "PRODUCTION BLOCKER REGISTER · Baseline 001 · 19 gates (10 app / 9 chain) · 2026-11-01",
+      "issue": "https://github.com/relayhop/sn-monetization-runtime/issues/1316",
+      "title": "[radar] SN open bounty 2026-10-20T11:24",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/auscaster/frantic-board/issues/575",
-      "title": "support: agent-feee4a — machine verification inconclusive on delivered claims #128 and #129",
-      "reward_usd": 16.0,
+      "issue": "https://github.com/relayhop/sn-monetization-runtime/issues/1326",
+      "title": "[radar] SN open bounty 2026-10-22T19:11",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4255",
+      "title": "[Bounty] [Bounty $550] feat(cli): add JSON sequence gap serializer in src/cli/format_repo",
+      "reward_usd": 550.0,
       "status": "no supported execution contract"
     },
     {
-      "issue": "https://github.com/stevederico/omarchy/issues/350",
-      "title": "Chromium checkout form: state/region field requires manual jigging",
+      "issue": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258",
+      "title": "[Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le",
+      "reward_usd": 450.0,
+      "status": "no supported execution contract"
+    },
+    {
+      "issue": "https://github.com/hanzoai/ai/issues/137",
+      "title": "[QA Bounty] [P0] Model Routing & Failover",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/andrewsiah/agentswarm-examples/issues/18",
-      "title": "[~1-2 hours] Add a Perl example that lists open tasks",
+      "issue": "https://github.com/hanzoai/ai/issues/138",
+      "title": "[QA Bounty] [P0] Cross-Model API Compatibility",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/quadseven/wow-overseer/issues/512",
-      "title": "Goal: our guild one-shots Ragnaros on wow-dev, naturally",
+      "issue": "https://github.com/Conxian/conxian-gateway/issues/828",
+      "title": "[Challenge] Capability manifest never advertises a non-routable adapter as supported",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/quadseven/loom/issues/30",
-      "title": "Goal: Loom keeps your goals moving on every subscription",
+      "issue": "https://github.com/openai/codex/issues/59516",
+      "title": "Codex CLI 0.166 does not honor plugins bundled hooks declared in AgentPlugin manifest form",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/panoskokmotos/panoskokmotos/issues/21",
-      "title": "ZecHub bounty: Descubre ShieldedScan – Explorador de Zcash (0.03 ZEC)",
+      "issue": "https://github.com/onyx-dot-app/onyx/issues/2281",
+      "title": "Jira Service Management Connector",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/auscaster/frantic-board/issues/1",
-      "title": "Frantic Oath check-in",
+      "issue": "https://github.com/SharonKoch/Wiki_Demo/issues/11",
+      "title": "apollo-server-2.25.2.tgz: 26 vulnerabilities (highest severity is: 9.8)",
       "reward_usd": 0,
       "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/Expensify/App/issues/100882",
+      "title": "[$250] Web- Wallet - The popup moves is not repositioned properly after the window is resized",
+      "reward_usd": 250.0,
+      "status": "no supported execution contract"
     },
     {
       "issue": "https://github.com/Zoverions/AXIOM-MESH/issues/1575",
@@ -120,72 +150,42 @@
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/Monkestation/Monkestation2.0/issues/12966",
-      "title": "central command tasking terminal unable to be signed in",
+      "issue": "https://github.com/keepassxreboot/keepassxc/issues/3560",
+      "title": "Add support for hmac-secret FIDO2 extension",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/zio/zio-schema/issues/712",
-      "title": "JsonCodec decoder accepts malformed JSON string with extra characters",
+      "issue": "https://github.com/tari-project/universe/issues/3489",
+      "title": "Linux Flatpak: copy to clipboard silently fails under Wayland (no X11 in sandbox)",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/panoskokmotos/panoskokmotos/issues/23",
-      "title": "ZecHub bounty: Hausa: native review of the ZecHub glossary, menus and top pages (0.025 ZEC)",
+      "issue": "https://github.com/bizzal70/itsalreadypriced/issues/1",
+      "title": "🔎 Daily content review — It's Already Priced — Blog + X",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/panoskokmotos/panoskokmotos/issues/22",
-      "title": "ZecHub bounty: Traducción de Inglés a Español | Zcash Shielded News (0.022 ZEC)",
+      "issue": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/2",
+      "title": "[BOUNTY $75] TEMPLATE: CLAUDE.md for a Next.js + SQLite SaaS project",
+      "reward_usd": 75.0,
+      "status": "no supported execution contract"
+    },
+    {
+      "issue": "https://github.com/quadseven/loom/issues/30",
+      "title": "Goal: Loom keeps your goals moving on every subscription",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     },
     {
-      "issue": "https://github.com/rsoreq-mend/AutoGPT/issues/324",
-      "title": "autogpt_forge-0.2.0: 99 vulnerabilities (highest severity is: 10.0) [master]",
-      "reward_usd": 0,
-      "status": "unsafe task"
-    },
-    {
-      "issue": "https://github.com/7zones/chongluadao-extension/issues/58",
-      "title": "mongoose-5.11.19.tgz: 13 vulnerabilities (highest severity is: 10.0)",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/meshcore-dev/MeshCore/issues/945",
-      "title": "Suggestion: new \"USA Regulatory\" preset",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/Sowmya-mvs/MVSContosoAir/issues/8",
-      "title": "mongoose-5.3.7.tgz: 18 vulnerabilities (highest severity is: 10.0)",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/TheSolaAI/sola-application/issues/157",
-      "title": "Make blinks interaction Handsfree",
-      "reward_usd": 0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/ZSBRybnik/backend/issues/1270",
-      "title": "mongoose-6.10.3.tgz: 13 vulnerabilities (highest severity is: 10.0)",
-      "reward_usd": 0,
-      "status": "unsafe task"
-    },
-    {
-      "issue": "https://github.com/ttnhan18062000/rpg-based-simulation/issues/715",
-      "title": "Approvals log (both leads acknowledge; an ack is not an approval)",
+      "issue": "https://github.com/amaybaum-prod/spectrum/issues/54",
+      "title": "http-proxy-middleware-1.0.4.tgz: 14 vulnerabilities (highest severity is: 8.0) reachable",
       "reward_usd": 0,
       "status": "no explicit USD reward"
     }
   ],
   "notice": "A PR is not proof of acceptance or payment.",
-  "generated_at": "2026-11-10T01:40:42.973065+00:00"
+  "generated_at": "2026-11-10T13:25:44.855406+00:00"
 }
