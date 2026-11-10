@@ -1,0 +1,43 @@
+name: OPTIMUS V3 Execution
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  execution:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Télécharger OPTIMUS
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installer GitHub CLI
+        run: sudo apt-get update && sudo apt-get install -y gh
+
+      - name: Vérifier le moteur
+        run: python -m py_compile optimus_executor_v3.py
+
+      - name: Exécuter OPTIMUS V3
+        env:
+          GH_SUBMIT_TOKEN: ${{ secrets.GH_SUBMIT_TOKEN }}
+          OPTIMUS_TARGET_REPOSITORY: ${{ github.repository }}
+          GITHUB_SHA: ${{ github.sha }}
+        run: python optimus_executor_v3.py
+
+      - name: Sauvegarder les rapports
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: optimus-v3-reports
+          path: |
+            optimus-v3-reports/
+            optimus-v3-workspaces/
