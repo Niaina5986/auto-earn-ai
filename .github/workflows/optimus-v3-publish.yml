@@ -1,0 +1,98 @@
+name: OPTIMUS V3 - Publish Report
+
+on:
+  workflow_run:
+    workflows:
+      - "OPTIMUS V3 Execution"
+    types:
+      - completed
+    branches:
+      - main
+
+permissions:
+  actions: read
+  contents: write
+
+jobs:
+  publish-report:
+
+    if: github.event.workflow_run.conclusion == 'success'
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # 1. Télécharger le dépôt
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Télécharger le rapport produit par OPTIMUS V3
+      - name: Download OPTIMUS V3 artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: optimus-v3-reports
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          path: ./optimus-v3-download
+
+      # 3. Vérifier et publier le rapport
+      - name: Publish latest.json
+        shell: bash
+        run: |
+
+          set -euo pipefail
+
+          echo "Recherche du rapport OPTIMUS..."
+
+          REPORT=$(find ./optimus-v3-download \
+            -type f \
+            -name "latest.json" \
+            -print -quit)
+
+          if [ -z "$REPORT" ]; then
+            echo "ERREUR : latest.json introuvable."
+            find ./optimus-v3-download -type f
+            exit 1
+          fi
+
+          echo "Rapport trouvé : $REPORT"
+
+          mkdir -p optimus-v3-reports
+
+          cp "$REPORT" optimus-v3-reports/latest.json
+
+          echo "Vérification JSON..."
+
+          python -m json.tool \
+            optimus-v3-reports/latest.json > /dev/null
+
+          # 4. Préparer Git
+          git config user.name "github-actions[bot]"
+
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add optimus-v3-reports/latest.json
+
+          # 5. Publier
+          if git diff --cached --quiet; then
+
+            echo "Le rapport est déjà à jour."
+
+          else
+
+            git commit -m "OPTIMUS V3: publish latest report"
+
+            git push origin HEAD:main
+
+            echo "Publication réussie."
+
+          fi
+
+      # 6. Afficher le résultat
+      - name: Publication terminée
+        run: echo "OPTIMUS V3 REPORT PUBLISHED"
