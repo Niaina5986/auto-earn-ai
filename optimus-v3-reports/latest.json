@@ -1,0 +1,11 @@
+{
+    "system": "OPTIMUS AI",
+    "version": "3.0",
+    "date": "2026-11-10T13:08:47.224071+00:00",
+    "status": "WAITING_FOR_MISSIONS",
+    "error": "Fichier optimus-missions.json absent.",
+    "total": 0,
+    "successful": 0,
+    "failed": 0,
+    "missions": []
+}
