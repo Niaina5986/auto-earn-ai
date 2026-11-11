@@ -1,1516 +1,1516 @@
 {
   "engine": "OPTIMUS AI",
   "version": "1.0.0",
-  "generated_at": "2026-11-10T23:23:41.164210+00:00",
+  "generated_at": "2026-11-11T06:23:28.287000+00:00",
   "statistics": {
     "discovered_this_run": 100,
-    "total_tracked": 380,
+    "total_tracked": 480,
     "submitted": 0,
     "accepted": 0,
     "paid": 0
   },
   "results": [
     {
-      "id": "MrDecryptDecipher/notional-judging#36",
+      "id": "ecarlste/x4-pirates-life-mod#98",
+      "repository": "ecarlste/x4-pirates-life-mod",
+      "number": 98,
+      "title": "Release criteria for the SWI build",
+      "url": "https://github.com/ecarlste/x4-pirates-life-mod/issues/98",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.196289+00:00"
+    },
+    {
+      "id": "tari-project/special_contributions#606",
+      "repository": "tari-project/special_contributions",
+      "number": 606,
+      "title": "Contribution: fix(template_lib): fix VaultFreezeFlags iterator, ProofAccess drop safety, and address allocations (tari-project/tari-ootle#3533)",
+      "url": "https://github.com/tari-project/special_contributions/issues/606",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.195971+00:00"
+    },
+    {
+      "id": "ecarlste/x4-pirates-life-mod#97",
+      "repository": "ecarlste/x4-pirates-life-mod",
+      "number": 97,
+      "title": "Deploy and game tests on the 8.00 NoSteam copy",
+      "url": "https://github.com/ecarlste/x4-pirates-life-mod/issues/97",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.196680+00:00"
+    },
+    {
+      "id": "ecarlste/x4-pirates-life-mod#94",
+      "repository": "ecarlste/x4-pirates-life-mod",
+      "number": 94,
+      "title": "Contract between swibh and A Pirate's Life",
+      "url": "https://github.com/ecarlste/x4-pirates-life-mod/issues/94",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.209192+00:00"
+    },
+    {
+      "id": "ecarlste/x4-pirates-life-mod#90",
+      "repository": "ecarlste/x4-pirates-life-mod",
+      "number": 90,
+      "title": "Where the SWI build and its docs live beside the 9.x line",
+      "url": "https://github.com/ecarlste/x4-pirates-life-mod/issues/90",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.217730+00:00"
+    },
+    {
+      "id": "ecarlste/x4-pirates-life-mod#89",
+      "repository": "ecarlste/x4-pirates-life-mod",
+      "number": 89,
+      "title": "Wayfinder: SWI build with S/M capture, published before episode 1",
+      "url": "https://github.com/ecarlste/x4-pirates-life-mod/issues/89",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.227098+00:00"
+    },
+    {
+      "id": "auscaster/frantic-board#592",
+      "repository": "auscaster/frantic-board",
+      "number": 592,
+      "title": "Vendor funding not credited: intake vendor-ad023165 (11 USDC paid on Base, desk still PAYMENT DUE)",
+      "url": "https://github.com/auscaster/frantic-board/issues/592",
+      "reward_usd": 11.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:27.236243+00:00"
+    },
+    {
+      "id": "the-omega-institute/trureturing#29155",
+      "repository": "the-omega-institute/trureturing",
+      "number": 29155,
+      "title": "Preregister: MO515934 multinomial top-k increment comparison",
+      "url": "https://github.com/the-omega-institute/trureturing/issues/29155",
+      "reward_usd": 1.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.245961+00:00"
+    },
+    {
+      "id": "ZecHub/zec-bounties#609",
+      "repository": "ZecHub/zec-bounties",
+      "number": 609,
+      "title": "bug(nav): \"My Bounties\" menu link goes to /teams/bounties and shows \"Team not found\"",
+      "url": "https://github.com/ZecHub/zec-bounties/issues/609",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.255079+00:00"
+    },
+    {
+      "id": "ZecHub/zec-bounties#608",
+      "repository": "ZecHub/zec-bounties",
+      "number": 608,
+      "title": "bug(teams): uploaded team banner not shown on /teams cards and cropped/stretched on the team page",
+      "url": "https://github.com/ZecHub/zec-bounties/issues/608",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.264405+00:00"
+    },
+    {
+      "id": "ZecHub/zec-bounties#607",
+      "repository": "ZecHub/zec-bounties",
+      "number": 607,
+      "title": "bug(teams): /teams summary stats show wrong numbers (Active bounties, Total members)",
+      "url": "https://github.com/ZecHub/zec-bounties/issues/607",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.273599+00:00"
+    },
+    {
+      "id": "trade-marketplace/main#534",
+      "repository": "trade-marketplace/main",
+      "number": 534,
+      "title": "Map kit: expose job navigation and dismissible legend in MapListLayout",
+      "url": "https://github.com/trade-marketplace/main/issues/534",
+      "reward_usd": 45.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:27.282751+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#73",
       "repository": "MrDecryptDecipher/notional-judging",
-      "number": 36,
+      "number": 73,
       "title": "[BUG BOUNTY] Notional - sub_07ffe75bac3146eaa6f4 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/36",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/73",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.324474+00:00"
+      "updated_at": "2026-11-11T06:23:27.292166+00:00"
     },
     {
-      "id": "MrDecryptDecipher/notional-judging#35",
+      "id": "MrDecryptDecipher/notional-judging#72",
       "repository": "MrDecryptDecipher/notional-judging",
-      "number": 35,
+      "number": 72,
       "title": "[BUG BOUNTY] Notional - sub_1ac60e987e4b4d6f9cbe by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/35",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/72",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.324921+00:00"
+      "updated_at": "2026-11-11T06:23:27.301301+00:00"
     },
     {
-      "id": "MrDecryptDecipher/notional-judging#34",
+      "id": "MrDecryptDecipher/notional-judging#71",
       "repository": "MrDecryptDecipher/notional-judging",
-      "number": 34,
+      "number": 71,
       "title": "[BUG BOUNTY] Notional - sub_1515b542dbfa4c7b9c28 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/34",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/71",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.327521+00:00"
+      "updated_at": "2026-11-11T06:23:27.310593+00:00"
     },
     {
-      "id": "MrDecryptDecipher/notional-judging#33",
+      "id": "MrDecryptDecipher/notional-judging#70",
       "repository": "MrDecryptDecipher/notional-judging",
-      "number": 33,
+      "number": 70,
       "title": "[BUG BOUNTY] Notional - sub_7f97a76168734c14a42a by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/33",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/70",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.331613+00:00"
+      "updated_at": "2026-11-11T06:23:27.319849+00:00"
     },
     {
-      "id": "MrDecryptDecipher/notional-judging#32",
+      "id": "MrDecryptDecipher/notional-judging#69",
       "repository": "MrDecryptDecipher/notional-judging",
-      "number": 32,
+      "number": 69,
       "title": "[BUG BOUNTY] Notional - sub_b546fbcaa6ef438faa3a by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/32",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/69",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.340324+00:00"
+      "updated_at": "2026-11-11T06:23:27.329666+00:00"
     },
     {
-      "id": "xeprotocol/xe#347",
-      "repository": "xeprotocol/xe",
-      "number": 347,
-      "title": "[pre-notice] Planned controlled measurement of `GET /pending` latency under concurrent clients",
-      "url": "https://github.com/xeprotocol/xe/issues/347",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.347394+00:00"
-    },
-    {
-      "id": "coreguard-global/CoreGuard#31",
-      "repository": "coreguard-global/CoreGuard",
-      "number": 31,
-      "title": "Community bounties & contributor program (open call)",
-      "url": "https://github.com/coreguard-global/CoreGuard/issues/31",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.354892+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#31",
+      "id": "MrDecryptDecipher/notional-judging#68",
       "repository": "MrDecryptDecipher/notional-judging",
-      "number": 31,
+      "number": 68,
       "title": "[BUG BOUNTY] Notional - sub_a715276be018464faf63 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/31",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/68",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.361959+00:00"
+      "updated_at": "2026-11-11T06:23:27.339062+00:00"
     },
     {
-      "id": "MrDecryptDecipher/notional-judging#30",
+      "id": "MrDecryptDecipher/notional-judging#67",
       "repository": "MrDecryptDecipher/notional-judging",
-      "number": 30,
+      "number": 67,
       "title": "[BUG BOUNTY] Notional - sub_7d864515469b48bbbc71 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/30",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/67",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.371457+00:00"
+      "updated_at": "2026-11-11T06:23:27.348437+00:00"
     },
     {
-      "id": "MrDecryptDecipher/notional-judging#29",
+      "id": "MrDecryptDecipher/notional-judging#66",
       "repository": "MrDecryptDecipher/notional-judging",
-      "number": 29,
+      "number": 66,
       "title": "[BUG BOUNTY] Notional - sub_7ffcec73ff9541d4a95c by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/29",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/66",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.378456+00:00"
+      "updated_at": "2026-11-11T06:23:27.357856+00:00"
     },
     {
-      "id": "MrDecryptDecipher/notional-judging#28",
+      "id": "MrDecryptDecipher/notional-judging#65",
       "repository": "MrDecryptDecipher/notional-judging",
-      "number": 28,
+      "number": 65,
       "title": "[BUG BOUNTY] Notional - sub_f6cced15a6cf4602b729 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/28",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/65",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.385426+00:00"
+      "updated_at": "2026-11-11T06:23:27.372679+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#39",
+      "id": "MrDecryptDecipher/optimism-update-judging#79",
       "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 39,
+      "number": 79,
       "title": "[BUG BOUNTY] Optimism Update - sub_4d8411823f1e48d2a376 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/39",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/79",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.392354+00:00"
+      "updated_at": "2026-11-11T06:23:27.382445+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#38",
+      "id": "MrDecryptDecipher/optimism-update-judging#78",
       "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 38,
+      "number": 78,
       "title": "[BUG BOUNTY] Optimism Update - sub_5723bfc2e95f46d9bf7b by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/38",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/78",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.399659+00:00"
+      "updated_at": "2026-11-11T06:23:27.392468+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#37",
+      "id": "MrDecryptDecipher/optimism-update-judging#77",
       "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 37,
+      "number": 77,
       "title": "[BUG BOUNTY] Optimism Update - sub_e29a886e7d6b41cd8a30 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/37",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/77",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.406607+00:00"
+      "updated_at": "2026-11-11T06:23:27.402212+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#36",
+      "id": "MrDecryptDecipher/optimism-update-judging#76",
       "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 36,
+      "number": 76,
       "title": "[BUG BOUNTY] Optimism Update - sub_d09fd4a3b8384d3fb825 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/36",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/76",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.413608+00:00"
+      "updated_at": "2026-11-11T06:23:27.411842+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#35",
+      "id": "MrDecryptDecipher/optimism-update-judging#75",
       "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 35,
+      "number": 75,
       "title": "[BUG BOUNTY] Optimism Update - sub_bd6de49e0e234f78b22f by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/35",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/75",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.420475+00:00"
+      "updated_at": "2026-11-11T06:23:27.421391+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#34",
+      "id": "MrDecryptDecipher/optimism-update-judging#74",
       "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 34,
+      "number": 74,
       "title": "[BUG BOUNTY] Optimism Update - sub_a927a86220f541859f39 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/34",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/74",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.427569+00:00"
+      "updated_at": "2026-11-11T06:23:27.431353+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#33",
+      "id": "MrDecryptDecipher/optimism-update-judging#73",
       "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 33,
+      "number": 73,
       "title": "[BUG BOUNTY] Optimism Update - sub_02f54a0307a7434da4ae by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/33",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/73",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.434563+00:00"
+      "updated_at": "2026-11-11T06:23:27.441844+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#32",
+      "id": "MrDecryptDecipher/optimism-update-judging#72",
       "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 32,
+      "number": 72,
       "title": "[BUG BOUNTY] Optimism Update - sub_25e2718237cb4d7a8ece by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/32",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/72",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.441926+00:00"
+      "updated_at": "2026-11-11T06:23:27.452344+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#31",
+      "id": "MrDecryptDecipher/optimism-update-judging#71",
       "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 31,
+      "number": 71,
       "title": "[BUG BOUNTY] Optimism Update - sub_748dca0b35fb48e9900b by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/31",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/71",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.448963+00:00"
+      "updated_at": "2026-11-11T06:23:27.462411+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#30",
+      "id": "MrDecryptDecipher/optimism-update-judging#70",
       "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 30,
+      "number": 70,
       "title": "[BUG BOUNTY] Optimism Update - sub_eb979e89713d4a46be65 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/30",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/70",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.456151+00:00"
+      "updated_at": "2026-11-11T06:23:27.472800+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#42",
+      "id": "MrDecryptDecipher/optimism-judging#82",
       "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 42,
+      "number": 82,
       "title": "[BUG BOUNTY] Optimism - sub_9932faeec4944728b1fa by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/42",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/82",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.463348+00:00"
+      "updated_at": "2026-11-11T06:23:27.483305+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#41",
+      "id": "MrDecryptDecipher/optimism-judging#81",
       "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 41,
+      "number": 81,
       "title": "[BUG BOUNTY] Optimism - sub_2e7c5359067146268eff by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/41",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/81",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.470582+00:00"
+      "updated_at": "2026-11-11T06:23:27.493749+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#40",
+      "id": "MrDecryptDecipher/optimism-judging#80",
       "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 40,
+      "number": 80,
       "title": "[BUG BOUNTY] Optimism - sub_ae1e6eb62d9d419aa244 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/40",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/80",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.477758+00:00"
+      "updated_at": "2026-11-11T06:23:27.509638+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#39",
+      "id": "MrDecryptDecipher/optimism-judging#79",
       "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 39,
+      "number": 79,
       "title": "[BUG BOUNTY] Optimism - sub_950a146decc34f06a58e by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/39",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/79",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.485572+00:00"
+      "updated_at": "2026-11-11T06:23:27.526388+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#38",
+      "id": "MrDecryptDecipher/optimism-judging#78",
       "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 38,
+      "number": 78,
       "title": "[BUG BOUNTY] Optimism - sub_52937ad080fd4cb78778 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/38",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/78",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.494512+00:00"
+      "updated_at": "2026-11-11T06:23:27.544212+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#37",
+      "id": "MrDecryptDecipher/optimism-judging#77",
       "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 37,
+      "number": 77,
       "title": "[BUG BOUNTY] Optimism - sub_26b5836207a044009ba6 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/37",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/77",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.502419+00:00"
+      "updated_at": "2026-11-11T06:23:27.561340+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#36",
+      "id": "MrDecryptDecipher/optimism-judging#76",
       "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 36,
+      "number": 76,
       "title": "[BUG BOUNTY] Optimism - sub_d30dc70eae444420adb1 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/36",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/76",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.509761+00:00"
+      "updated_at": "2026-11-11T06:23:27.571811+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#35",
+      "id": "MrDecryptDecipher/optimism-judging#75",
       "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 35,
+      "number": 75,
       "title": "[BUG BOUNTY] Optimism - sub_150ee240788a4d5e8f60 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/35",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/75",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.517153+00:00"
+      "updated_at": "2026-11-11T06:23:27.581662+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#34",
+      "id": "MrDecryptDecipher/optimism-judging#74",
       "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 34,
+      "number": 74,
       "title": "[BUG BOUNTY] Optimism - sub_dfd2b60fe6e44a5c928a by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/34",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/74",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.524559+00:00"
+      "updated_at": "2026-11-11T06:23:27.591776+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#33",
+      "id": "MrDecryptDecipher/optimism-judging#73",
       "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 33,
+      "number": 73,
       "title": "[BUG BOUNTY] Optimism - sub_a2205f013b3c4f889edc by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/33",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/73",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.532500+00:00"
+      "updated_at": "2026-11-11T06:23:27.602058+00:00"
     },
     {
-      "id": "Rohank143/BountyScout#92",
+      "id": "the-omega-institute/trureturing#29127",
+      "repository": "the-omega-institute/trureturing",
+      "number": 29127,
+      "title": "Preregister: settle Paradox’s four-point directional cocoercivity question (MathOverflow 516643, full original scope)",
+      "url": "https://github.com/the-omega-institute/trureturing/issues/29127",
+      "reward_usd": 2.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.612562+00:00"
+    },
+    {
+      "id": "ZecHub/zec-bounties#606",
+      "repository": "ZecHub/zec-bounties",
+      "number": 606,
+      "title": "Payout status for completed 0.04 ZEC arrow-key search bounty",
+      "url": "https://github.com/ZecHub/zec-bounties/issues/606",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.622779+00:00"
+    },
+    {
+      "id": "Invoice-Liquidity-Network/ILN-Smart-Contract#1157",
+      "repository": "Invoice-Liquidity-Network/ILN-Smart-Contract",
+      "number": 1157,
+      "title": "Security report — please advise on a private channel",
+      "url": "https://github.com/Invoice-Liquidity-Network/ILN-Smart-Contract/issues/1157",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.632994+00:00"
+    },
+    {
+      "id": "gordonpn/anime-recommendation#150",
+      "repository": "gordonpn/anime-recommendation",
+      "number": 150,
+      "title": "[Story] Generate verifiable, multi-source recommendation explanations with ScoreBreakdown",
+      "url": "https://github.com/gordonpn/anime-recommendation/issues/150",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.644977+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#64",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 64,
+      "title": "[BUG BOUNTY] Notional - sub_07ffe75bac3146eaa6f4 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/64",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.655140+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#63",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 63,
+      "title": "[BUG BOUNTY] Notional - sub_1ac60e987e4b4d6f9cbe by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/63",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.665423+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#62",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 62,
+      "title": "[BUG BOUNTY] Notional - sub_1515b542dbfa4c7b9c28 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/62",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.676145+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#61",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 61,
+      "title": "[BUG BOUNTY] Notional - sub_7f97a76168734c14a42a by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/61",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.686400+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#60",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 60,
+      "title": "[BUG BOUNTY] Notional - sub_b546fbcaa6ef438faa3a by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/60",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.696483+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#59",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 59,
+      "title": "[BUG BOUNTY] Notional - sub_a715276be018464faf63 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/59",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.708265+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#58",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 58,
+      "title": "[BUG BOUNTY] Notional - sub_7d864515469b48bbbc71 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/58",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.718707+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#57",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 57,
+      "title": "[BUG BOUNTY] Notional - sub_7ffcec73ff9541d4a95c by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/57",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.731952+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#56",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 56,
+      "title": "[BUG BOUNTY] Notional - sub_f6cced15a6cf4602b729 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/56",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.742418+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#69",
+      "repository": "MrDecryptDecipher/optimism-update-judging",
+      "number": 69,
+      "title": "[BUG BOUNTY] Optimism Update - sub_4d8411823f1e48d2a376 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/69",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.752807+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#68",
+      "repository": "MrDecryptDecipher/optimism-update-judging",
+      "number": 68,
+      "title": "[BUG BOUNTY] Optimism Update - sub_5723bfc2e95f46d9bf7b by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/68",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.763083+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#67",
+      "repository": "MrDecryptDecipher/optimism-update-judging",
+      "number": 67,
+      "title": "[BUG BOUNTY] Optimism Update - sub_e29a886e7d6b41cd8a30 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/67",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.773935+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#66",
+      "repository": "MrDecryptDecipher/optimism-update-judging",
+      "number": 66,
+      "title": "[BUG BOUNTY] Optimism Update - sub_d09fd4a3b8384d3fb825 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/66",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.784457+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#65",
+      "repository": "MrDecryptDecipher/optimism-update-judging",
+      "number": 65,
+      "title": "[BUG BOUNTY] Optimism Update - sub_bd6de49e0e234f78b22f by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/65",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.794963+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#64",
+      "repository": "MrDecryptDecipher/optimism-update-judging",
+      "number": 64,
+      "title": "[BUG BOUNTY] Optimism Update - sub_a927a86220f541859f39 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/64",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.805264+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#63",
+      "repository": "MrDecryptDecipher/optimism-update-judging",
+      "number": 63,
+      "title": "[BUG BOUNTY] Optimism Update - sub_02f54a0307a7434da4ae by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/63",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.815497+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#62",
+      "repository": "MrDecryptDecipher/optimism-update-judging",
+      "number": 62,
+      "title": "[BUG BOUNTY] Optimism Update - sub_25e2718237cb4d7a8ece by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/62",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.825887+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#61",
+      "repository": "MrDecryptDecipher/optimism-update-judging",
+      "number": 61,
+      "title": "[BUG BOUNTY] Optimism Update - sub_748dca0b35fb48e9900b by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/61",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.836301+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#60",
+      "repository": "MrDecryptDecipher/optimism-update-judging",
+      "number": 60,
+      "title": "[BUG BOUNTY] Optimism Update - sub_eb979e89713d4a46be65 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/60",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.846896+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#72",
+      "repository": "MrDecryptDecipher/optimism-judging",
+      "number": 72,
+      "title": "[BUG BOUNTY] Optimism - sub_9932faeec4944728b1fa by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/72",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.857381+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#71",
+      "repository": "MrDecryptDecipher/optimism-judging",
+      "number": 71,
+      "title": "[BUG BOUNTY] Optimism - sub_2e7c5359067146268eff by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/71",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.867877+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#70",
+      "repository": "MrDecryptDecipher/optimism-judging",
+      "number": 70,
+      "title": "[BUG BOUNTY] Optimism - sub_ae1e6eb62d9d419aa244 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/70",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.878317+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#69",
+      "repository": "MrDecryptDecipher/optimism-judging",
+      "number": 69,
+      "title": "[BUG BOUNTY] Optimism - sub_950a146decc34f06a58e by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/69",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.889190+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#68",
+      "repository": "MrDecryptDecipher/optimism-judging",
+      "number": 68,
+      "title": "[BUG BOUNTY] Optimism - sub_52937ad080fd4cb78778 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/68",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.899919+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#67",
+      "repository": "MrDecryptDecipher/optimism-judging",
+      "number": 67,
+      "title": "[BUG BOUNTY] Optimism - sub_26b5836207a044009ba6 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/67",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.910524+00:00"
+    },
+    {
+      "id": "emunlabs/chinwag#31",
+      "repository": "emunlabs/chinwag",
+      "number": 31,
+      "title": "CHWG-0201: Connect Zed and Neovim (+500 Cr bounty)",
+      "url": "https://github.com/emunlabs/chinwag/issues/31",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.921162+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#66",
+      "repository": "MrDecryptDecipher/optimism-judging",
+      "number": 66,
+      "title": "[BUG BOUNTY] Optimism - sub_d30dc70eae444420adb1 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/66",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.932183+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#65",
+      "repository": "MrDecryptDecipher/optimism-judging",
+      "number": 65,
+      "title": "[BUG BOUNTY] Optimism - sub_150ee240788a4d5e8f60 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/65",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.942984+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#64",
+      "repository": "MrDecryptDecipher/optimism-judging",
+      "number": 64,
+      "title": "[BUG BOUNTY] Optimism - sub_dfd2b60fe6e44a5c928a by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/64",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.953922+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#63",
+      "repository": "MrDecryptDecipher/optimism-judging",
+      "number": 63,
+      "title": "[BUG BOUNTY] Optimism - sub_a2205f013b3c4f889edc by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/63",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.964627+00:00"
+    },
+    {
+      "id": "Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram#106",
+      "repository": "Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram",
+      "number": 106,
+      "title": "Retroactive Grant Application - Ledger Zcash App Vulnerability Disclosure: Memo Crash and Device Wipe (GHSA-376f-cc2v-g94c)",
+      "url": "https://github.com/Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram/issues/106",
+      "reward_usd": 150.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:27.975345+00:00"
+    },
+    {
+      "id": "Rohank143/BountyScout#93",
       "repository": "Rohank143/BountyScout",
-      "number": 92,
-      "title": "🎯 Bounty Alert: 16 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/92",
-      "reward_usd": 450.0,
+      "number": 93,
+      "title": "🎯 Bounty Alert: 15 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/93",
+      "reward_usd": 600.0,
       "status": "no_supported_contract",
-      "updated_at": "2026-11-10T23:23:40.540223+00:00"
+      "updated_at": "2026-11-11T06:23:27.986378+00:00"
     },
     {
-      "id": "dotnet/announcements#524",
-      "repository": "dotnet/announcements",
-      "number": 524,
-      "title": "Microsoft Security Advisory CVE-2026-118745 | Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/524",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.550175+00:00"
-    },
-    {
-      "id": "dotnet/runtime#137305",
-      "repository": "dotnet/runtime",
-      "number": 137305,
-      "title": "Microsoft Security Advisory CVE-2026-118745 | Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/runtime/issues/137305",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.563855+00:00"
-    },
-    {
-      "id": "dotnet/announcements#523",
-      "repository": "dotnet/announcements",
-      "number": 523,
-      "title": "Microsoft Security Advisory CVE-2026-114152 | Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/523",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.573124+00:00"
-    },
-    {
-      "id": "dotnet/runtime#137304",
-      "repository": "dotnet/runtime",
-      "number": 137304,
-      "title": "Microsoft Security Advisory CVE-2026-114152 | Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/runtime/issues/137304",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.581044+00:00"
-    },
-    {
-      "id": "dotnet/announcements#522",
-      "repository": "dotnet/announcements",
-      "number": 522,
-      "title": "Microsoft Security Advisory CVE-2026-114151 | Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/522",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.588761+00:00"
-    },
-    {
-      "id": "dotnet/runtime#137303",
-      "repository": "dotnet/runtime",
-      "number": 137303,
-      "title": "Microsoft Security Advisory CVE-2026-114151 | Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/runtime/issues/137303",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.596648+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#27",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 27,
-      "title": "[BUG BOUNTY] Notional - sub_07ffe75bac3146eaa6f4 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/27",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.604313+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#26",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 26,
-      "title": "[BUG BOUNTY] Notional - sub_1ac60e987e4b4d6f9cbe by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/26",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.612181+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#25",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 25,
-      "title": "[BUG BOUNTY] Notional - sub_1515b542dbfa4c7b9c28 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/25",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.619861+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#24",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 24,
-      "title": "[BUG BOUNTY] Notional - sub_7f97a76168734c14a42a by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/24",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.627734+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#23",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 23,
-      "title": "[BUG BOUNTY] Notional - sub_b546fbcaa6ef438faa3a by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/23",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.635633+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#22",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 22,
-      "title": "[BUG BOUNTY] Notional - sub_a715276be018464faf63 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/22",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.643704+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#21",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 21,
-      "title": "[BUG BOUNTY] Notional - sub_7d864515469b48bbbc71 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/21",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.651822+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#20",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 20,
-      "title": "[BUG BOUNTY] Notional - sub_7ffcec73ff9541d4a95c by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/20",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.659522+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#19",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 19,
-      "title": "[BUG BOUNTY] Notional - sub_f6cced15a6cf4602b729 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/19",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.668094+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#29",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 29,
-      "title": "[BUG BOUNTY] Optimism Update - sub_4d8411823f1e48d2a376 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/29",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.676014+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#28",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 28,
-      "title": "[BUG BOUNTY] Optimism Update - sub_5723bfc2e95f46d9bf7b by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/28",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.684085+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#27",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 27,
-      "title": "[BUG BOUNTY] Optimism Update - sub_e29a886e7d6b41cd8a30 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/27",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.692070+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#26",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 26,
-      "title": "[BUG BOUNTY] Optimism Update - sub_d09fd4a3b8384d3fb825 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/26",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.700151+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#25",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 25,
-      "title": "[BUG BOUNTY] Optimism Update - sub_bd6de49e0e234f78b22f by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/25",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.708225+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#24",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 24,
-      "title": "[BUG BOUNTY] Optimism Update - sub_a927a86220f541859f39 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/24",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.716374+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#23",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 23,
-      "title": "[BUG BOUNTY] Optimism Update - sub_02f54a0307a7434da4ae by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/23",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.724523+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#22",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 22,
-      "title": "[BUG BOUNTY] Optimism Update - sub_25e2718237cb4d7a8ece by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/22",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.734232+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#21",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 21,
-      "title": "[BUG BOUNTY] Optimism Update - sub_748dca0b35fb48e9900b by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/21",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.743876+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#20",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 20,
-      "title": "[BUG BOUNTY] Optimism Update - sub_eb979e89713d4a46be65 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/20",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.752239+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#32",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 32,
-      "title": "[BUG BOUNTY] Optimism - sub_9932faeec4944728b1fa by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/32",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.760452+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#31",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 31,
-      "title": "[BUG BOUNTY] Optimism - sub_2e7c5359067146268eff by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/31",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.769386+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#30",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 30,
-      "title": "[BUG BOUNTY] Optimism - sub_ae1e6eb62d9d419aa244 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/30",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.777455+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#29",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 29,
-      "title": "[BUG BOUNTY] Optimism - sub_950a146decc34f06a58e by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/29",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.785757+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#28",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 28,
-      "title": "[BUG BOUNTY] Optimism - sub_52937ad080fd4cb78778 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/28",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.794063+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#27",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 27,
-      "title": "[BUG BOUNTY] Optimism - sub_26b5836207a044009ba6 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/27",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.802397+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#26",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 26,
-      "title": "[BUG BOUNTY] Optimism - sub_d30dc70eae444420adb1 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/26",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.810693+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#25",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 25,
-      "title": "[BUG BOUNTY] Optimism - sub_150ee240788a4d5e8f60 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/25",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.819170+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#24",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 24,
-      "title": "[BUG BOUNTY] Optimism - sub_dfd2b60fe6e44a5c928a by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/24",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.827433+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#23",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 23,
-      "title": "[BUG BOUNTY] Optimism - sub_a2205f013b3c4f889edc by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/23",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.835607+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#18",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 18,
-      "title": "[BUG BOUNTY] Notional - sub_07ffe75bac3146eaa6f4 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/18",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.844125+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#17",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 17,
-      "title": "[BUG BOUNTY] Notional - sub_1ac60e987e4b4d6f9cbe by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/17",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.852422+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#16",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 16,
-      "title": "[BUG BOUNTY] Notional - sub_1515b542dbfa4c7b9c28 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/16",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.860713+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#15",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 15,
-      "title": "[BUG BOUNTY] Notional - sub_7f97a76168734c14a42a by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/15",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.869717+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#14",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 14,
-      "title": "[BUG BOUNTY] Notional - sub_b546fbcaa6ef438faa3a by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/14",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.878041+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#13",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 13,
-      "title": "[BUG BOUNTY] Notional - sub_a715276be018464faf63 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/13",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.886357+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#12",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 12,
-      "title": "[BUG BOUNTY] Notional - sub_7d864515469b48bbbc71 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/12",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.894991+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#11",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 11,
-      "title": "[BUG BOUNTY] Notional - sub_7ffcec73ff9541d4a95c by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/11",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.903493+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#10",
-      "repository": "MrDecryptDecipher/notional-judging",
-      "number": 10,
-      "title": "[BUG BOUNTY] Notional - sub_f6cced15a6cf4602b729 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/10",
-      "reward_usd": 100.0,
+      "id": "dev-kp-eloper/BountyScout#1751",
+      "repository": "dev-kp-eloper/BountyScout",
+      "number": 1751,
+      "title": "🎯 Bounty Alert: 11 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1751",
+      "reward_usd": 600.0,
       "status": "no_supported_contract",
-      "updated_at": "2026-11-10T23:23:40.911990+00:00"
+      "updated_at": "2026-11-11T06:23:27.997208+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#19",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 19,
-      "title": "[BUG BOUNTY] Optimism Update - sub_4d8411823f1e48d2a376 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/19",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.920688+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#18",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 18,
-      "title": "[BUG BOUNTY] Optimism Update - sub_5723bfc2e95f46d9bf7b by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/18",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.929215+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#17",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 17,
-      "title": "[BUG BOUNTY] Optimism Update - sub_e29a886e7d6b41cd8a30 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/17",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.937701+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#16",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 16,
-      "title": "[BUG BOUNTY] Optimism Update - sub_d09fd4a3b8384d3fb825 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/16",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.946383+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#15",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 15,
-      "title": "[BUG BOUNTY] Optimism Update - sub_bd6de49e0e234f78b22f by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/15",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.955101+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#14",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 14,
-      "title": "[BUG BOUNTY] Optimism Update - sub_a927a86220f541859f39 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/14",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.964267+00:00"
-    },
-    {
-      "id": "dotnet/announcements#521",
-      "repository": "dotnet/announcements",
-      "number": 521,
-      "title": "Microsoft Security Advisory CVE-2026-114159 | Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/521",
+      "id": "Questie/QuestieDB#172",
+      "repository": "Questie/QuestieDB",
+      "number": 172,
+      "title": "[Forever] 1.0.14 limits shared Zephras Isle quests to SKYBORNE_ALLIANCE, but Horde Skyborne can take them",
+      "url": "https://github.com/Questie/QuestieDB/issues/172",
       "reward_usd": 0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.973233+00:00"
+      "updated_at": "2026-11-11T06:23:28.008082+00:00"
     },
     {
-      "id": "dotnet/runtime#137296",
-      "repository": "dotnet/runtime",
-      "number": 137296,
-      "title": "Microsoft Security Advisory CVE-2026-114159 | Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/runtime/issues/137296",
+      "id": "iammenasco/flarewise#296",
+      "repository": "iammenasco/flarewise",
+      "number": 296,
+      "title": "Add food: Warm Bounty Peach & Berry Fruit Cobbler with Vanilla Ice Cream (Pirate Night)",
+      "url": "https://github.com/iammenasco/flarewise/issues/296",
       "reward_usd": 0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.982279+00:00"
+      "updated_at": "2026-11-11T06:23:28.019254+00:00"
     },
     {
-      "id": "dotnet/announcements#520",
-      "repository": "dotnet/announcements",
-      "number": 520,
-      "title": "Microsoft Security Advisory CVE-2026-114158 | Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/announcements/issues/520",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.991421+00:00"
-    },
-    {
-      "id": "dotnet/runtime#137295",
-      "repository": "dotnet/runtime",
-      "number": 137295,
-      "title": "Microsoft Security Advisory CVE-2026-114158 | Visual Studio Remote Code Execution Vulnerability",
-      "url": "https://github.com/dotnet/runtime/issues/137295",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.001455+00:00"
-    },
-    {
-      "id": "theselfish/SlopStation13#40",
-      "repository": "theselfish/SlopStation13",
-      "number": 40,
-      "title": "[BOUNTY][$420][ADD] P. Diddy Lube",
-      "url": "https://github.com/theselfish/SlopStation13/issues/40",
+      "id": "zhangjiayang6835-cyber/bounty-plaza#4309",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4309,
+      "title": "[Bounty] [BOUNTY][$420][ADD] P. Diddy Lube",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4309",
       "reward_usd": 420.0,
       "status": "no_supported_contract",
-      "updated_at": "2026-11-10T23:23:41.010578+00:00"
+      "updated_at": "2026-11-11T06:23:28.030158+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#13",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 13,
-      "title": "[BUG BOUNTY] Optimism Update - sub_25e2718237cb4d7a8ece by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/13",
-      "reward_usd": 0.0,
+      "id": "zhangjiayang6835-cyber/bounty-plaza#4308",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4308,
+      "title": "[Bounty] [Escrowed $450 USDC] Fix canonical string frame ceiling and align deterministic ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4308",
+      "reward_usd": 450.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:28.040952+00:00"
+    },
+    {
+      "id": "zhangjiayang6835-cyber/bounty-plaza#4307",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4307,
+      "title": "[Bounty] [Escrowed $600 USDC] Verify zero-reallocation UTF-8 frame lifting under determin",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4307",
+      "reward_usd": 600.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:28.052005+00:00"
+    },
+    {
+      "id": "zhangjiayang6835-cyber/bounty-plaza#4305",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4305,
+      "title": "[Bounty] [Escrowed $600 USDC] Reject non-canonical S >= L scalar encodings without variab",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4305",
+      "reward_usd": 600.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:28.062967+00:00"
+    },
+    {
+      "id": "zhangjiayang6835-cyber/bounty-plaza#4306",
+      "repository": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4306,
+      "title": "[Bounty] [Escrowed $450 USDC] Fix wire-frame ceiling off-by-one and align constant-time r",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4306",
+      "reward_usd": 450.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:28.074174+00:00"
+    },
+    {
+      "id": "dotnet/announcements#525",
+      "repository": "dotnet/announcements",
+      "number": 525,
+      "title": "Microsoft Security Advisory CVE-2026-118741 | ASP.NET Core Elevation of Privilege Vulnerability",
+      "url": "https://github.com/dotnet/announcements/issues/525",
+      "reward_usd": 0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.019685+00:00"
+      "updated_at": "2026-11-11T06:23:28.085788+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#12",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 12,
-      "title": "[BUG BOUNTY] Optimism Update - sub_748dca0b35fb48e9900b by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/12",
-      "reward_usd": 0.0,
+      "id": "dotnet/Scaffolding#3959",
+      "repository": "dotnet/Scaffolding",
+      "number": 3959,
+      "title": "Microsoft Security Advisory CVE-2026-118741 | ASP.NET Core Elevation of Privilege Vulnerability",
+      "url": "https://github.com/dotnet/Scaffolding/issues/3959",
+      "reward_usd": 0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.028462+00:00"
+      "updated_at": "2026-11-11T06:23:28.097249+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#11",
-      "repository": "MrDecryptDecipher/optimism-update-judging",
-      "number": 11,
-      "title": "[BUG BOUNTY] Optimism Update - sub_eb979e89713d4a46be65 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/11",
-      "reward_usd": 0.0,
+      "id": "freedom-winds/BountyScout#1403",
+      "repository": "freedom-winds/BountyScout",
+      "number": 1403,
+      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1403",
+      "reward_usd": 0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.037390+00:00"
+      "updated_at": "2026-11-11T06:23:28.108566+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#22",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 22,
-      "title": "[BUG BOUNTY] Optimism - sub_9932faeec4944728b1fa by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/22",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.046301+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#21",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 21,
-      "title": "[BUG BOUNTY] Optimism - sub_2e7c5359067146268eff by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/21",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.055029+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#20",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 20,
-      "title": "[BUG BOUNTY] Optimism - sub_ae1e6eb62d9d419aa244 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/20",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.063713+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#19",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 19,
-      "title": "[BUG BOUNTY] Optimism - sub_950a146decc34f06a58e by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/19",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.072694+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/2025-11-sequence-findings#6",
-      "repository": "MrDecryptDecipher/2025-11-sequence-findings",
-      "number": 6,
-      "title": "[BUG BOUNTY] Sequence: Transaction Rails - sub_1f1a18bc1e1749e98ed8 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/2025-11-sequence-findings/issues/6",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.085637+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/2025-11-sequence-findings#5",
-      "repository": "MrDecryptDecipher/2025-11-sequence-findings",
-      "number": 5,
-      "title": "[BUG BOUNTY] Sequence: Transaction Rails - sub_11bc201d89094e9aa92c by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/2025-11-sequence-findings/issues/5",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.094510+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/2025-11-sequence-findings#4",
-      "repository": "MrDecryptDecipher/2025-11-sequence-findings",
+      "id": "emet-labs/website#4",
+      "repository": "emet-labs/website",
       "number": 4,
-      "title": "[BUG BOUNTY] Sequence: Transaction Rails - sub_a1eee46023f645b5ba2b by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/2025-11-sequence-findings/issues/4",
-      "reward_usd": 0.0,
+      "title": "Website Overhaul: Design Review Findings, Implementation Status, and Remaining Work",
+      "url": "https://github.com/emet-labs/website/issues/4",
+      "reward_usd": 0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.103664+00:00"
+      "updated_at": "2026-11-11T06:23:28.120080+00:00"
     },
     {
-      "id": "MrDecryptDecipher/2025-11-sequence-findings#3",
-      "repository": "MrDecryptDecipher/2025-11-sequence-findings",
-      "number": 3,
-      "title": "[BUG BOUNTY] Sequence: Transaction Rails - sub_0c6dcebf2c30479c9b4c by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/2025-11-sequence-findings/issues/3",
+      "id": "MrDecryptDecipher/notional-judging#55",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 55,
+      "title": "[BUG BOUNTY] Notional - sub_07ffe75bac3146eaa6f4 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/55",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.112905+00:00"
+      "updated_at": "2026-11-11T06:23:28.131357+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#18",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 18,
-      "title": "[BUG BOUNTY] Optimism - sub_52937ad080fd4cb78778 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/18",
+      "id": "MrDecryptDecipher/notional-judging#54",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 54,
+      "title": "[BUG BOUNTY] Notional - sub_1ac60e987e4b4d6f9cbe by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/54",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.121758+00:00"
+      "updated_at": "2026-11-11T06:23:28.142387+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#17",
-      "repository": "MrDecryptDecipher/optimism-judging",
-      "number": 17,
-      "title": "[BUG BOUNTY] Optimism - sub_26b5836207a044009ba6 by Sandeep Kumar Sahoo",
-      "url": "https://github.com/MrDecryptDecipher/optimism-judging/issues/17",
+      "id": "MrDecryptDecipher/notional-judging#53",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 53,
+      "title": "[BUG BOUNTY] Notional - sub_1515b542dbfa4c7b9c28 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/53",
       "reward_usd": 0.0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.130966+00:00"
+      "updated_at": "2026-11-11T06:23:28.153486+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#52",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 52,
+      "title": "[BUG BOUNTY] Notional - sub_7f97a76168734c14a42a by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/52",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.164711+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#51",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 51,
+      "title": "[BUG BOUNTY] Notional - sub_b546fbcaa6ef438faa3a by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/51",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.175944+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#50",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 50,
+      "title": "[BUG BOUNTY] Notional - sub_a715276be018464faf63 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/50",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.187257+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#49",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 49,
+      "title": "[BUG BOUNTY] Notional - sub_7d864515469b48bbbc71 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/49",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.198914+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#48",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 48,
+      "title": "[BUG BOUNTY] Notional - sub_7ffcec73ff9541d4a95c by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/48",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.210333+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#47",
+      "repository": "MrDecryptDecipher/notional-judging",
+      "number": 47,
+      "title": "[BUG BOUNTY] Notional - sub_f6cced15a6cf4602b729 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/notional-judging/issues/47",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.221739+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#59",
+      "repository": "MrDecryptDecipher/optimism-update-judging",
+      "number": 59,
+      "title": "[BUG BOUNTY] Optimism Update - sub_4d8411823f1e48d2a376 by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/59",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.233090+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#58",
+      "repository": "MrDecryptDecipher/optimism-update-judging",
+      "number": 58,
+      "title": "[BUG BOUNTY] Optimism Update - sub_5723bfc2e95f46d9bf7b by Sandeep Kumar Sahoo",
+      "url": "https://github.com/MrDecryptDecipher/optimism-update-judging/issues/58",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.245282+00:00"
     }
   ],
   "history": [
     {
-      "id": "MrDecryptDecipher/notional-judging#36",
+      "id": "ecarlste/x4-pirates-life-mod#98",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.328870+00:00"
+      "updated_at": "2026-11-11T06:23:27.205247+00:00"
     },
     {
-      "id": "MrDecryptDecipher/notional-judging#35",
+      "id": "tari-project/special_contributions#606",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.343179+00:00"
+      "updated_at": "2026-11-11T06:23:27.221551+00:00"
     },
     {
-      "id": "MrDecryptDecipher/notional-judging#34",
+      "id": "ecarlste/x4-pirates-life-mod#97",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.348838+00:00"
+      "updated_at": "2026-11-11T06:23:27.230867+00:00"
     },
     {
-      "id": "MrDecryptDecipher/notional-judging#33",
+      "id": "ecarlste/x4-pirates-life-mod#94",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.357738+00:00"
+      "updated_at": "2026-11-11T06:23:27.240499+00:00"
     },
     {
-      "id": "MrDecryptDecipher/notional-judging#32",
+      "id": "ecarlste/x4-pirates-life-mod#90",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.364957+00:00"
+      "updated_at": "2026-11-11T06:23:27.247926+00:00"
     },
     {
-      "id": "xeprotocol/xe#347",
+      "id": "ecarlste/x4-pirates-life-mod#89",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.372876+00:00"
+      "updated_at": "2026-11-11T06:23:27.259069+00:00"
     },
     {
-      "id": "coreguard-global/CoreGuard#31",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.381290+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#31",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.388202+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#30",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.393948+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#29",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.402439+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#28",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.408091+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#39",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.416359+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#38",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.421921+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#37",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.430346+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#36",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.437608+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#35",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.444724+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#34",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.451850+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#33",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.458977+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#32",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.464812+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#31",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.473447+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#30",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.481180+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#42",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.490052+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#41",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.496293+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#40",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.503939+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#39",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.512741+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#38",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.520093+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#37",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.527496+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#36",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.535567+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#35",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.543209+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#34",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.554795+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#33",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.568511+00:00"
-    },
-    {
-      "id": "Rohank143/BountyScout#92",
+      "id": "auscaster/frantic-board#592",
       "status": "no_supported_contract",
-      "updated_at": "2026-11-10T23:23:40.574757+00:00"
+      "updated_at": "2026-11-11T06:23:27.268244+00:00"
     },
     {
-      "id": "dotnet/announcements#524",
+      "id": "the-omega-institute/trureturing#29155",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.582610+00:00"
+      "updated_at": "2026-11-11T06:23:27.275609+00:00"
     },
     {
-      "id": "dotnet/runtime#137305",
+      "id": "ZecHub/zec-bounties#609",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.590318+00:00"
+      "updated_at": "2026-11-11T06:23:27.284808+00:00"
     },
     {
-      "id": "dotnet/announcements#523",
+      "id": "ZecHub/zec-bounties#608",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.599667+00:00"
+      "updated_at": "2026-11-11T06:23:27.295949+00:00"
     },
     {
-      "id": "dotnet/runtime#137304",
+      "id": "ZecHub/zec-bounties#607",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.607566+00:00"
+      "updated_at": "2026-11-11T06:23:27.305095+00:00"
     },
     {
-      "id": "dotnet/announcements#522",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.615312+00:00"
-    },
-    {
-      "id": "dotnet/runtime#137303",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.621495+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#27",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.629384+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#26",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.638672+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#25",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.646743+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#24",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.654858+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#23",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.663287+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#22",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.671282+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#21",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.679393+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#20",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.687284+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#19",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.693789+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#29",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.701872+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#28",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.709876+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#27",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.719713+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#26",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.729370+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#25",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.737669+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#24",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.747298+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#23",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.755500+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#22",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.764526+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#21",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.771043+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-update-judging#20",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.780657+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#32",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.787642+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#31",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.797410+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#30",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.804094+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#29",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.814248+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#28",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.820927+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#27",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.830676+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#26",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.839027+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#25",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.847470+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#24",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.854138+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/optimism-judging#23",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.864458+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#18",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.871397+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#17",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.881405+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#16",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.888214+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#15",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.898503+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#14",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.906843+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#13",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.913778+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#12",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.924112+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#11",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.930976+00:00"
-    },
-    {
-      "id": "MrDecryptDecipher/notional-judging#10",
+      "id": "trade-marketplace/main#534",
       "status": "no_supported_contract",
-      "updated_at": "2026-11-10T23:23:40.941082+00:00"
+      "updated_at": "2026-11-11T06:23:27.314390+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#19",
+      "id": "MrDecryptDecipher/notional-judging#73",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.949804+00:00"
+      "updated_at": "2026-11-11T06:23:27.324127+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#18",
+      "id": "MrDecryptDecipher/notional-judging#72",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.959001+00:00"
+      "updated_at": "2026-11-11T06:23:27.333546+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#17",
+      "id": "MrDecryptDecipher/notional-judging#71",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.967818+00:00"
+      "updated_at": "2026-11-11T06:23:27.342902+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#16",
+      "id": "MrDecryptDecipher/notional-judging#70",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.976979+00:00"
+      "updated_at": "2026-11-11T06:23:27.350489+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#15",
+      "id": "MrDecryptDecipher/notional-judging#69",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.985945+00:00"
+      "updated_at": "2026-11-11T06:23:27.359911+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#14",
+      "id": "MrDecryptDecipher/notional-judging#68",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:40.996039+00:00"
+      "updated_at": "2026-11-11T06:23:27.374827+00:00"
     },
     {
-      "id": "dotnet/announcements#521",
+      "id": "MrDecryptDecipher/notional-judging#67",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.003498+00:00"
+      "updated_at": "2026-11-11T06:23:27.386706+00:00"
     },
     {
-      "id": "dotnet/runtime#137296",
+      "id": "MrDecryptDecipher/notional-judging#66",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.014305+00:00"
+      "updated_at": "2026-11-11T06:23:27.396539+00:00"
     },
     {
-      "id": "dotnet/announcements#520",
+      "id": "MrDecryptDecipher/notional-judging#65",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.023174+00:00"
+      "updated_at": "2026-11-11T06:23:27.406166+00:00"
     },
     {
-      "id": "dotnet/runtime#137295",
+      "id": "MrDecryptDecipher/optimism-update-judging#79",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.030289+00:00"
+      "updated_at": "2026-11-11T06:23:27.413878+00:00"
     },
     {
-      "id": "theselfish/SlopStation13#40",
+      "id": "MrDecryptDecipher/optimism-update-judging#78",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.425410+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#77",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.433950+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#76",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.444468+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#75",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.454554+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#74",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.466842+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#73",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.475333+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#72",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.487933+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#71",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.499449+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#70",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.515624+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#82",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.533244+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#81",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.550251+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#80",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.565957+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#79",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.575935+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#78",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.585771+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#77",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.595997+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#76",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.606490+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#75",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.614901+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#74",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.627144+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#73",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.638621+00:00"
+    },
+    {
+      "id": "the-omega-institute/trureturing#29127",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.647236+00:00"
+    },
+    {
+      "id": "ZecHub/zec-bounties#606",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.659585+00:00"
+    },
+    {
+      "id": "Invoice-Liquidity-Network/ILN-Smart-Contract#1157",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.669614+00:00"
+    },
+    {
+      "id": "gordonpn/anime-recommendation#150",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.680381+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#64",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.690602+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#63",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.702325+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#62",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.710472+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#61",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.723907+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#60",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.736410+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#59",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.746799+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#58",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.756975+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#57",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.767671+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#56",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.778388+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#69",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.788901+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#68",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.799281+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#67",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.809553+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#66",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.817704+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#65",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.830270+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#64",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.840575+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#63",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.849230+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#62",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.861787+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#61",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.872243+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#60",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.880733+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#72",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.891651+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#71",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.902266+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#70",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.912904+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#69",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.923893+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#68",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.936766+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#67",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.947425+00:00"
+    },
+    {
+      "id": "emunlabs/chinwag#31",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.956380+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#66",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.966904+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#65",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.977716+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#64",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:27.990982+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-judging#63",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.001705+00:00"
+    },
+    {
+      "id": "Financial-Privacy-Foundation/ZcashCoinholderGrantsProgram#106",
       "status": "no_supported_contract",
-      "updated_at": "2026-11-10T23:23:41.041071+00:00"
+      "updated_at": "2026-11-11T06:23:28.012743+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#13",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.048044+00:00"
+      "id": "Rohank143/BountyScout#93",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:28.023663+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#12",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.058474+00:00"
+      "id": "dev-kp-eloper/BountyScout#1751",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:28.032452+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-update-judging#11",
+      "id": "Questie/QuestieDB#172",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.065732+00:00"
+      "updated_at": "2026-11-11T06:23:28.045462+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#22",
+      "id": "iammenasco/flarewise#296",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.077967+00:00"
+      "updated_at": "2026-11-11T06:23:28.054342+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#21",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.089136+00:00"
+      "id": "zhangjiayang6835-cyber/bounty-plaza#4309",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:28.067637+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#20",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.096260+00:00"
+      "id": "zhangjiayang6835-cyber/bounty-plaza#4308",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:28.078799+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#19",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.107486+00:00"
+      "id": "zhangjiayang6835-cyber/bounty-plaza#4307",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:28.088284+00:00"
     },
     {
-      "id": "MrDecryptDecipher/2025-11-sequence-findings#6",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.116414+00:00"
+      "id": "zhangjiayang6835-cyber/bounty-plaza#4305",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:28.099762+00:00"
     },
     {
-      "id": "MrDecryptDecipher/2025-11-sequence-findings#5",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.125375+00:00"
+      "id": "zhangjiayang6835-cyber/bounty-plaza#4306",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-11T06:23:28.111286+00:00"
     },
     {
-      "id": "MrDecryptDecipher/2025-11-sequence-findings#4",
+      "id": "dotnet/announcements#525",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.132877+00:00"
+      "updated_at": "2026-11-11T06:23:28.124856+00:00"
     },
     {
-      "id": "MrDecryptDecipher/2025-11-sequence-findings#3",
+      "id": "dotnet/Scaffolding#3959",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.141734+00:00"
+      "updated_at": "2026-11-11T06:23:28.133807+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#18",
+      "id": "freedom-winds/BountyScout#1403",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.149001+00:00"
+      "updated_at": "2026-11-11T06:23:28.147007+00:00"
     },
     {
-      "id": "MrDecryptDecipher/optimism-judging#17",
+      "id": "emet-labs/website#4",
       "status": "reward_too_low",
-      "updated_at": "2026-11-10T23:23:41.156071+00:00"
+      "updated_at": "2026-11-11T06:23:28.155975+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#55",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.169389+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#54",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.180673+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#53",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.189782+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#52",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.203691+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#51",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.215156+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#50",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.224252+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#49",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.236370+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#48",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.247708+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/notional-judging#47",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.258985+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#59",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.268831+00:00"
+    },
+    {
+      "id": "MrDecryptDecipher/optimism-update-judging#58",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-11T06:23:28.277654+00:00"
     }
   ],
   "notice": "Une mission détectée n'est pas un revenu. Un Pull Request soumis n'est pas une acceptation. Un paiement est enregistré uniquement après confirmation réelle."
