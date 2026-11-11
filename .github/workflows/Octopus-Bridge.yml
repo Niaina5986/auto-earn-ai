@@ -1,0 +1,44 @@
+name: OCTOPUS BRIDGE
+
+on:
+  workflow_run:
+    workflows: ["OCTOPUS ULTRA"]
+    types: [completed]
+
+permissions:
+  actions: read
+  contents: read
+
+concurrency:
+  group: octopus-bridge-${{ github.event.workflow_run.id }}
+  cancel-in-progress: false
+
+jobs:
+  transfer:
+    if: github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download OCTOPUS artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: octopus-reports
+          path: octopus-data
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ github.event.workflow_run.id }}
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependency
+        run: pip install requests
+
+      - name: Send reports to Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SUPABASE_OWNER_ID: ${{ secrets.SUPABASE_OWNER_ID }}
+          OCTOPUS_RUN_ID: ${{ github.event.workflow_run.id }}
+        run: python Octopus-Bridge.py
