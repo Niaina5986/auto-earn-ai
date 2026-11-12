@@ -5810,509 +5810,1009 @@
       "reward_usd": 0,
       "status": "reward_too_low",
       "updated_at": "2026-11-11T19:37:29.282999+00:00"
+    },
+    "ConcatenaLabs/sequentia-web-wallet#713": {
+      "id": "ConcatenaLabs/sequentia-web-wallet#713",
+      "repository": "ConcatenaLabs/sequentia-web-wallet",
+      "number": 713,
+      "title": "Reclaim of a resting order fails: the page never gives the Swap tab the refund builder",
+      "url": "https://github.com/ConcatenaLabs/sequentia-web-wallet/issues/713",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.097046+00:00"
+    },
+    "fitzforge/polestar#1927": {
+      "id": "fitzforge/polestar#1927",
+      "repository": "fitzforge/polestar",
+      "number": 1927,
+      "title": "End of Stranglethorn 33-35 Guide",
+      "url": "https://github.com/fitzforge/polestar/issues/1927",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.097496+00:00"
+    },
+    "beesyst/beeagent#365": {
+      "id": "beesyst/beeagent#365",
+      "repository": "beesyst/beeagent",
+      "number": 365,
+      "title": "Feature: BS-17 — authenticated BeeScan Finding review and Bug Bounty report workspace",
+      "url": "https://github.com/beesyst/beeagent/issues/365",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.098315+00:00"
+    },
+    "ConcatenaLabs/sequentia-web-wallet#708": {
+      "id": "ConcatenaLabs/sequentia-web-wallet#708",
+      "repository": "ConcatenaLabs/sequentia-web-wallet",
+      "number": 708,
+      "title": "A resting order's record is dropped as never funded while its coins sit in the covenant (wrong explorer id)",
+      "url": "https://github.com/ConcatenaLabs/sequentia-web-wallet/issues/708",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.110977+00:00"
+    },
+    "ConcatenaLabs/seqdex#165": {
+      "id": "ConcatenaLabs/seqdex#165",
+      "repository": "ConcatenaLabs/seqdex",
+      "number": 165,
+      "title": "restricted maker: after a fill it neither quotes again nor exits, so the book shows no one buying or selling",
+      "url": "https://github.com/ConcatenaLabs/seqdex/issues/165",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.125130+00:00"
+    },
+    "ledger-direct/.github#2": {
+      "id": "ledger-direct/.github#2",
+      "repository": "ledger-direct/.github",
+      "number": 2,
+      "title": "Add an organisation-wide security policy",
+      "url": "https://github.com/ledger-direct/.github/issues/2",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.137379+00:00"
+    },
+    "immunefi-team/Spectra-Audit-Competition#2": {
+      "id": "immunefi-team/Spectra-Audit-Competition#2",
+      "repository": "immunefi-team/Spectra-Audit-Competition",
+      "number": 2,
+      "title": "[Security & Invariant Report] Factory.sol: Permanent Loss of Initial Liquidity via TwoCrypto-NG LP Token Lockout in Factory Contract",
+      "url": "https://github.com/immunefi-team/Spectra-Audit-Competition/issues/2",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.151139+00:00"
+    },
+    "Stellar-Music/stellar-music-contracts#33": {
+      "id": "Stellar-Music/stellar-music-contracts#33",
+      "repository": "Stellar-Music/stellar-music-contracts",
+      "number": 33,
+      "title": "Security reports ready to submit - all published reporting channels are undeliverable",
+      "url": "https://github.com/Stellar-Music/stellar-music-contracts/issues/33",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.163377+00:00"
+    },
+    "Folks-Finance/folks-staking-contracts#3": {
+      "id": "Folks-Finance/folks-staking-contracts#3",
+      "repository": "Folks-Finance/folks-staking-contracts",
+      "number": 3,
+      "title": "[Security & Invariant Report] Staking: Asymmetric StakingDuration Slippage & Permanent Migration Authorization Retention",
+      "url": "https://github.com/Folks-Finance/folks-staking-contracts/issues/3",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.175785+00:00"
+    },
+    "JalapenoLabs/SpeciesUnknownMods#3": {
+      "id": "JalapenoLabs/SpeciesUnknownMods#3",
+      "repository": "JalapenoLabs/SpeciesUnknownMods",
+      "number": 3,
+      "title": "Controllable Entity: a full-screen end of mission for the entity, and no false loss",
+      "url": "https://github.com/JalapenoLabs/SpeciesUnknownMods/issues/3",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.188325+00:00"
+    },
+    "ConcatenaLabs/ambra#253": {
+      "id": "ConcatenaLabs/ambra#253",
+      "repository": "ConcatenaLabs/ambra",
+      "number": 253,
+      "title": "Default mode names the Ark while money is moved for a stake or a send",
+      "url": "https://github.com/ConcatenaLabs/ambra/issues/253",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.200630+00:00"
+    },
+    "ConcatenaLabs/sequentia-web-wallet#701": {
+      "id": "ConcatenaLabs/sequentia-web-wallet#701",
+      "repository": "ConcatenaLabs/sequentia-web-wallet",
+      "number": 701,
+      "title": "Default mode names the Ark while money is moved for a stake, a trade or a send",
+      "url": "https://github.com/ConcatenaLabs/sequentia-web-wallet/issues/701",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.212826+00:00"
+    },
+    "ConcatenaLabs/seqdex#164": {
+      "id": "ConcatenaLabs/seqdex#164",
+      "repository": "ConcatenaLabs/seqdex",
+      "number": 164,
+      "title": "relay: a maker running several processes under one key can be lifted on one offer only",
+      "url": "https://github.com/ConcatenaLabs/seqdex/issues/164",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.225026+00:00"
+    },
+    "Monkestation/Monkestation2.0#12992": {
+      "id": "Monkestation/Monkestation2.0#12992",
+      "repository": "Monkestation/Monkestation2.0",
+      "number": 12992,
+      "title": "I spawned in naked and they made fun of me",
+      "url": "https://github.com/Monkestation/Monkestation2.0/issues/12992",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.237400+00:00"
+    },
+    "alchemix-finance/alchemix-v2-dao#201": {
+      "id": "alchemix-finance/alchemix-v2-dao#201",
+      "repository": "alchemix-finance/alchemix-v2-dao",
+      "number": 201,
+      "title": "[Security & Invariant Audit] RevenueHandler: Revenue Checkpoint Deadlock via Inverted Slippage Invariant & Claim DoS on Strict Approval Tokens",
+      "url": "https://github.com/alchemix-finance/alchemix-v2-dao/issues/201",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.249807+00:00"
+    },
+    "EnidAnderson/EvilSwarm#91": {
+      "id": "EnidAnderson/EvilSwarm#91",
+      "repository": "EnidAnderson/EvilSwarm",
+      "number": 91,
+      "title": "DESIGN-01: the swarm design encoded as invariants — the motivic grammar (weights, heart, proper transport, descent, locality, non-fullness, representability, enrichment, grading)",
+      "url": "https://github.com/EnidAnderson/EvilSwarm/issues/91",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.262391+00:00"
+    },
+    "ConcatenaLabs/sequentia-web-wallet#697": {
+      "id": "ConcatenaLabs/sequentia-web-wallet#697",
+      "repository": "ConcatenaLabs/sequentia-web-wallet",
+      "number": 697,
+      "title": "Restricted trade: a sale whose fee must first move to the chain ends \"Returned\" while its move still runs",
+      "url": "https://github.com/ConcatenaLabs/sequentia-web-wallet/issues/697",
+      "reward_usd": 0.09,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.274733+00:00"
+    },
+    "ConcatenaLabs/sequentia-web-wallet#696": {
+      "id": "ConcatenaLabs/sequentia-web-wallet#696",
+      "repository": "ConcatenaLabs/sequentia-web-wallet",
+      "number": 696,
+      "title": "Restricted trade: the ticket says nothing of a seven-minute wait or the move's fee",
+      "url": "https://github.com/ConcatenaLabs/sequentia-web-wallet/issues/696",
+      "reward_usd": 24.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-12T07:12:41.287203+00:00"
+    },
+    "paraloom-labs/paraloom-core#1580": {
+      "id": "paraloom-labs/paraloom-core#1580",
+      "repository": "paraloom-labs/paraloom-core",
+      "number": 1580,
+      "title": "[BOUNTY] Low: Serial settle-queue head-of-line blocking delays other users' healthy settlements",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1580",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.300141+00:00"
+    },
+    "Stellar-Music/stellar-music-contracts#32": {
+      "id": "Stellar-Music/stellar-music-contracts#32",
+      "repository": "Stellar-Music/stellar-music-contracts",
+      "number": 32,
+      "title": "Bug bounty reporting channel unreachable — both published addresses are undeliverable",
+      "url": "https://github.com/Stellar-Music/stellar-music-contracts/issues/32",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.312663+00:00"
+    },
+    "ConcatenaLabs/sequentia-web-wallet#691": {
+      "id": "ConcatenaLabs/sequentia-web-wallet#691",
+      "repository": "ConcatenaLabs/sequentia-web-wallet",
+      "number": 691,
+      "title": "Restricted trade: money still arriving is refused as \"You have no USDX to trade\"",
+      "url": "https://github.com/ConcatenaLabs/sequentia-web-wallet/issues/691",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.325411+00:00"
+    },
+    "xeprotocol/xe#499": {
+      "id": "xeprotocol/xe#499",
+      "repository": "xeprotocol/xe",
+      "number": 499,
+      "title": "Report bug",
+      "url": "https://github.com/xeprotocol/xe/issues/499",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.338108+00:00"
+    },
+    "xeprotocol/xe#498": {
+      "id": "xeprotocol/xe#498",
+      "repository": "xeprotocol/xe",
+      "number": 498,
+      "title": "Report bug",
+      "url": "https://github.com/xeprotocol/xe/issues/498",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.350754+00:00"
+    },
+    "xeprotocol/xe#497": {
+      "id": "xeprotocol/xe#497",
+      "repository": "xeprotocol/xe",
+      "number": 497,
+      "title": "Report bug",
+      "url": "https://github.com/xeprotocol/xe/issues/497",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.363212+00:00"
+    },
+    "yaojiejia/agents-radar#462": {
+      "id": "yaojiejia/agents-radar#462",
+      "repository": "yaojiejia/agents-radar",
+      "number": 462,
+      "title": "📡 AI Ecosystem Digest 2026-11-12",
+      "url": "https://github.com/yaojiejia/agents-radar/issues/462",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.377441+00:00"
+    },
+    "xeprotocol/xe#496": {
+      "id": "xeprotocol/xe#496",
+      "repository": "xeprotocol/xe",
+      "number": 496,
+      "title": "Report bug",
+      "url": "https://github.com/xeprotocol/xe/issues/496",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.390636+00:00"
+    },
+    "paraloom-labs/paraloom-core#1579": {
+      "id": "paraloom-labs/paraloom-core#1579",
+      "repository": "paraloom-labs/paraloom-core",
+      "number": 1579,
+      "title": "deactivate_validator permanently strands the dual-stake token half (incomplete audit fix B1) — Medium",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1579",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.403634+00:00"
+    },
+    "freedom-winds/BountyScout#1407": {
+      "id": "freedom-winds/BountyScout#1407",
+      "repository": "freedom-winds/BountyScout",
+      "number": 1407,
+      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
+      "url": "https://github.com/freedom-winds/BountyScout/issues/1407",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.416169+00:00"
+    },
+    "paraloom-labs/paraloom-core#1577": {
+      "id": "paraloom-labs/paraloom-core#1577",
+      "repository": "paraloom-labs/paraloom-core",
+      "number": 1577,
+      "title": "[BOUNTY] Low: fetchPrices leaks the user's shielded-holdings mint set to Jupiter on every wallet open",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1577",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.428636+00:00"
+    },
+    "ConcatenaLabs/sequentia-web-wallet#689": {
+      "id": "ConcatenaLabs/sequentia-web-wallet#689",
+      "repository": "ConcatenaLabs/sequentia-web-wallet",
+      "number": 689,
+      "title": "Money still arriving: a trade or a send to an address asked at once says \"try again\" on the testnet",
+      "url": "https://github.com/ConcatenaLabs/sequentia-web-wallet/issues/689",
+      "reward_usd": 50.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-12T07:12:41.440924+00:00"
+    },
+    "anthropics/claude-code#109174": {
+      "id": "anthropics/claude-code#109174",
+      "repository": "anthropics/claude-code",
+      "number": 109174,
+      "title": "[Bug] Legitimate bug bounty security question incorrectly flagged by safety filter",
+      "url": "https://github.com/anthropics/claude-code/issues/109174",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.453383+00:00"
+    },
+    "Stellar-Music/stellar-music-contracts#31": {
+      "id": "Stellar-Music/stellar-music-contracts#31",
+      "repository": "Stellar-Music/stellar-music-contracts",
+      "number": 31,
+      "title": "Independent report on deployed contract - submission channel unreachable",
+      "url": "https://github.com/Stellar-Music/stellar-music-contracts/issues/31",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.466929+00:00"
+    },
+    "xeprotocol/xe#495": {
+      "id": "xeprotocol/xe#495",
+      "repository": "xeprotocol/xe",
+      "number": 495,
+      "title": "Report bug",
+      "url": "https://github.com/xeprotocol/xe/issues/495",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.479563+00:00"
+    },
+    "xeprotocol/xe#494": {
+      "id": "xeprotocol/xe#494",
+      "repository": "xeprotocol/xe",
+      "number": 494,
+      "title": "Report bug",
+      "url": "https://github.com/xeprotocol/xe/issues/494",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.500514+00:00"
+    },
+    "xeprotocol/xe#493": {
+      "id": "xeprotocol/xe#493",
+      "repository": "xeprotocol/xe",
+      "number": 493,
+      "title": "Bug report",
+      "url": "https://github.com/xeprotocol/xe/issues/493",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.521672+00:00"
+    },
+    "Monkestation/Monkestation2.0#12989": {
+      "id": "Monkestation/Monkestation2.0#12989",
+      "repository": "Monkestation/Monkestation2.0",
+      "number": 12989,
+      "title": "the immortal snail can destroy hive walls from the inside of an apid hive",
+      "url": "https://github.com/Monkestation/Monkestation2.0/issues/12989",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.534581+00:00"
+    },
+    "paraloom-labs/paraloom-core#1573": {
+      "id": "paraloom-labs/paraloom-core#1573",
+      "repository": "paraloom-labs/paraloom-core",
+      "number": 1573,
+      "title": "`AdaptiveBatchVerifier::verify` skips the `proofs`/`public_inputs` length check on the 1–2 proof path (silently returns `AllValid`)",
+      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1573",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.547488+00:00"
+    },
+    "skuzu7/CSA-LAB#15": {
+      "id": "skuzu7/CSA-LAB#15",
+      "repository": "skuzu7/CSA-LAB",
+      "number": 15,
+      "title": "TRACEGUARD v0.1 — request independent review of multi-step agent tool boundaries",
+      "url": "https://github.com/skuzu7/CSA-LAB/issues/15",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.560258+00:00"
+    },
+    "z0r0z/tacit#72": {
+      "id": "z0r0z/tacit#72",
+      "repository": "z0r0z/tacit",
+      "number": 72,
+      "title": "Design bounty: a new skin for the Tacit dapp (1,700 TAC)",
+      "url": "https://github.com/z0r0z/tacit/issues/72",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.572854+00:00"
+    },
+    "Stellar-Music/stellar-music-contracts#30": {
+      "id": "Stellar-Music/stellar-music-contracts#30",
+      "repository": "Stellar-Music/stellar-music-contracts",
+      "number": 30,
+      "title": "Working security contact for a bug bounty report?",
+      "url": "https://github.com/Stellar-Music/stellar-music-contracts/issues/30",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.585530+00:00"
+    },
+    "windoliver/deepbuild#2327": {
+      "id": "windoliver/deepbuild#2327",
+      "repository": "windoliver/deepbuild",
+      "number": 2327,
+      "title": "A security report has a private route: SECURITY.md names it, the issue chooser points to it, and a way past a guard is filed in public only once its fix has merged",
+      "url": "https://github.com/windoliver/deepbuild/issues/2327",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.598545+00:00"
+    },
+    "MergeFi/backend#853": {
+      "id": "MergeFi/backend#853",
+      "repository": "MergeFi/backend",
+      "number": 853,
+      "title": "The two schedulers duplicate 35 lines of advisory-lock boilerplate verbatim, including the same three defects",
+      "url": "https://github.com/MergeFi/backend/issues/853",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.611371+00:00"
+    },
+    "MergeFi/backend#851": {
+      "id": "MergeFi/backend#851",
+      "repository": "MergeFi/backend",
+      "number": 851,
+      "title": "README and .env.example do not explain that ESCROW_DEADLINE_SECONDS drives the on-chain permissionless refund window",
+      "url": "https://github.com/MergeFi/backend/issues/851",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.624360+00:00"
+    },
+    "MergeFi/backend#850": {
+      "id": "MergeFi/backend#850",
+      "repository": "MergeFi/backend",
+      "number": 850,
+      "title": "README does not document the dry-run escrow mode, which is how the application behaves in every environment without deployed contracts",
+      "url": "https://github.com/MergeFi/backend/issues/850",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.637209+00:00"
+    },
+    "MergeFi/backend#848": {
+      "id": "MergeFi/backend#848",
+      "repository": "MergeFi/backend",
+      "number": 848,
+      "title": "No integration test covers the full merge-to-payout path, the sequence every other test only exercises in pieces",
+      "url": "https://github.com/MergeFi/backend/issues/848",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.650350+00:00"
+    },
+    "Replikanti/agentis-colonies#2363": {
+      "id": "Replikanti/agentis-colonies#2363",
+      "repository": "Replikanti/agentis-colonies",
+      "number": 2363,
+      "title": "refactor(dark-factory): route funnel and competition watcher through the contest finder output, retire contest-watch.sh",
+      "url": "https://github.com/Replikanti/agentis-colonies/issues/2363",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.663204+00:00"
+    },
+    "MergeFi/backend#839": {
+      "id": "MergeFi/backend#839",
+      "repository": "MergeFi/backend",
+      "number": 839,
+      "title": "No test asserts that SorobanClientService.invoke takes the dry-run path, or what it records when it does",
+      "url": "https://github.com/MergeFi/backend/issues/839",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.676182+00:00"
+    },
+    "MergeFi/backend#837": {
+      "id": "MergeFi/backend#837",
+      "repository": "MergeFi/backend",
+      "number": 837,
+      "title": "The eleven NestJS module files have no spec asserting their provider and import wiring",
+      "url": "https://github.com/MergeFi/backend/issues/837",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.689603+00:00"
+    },
+    "MergeFi/backend#836": {
+      "id": "MergeFi/backend#836",
+      "repository": "MergeFi/backend",
+      "number": 836,
+      "title": "The split-percentage check constraints guard each row's range but nothing guards the per-team or per-escrow sum",
+      "url": "https://github.com/MergeFi/backend/issues/836",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.702365+00:00"
+    },
+    "MergeFi/backend#832": {
+      "id": "MergeFi/backend#832",
+      "repository": "MergeFi/backend",
+      "number": 832,
+      "title": "package.json declares license UNLICENSED and an empty description/author while the sibling repositories declare Apache-2.0",
+      "url": "https://github.com/MergeFi/backend/issues/832",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.715417+00:00"
+    },
+    "MergeFi/backend#831": {
+      "id": "MergeFi/backend#831",
+      "repository": "MergeFi/backend",
+      "number": 831,
+      "title": ".env.example omits GITHUB_SYNC_ALLOWED_REPOS and RUN_SCHEDULERS, both of which change behaviour significantly",
+      "url": "https://github.com/MergeFi/backend/issues/831",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.728373+00:00"
+    },
+    "MergeFi/backend#817": {
+      "id": "MergeFi/backend#817",
+      "repository": "MergeFi/backend",
+      "number": 817,
+      "title": "src/common/stats/contributor-stats.util.ts has no spec file",
+      "url": "https://github.com/MergeFi/backend/issues/817",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.741128+00:00"
+    },
+    "MergeFi/backend#816": {
+      "id": "MergeFi/backend#816",
+      "repository": "MergeFi/backend",
+      "number": 816,
+      "title": "src/common/stats/contributor-stats.sql.ts has no spec file",
+      "url": "https://github.com/MergeFi/backend/issues/816",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.756632+00:00"
+    },
+    "MergeFi/backend#805": {
+      "id": "MergeFi/backend#805",
+      "repository": "MergeFi/backend",
+      "number": 805,
+      "title": "The idempotency fingerprint ignores the HTTP method and path, so it cannot distinguish requests that share a scope",
+      "url": "https://github.com/MergeFi/backend/issues/805",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.769654+00:00"
+    },
+    "MergeFi/backend#799": {
+      "id": "MergeFi/backend#799",
+      "repository": "MergeFi/backend",
+      "number": 799,
+      "title": "IdempotencyInterceptor scopes every key to a shared 'anonymous' bucket, so one caller's key can block or replay another's",
+      "url": "https://github.com/MergeFi/backend/issues/799",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.782630+00:00"
+    },
+    "MergeFi/backend#798": {
+      "id": "MergeFi/backend#798",
+      "repository": "MergeFi/backend",
+      "number": 798,
+      "title": "MaintenancePoolService.deposit does not check that the caller is entitled to fund the pool",
+      "url": "https://github.com/MergeFi/backend/issues/798",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.795607+00:00"
+    },
+    "MergeFi/backend#797": {
+      "id": "MergeFi/backend#797",
+      "repository": "MergeFi/backend",
+      "number": 797,
+      "title": "BountiesService.expireOverdue bypasses assertTransition and saves one row at a time",
+      "url": "https://github.com/MergeFi/backend/issues/797",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.808576+00:00"
+    },
+    "MergeFi/backend#796": {
+      "id": "MergeFi/backend#796",
+      "repository": "MergeFi/backend",
+      "number": 796,
+      "title": "BountiesService.refund and markMergedAndRelease commit the on-chain call and the local status flip separately",
+      "url": "https://github.com/MergeFi/backend/issues/796",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.821669+00:00"
+    },
+    "MergeFi/backend#795": {
+      "id": "MergeFi/backend#795",
+      "repository": "MergeFi/backend",
+      "number": 795,
+      "title": "The bounty state machine allows MERGED → REFUNDED, so a completed bounty's funds can be returned to the sponsor",
+      "url": "https://github.com/MergeFi/backend/issues/795",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.834640+00:00"
+    },
+    "MergeFi/backend#794": {
+      "id": "MergeFi/backend#794",
+      "repository": "MergeFi/backend",
+      "number": 794,
+      "title": "BountiesService.expireOverdue marks FUNDED bounties EXPIRED without refunding the escrow, stranding the sponsor's locked funds",
+      "url": "https://github.com/MergeFi/backend/issues/794",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.847599+00:00"
+    },
+    "MergeFi/backend#788": {
+      "id": "MergeFi/backend#788",
+      "repository": "MergeFi/backend",
+      "number": 788,
+      "title": "The platform-summary TTL cache is process-local, so each replica serves a different homepage figure and invalidation only reaches one",
+      "url": "https://github.com/MergeFi/backend/issues/788",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.860607+00:00"
+    },
+    "MergeFi/backend#787": {
+      "id": "MergeFi/backend#787",
+      "repository": "MergeFi/backend",
+      "number": 787,
+      "title": "AnalyticsService.platformSummary sums Bounty.amount instead of actual Payment rows, so totalPaidOut is the gross pledged amount",
+      "url": "https://github.com/MergeFi/backend/issues/787",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.874671+00:00"
+    },
+    "MergeFi/backend#786": {
+      "id": "MergeFi/backend#786",
+      "repository": "MergeFi/backend",
+      "number": 786,
+      "title": "RUN_SCHEDULERS is read directly from process.env inside both schedulers and is absent from AppConfig and .env.example",
+      "url": "https://github.com/MergeFi/backend/issues/786",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.887830+00:00"
+    },
+    "MergeFi/backend#785": {
+      "id": "MergeFi/backend#785",
+      "repository": "MergeFi/backend",
+      "number": 785,
+      "title": "Both schedulers treat an advisory-lock query failure as 'lock acquired', so a DB hiccup makes every replica run the sweep concurrently",
+      "url": "https://github.com/MergeFi/backend/issues/785",
+      "reward_usd": 1.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.900958+00:00"
+    },
+    "MergeFi/backend#784": {
+      "id": "MergeFi/backend#784",
+      "repository": "MergeFi/backend",
+      "number": 784,
+      "title": "The scheduler advisory locks are taken and released on different pooled connections, so the lock is never reliably released",
+      "url": "https://github.com/MergeFi/backend/issues/784",
+      "reward_usd": 1.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.914128+00:00"
+    },
+    "MergeFi/backend#778": {
+      "id": "MergeFi/backend#778",
+      "repository": "MergeFi/backend",
+      "number": 778,
+      "title": "TeamsService.assignToBounty lets any maintainer attach a team to any bounty, redirecting its payout",
+      "url": "https://github.com/MergeFi/backend/issues/778",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.927313+00:00"
+    },
+    "MergeFi/backend#777": {
+      "id": "MergeFi/backend#777",
+      "repository": "MergeFi/backend",
+      "number": 777,
+      "title": "BountiesService.create takes sponsorId from the request body and ignores callerUserId, so a sponsor can create bounties attributed to someone else",
+      "url": "https://github.com/MergeFi/backend/issues/777",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.940314+00:00"
+    },
+    "MergeFi/backend#775": {
+      "id": "MergeFi/backend#775",
+      "repository": "MergeFi/backend",
+      "number": 775,
+      "title": "RepoScopeGuard lets any maintainer claim an unclaimed tracked repository, with no check against their GitHub permissions",
+      "url": "https://github.com/MergeFi/backend/issues/775",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.953552+00:00"
+    },
+    "MergeFi/backend#774": {
+      "id": "MergeFi/backend#774",
+      "repository": "MergeFi/backend",
+      "number": 774,
+      "title": "A 7-day JWT cannot be revoked: there is no denylist, no token version, and no logout endpoint",
+      "url": "https://github.com/MergeFi/backend/issues/774",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.966526+00:00"
+    },
+    "MergeFi/backend#773": {
+      "id": "MergeFi/backend#773",
+      "repository": "MergeFi/backend",
+      "number": 773,
+      "title": "JwtStrategy.validate queries the users table on every authenticated request",
+      "url": "https://github.com/MergeFi/backend/issues/773",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.979600+00:00"
+    },
+    "MergeFi/backend#771": {
+      "id": "MergeFi/backend#771",
+      "repository": "MergeFi/backend",
+      "number": 771,
+      "title": "The GitHub OAuth flow is configured without a `state` parameter, so the callback has no CSRF protection",
+      "url": "https://github.com/MergeFi/backend/issues/771",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.992765+00:00"
+    },
+    "MergeFi/backend#769": {
+      "id": "MergeFi/backend#769",
+      "repository": "MergeFi/backend",
+      "number": 769,
+      "title": "The GitHub webhook endpoint is subject to the global 120/min throttle, so a busy organisation's deliveries are rejected with 429",
+      "url": "https://github.com/MergeFi/backend/issues/769",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.005967+00:00"
+    },
+    "MergeFi/backend#763": {
+      "id": "MergeFi/backend#763",
+      "repository": "MergeFi/backend",
+      "number": 763,
+      "title": "EscrowService.fund saves the LOCKED escrow and the bounty status in separate transactions, so a crash between them loses the link",
+      "url": "https://github.com/MergeFi/backend/issues/763",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.019173+00:00"
+    },
+    "MergeFi/backend#764": {
+      "id": "MergeFi/backend#764",
+      "repository": "MergeFi/backend",
+      "number": 764,
+      "title": "Escrow.onChainId has no unique constraint, so two escrows can claim the same on-chain key",
+      "url": "https://github.com/MergeFi/backend/issues/764",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.032632+00:00"
+    },
+    "MergeFi/backend#762": {
+      "id": "MergeFi/backend#762",
+      "repository": "MergeFi/backend",
+      "number": 762,
+      "title": "deriveOnChainId's FNV-1a hash is used for milestone and pool escrows, so a UUID collision silently targets another escrow's on-chain record",
+      "url": "https://github.com/MergeFi/backend/issues/762",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.046111+00:00"
+    },
+    "MergeFi/backend#754": {
+      "id": "MergeFi/backend#754",
+      "repository": "MergeFi/backend",
+      "number": 754,
+      "title": "MAINTENANCE_POOL_CONTRACT_ID silently falls back to ESCROW_CONTRACT_ID, so pool withdrawals are sent to the escrow contract",
+      "url": "https://github.com/MergeFi/backend/issues/754",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.059715+00:00"
+    },
+    "MergeFi/backend#752": {
+      "id": "MergeFi/backend#752",
+      "repository": "MergeFi/backend",
+      "number": 752,
+      "title": "SorobanClientService.invoke silently returns a fake successful DRY_RUN result whenever the contract is unconfigured, with no production guard",
+      "url": "https://github.com/MergeFi/backend/issues/752",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.073176+00:00"
+    },
+    "Rohank143/BountyScout#96": {
+      "id": "Rohank143/BountyScout#96",
+      "repository": "Rohank143/BountyScout",
+      "number": 96,
+      "title": "🎯 Bounty Alert: 20 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/96",
+      "reward_usd": 1.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.086770+00:00"
+    },
+    "dev-kp-eloper/BountyScout#1754": {
+      "id": "dev-kp-eloper/BountyScout#1754",
+      "repository": "dev-kp-eloper/BountyScout",
+      "number": 1754,
+      "title": "🎯 Bounty Alert: 22 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1754",
+      "reward_usd": 1.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.100196+00:00"
+    },
+    "MergeFi/frontend#949": {
+      "id": "MergeFi/frontend#949",
+      "repository": "MergeFi/frontend",
+      "number": 949,
+      "title": "daysUntil returns NaN for an unparseable deadline, which formatDaysUntil renders as \"Deadline passed\"",
+      "url": "https://github.com/MergeFi/frontend/issues/949",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.113533+00:00"
+    },
+    "MergeFi/frontend#948": {
+      "id": "MergeFi/frontend#948",
+      "repository": "MergeFi/frontend",
+      "number": 948,
+      "title": "validateTeamSplits returns valid: true for an empty split list, so a team with no members passes validation",
+      "url": "https://github.com/MergeFi/frontend/issues/948",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.126848+00:00"
+    },
+    "MergeFi/frontend#946": {
+      "id": "MergeFi/frontend#946",
+      "repository": "MergeFi/frontend",
+      "number": 946,
+      "title": "The adapters substitute plausible placeholder strings for missing data, so a broken response renders as normal content",
+      "url": "https://github.com/MergeFi/frontend/issues/946",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.140003+00:00"
+    },
+    "MergeFi/frontend#939": {
+      "id": "MergeFi/frontend#939",
+      "repository": "MergeFi/frontend",
+      "number": 939,
+      "title": "logFetchError console.errors on every fallback, so a backend outage floods server logs with one line per fetch",
+      "url": "https://github.com/MergeFi/frontend/issues/939",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.155334+00:00"
+    },
+    "MergeFi/frontend#929": {
+      "id": "MergeFi/frontend#929",
+      "repository": "MergeFi/frontend",
+      "number": 929,
+      "title": "next.config.ts enables images.dangerouslyAllowSVG globally to serve DiceBear identicons",
+      "url": "https://github.com/MergeFi/frontend/issues/929",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.168570+00:00"
+    },
+    "MergeFi/frontend#928": {
+      "id": "MergeFi/frontend#928",
+      "repository": "MergeFi/frontend",
+      "number": 928,
+      "title": "The sitemap's in-process cache gives no cache hits on a serverless deployment",
+      "url": "https://github.com/MergeFi/frontend/issues/928",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.181923+00:00"
+    },
+    "MergeFi/frontend#924": {
+      "id": "MergeFi/frontend#924",
+      "repository": "MergeFi/frontend",
+      "number": 924,
+      "title": "TERMINAL_STATUSES omits release_failed, so the poller keeps polling a bounty whose payout has permanently failed",
+      "url": "https://github.com/MergeFi/frontend/issues/924",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.195548+00:00"
+    },
+    "MergeFi/frontend#925": {
+      "id": "MergeFi/frontend#925",
+      "repository": "MergeFi/frontend",
+      "number": 925,
+      "title": "request() collapses every HTTP status into ApiUnavailableError, so a 404 and a 500 are indistinguishable to callers",
+      "url": "https://github.com/MergeFi/frontend/issues/925",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.208972+00:00"
+    },
+    "MergeFi/frontend#923": {
+      "id": "MergeFi/frontend#923",
+      "repository": "MergeFi/frontend",
+      "number": 923,
+      "title": "src/app/issues/[id]/opengraph-image.tsx has no test file",
+      "url": "https://github.com/MergeFi/frontend/issues/923",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.222449+00:00"
+    },
+    "MergeFi/frontend#916": {
+      "id": "MergeFi/frontend#916",
+      "repository": "MergeFi/frontend",
+      "number": 916,
+      "title": "src/app/issues/create/page.tsx has no test file",
+      "url": "https://github.com/MergeFi/frontend/issues/916",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.236318+00:00"
+    },
+    "MergeFi/frontend#912": {
+      "id": "MergeFi/frontend#912",
+      "repository": "MergeFi/frontend",
+      "number": 912,
+      "title": "src/components/bounty/IssuesFilterForm.tsx has no test file",
+      "url": "https://github.com/MergeFi/frontend/issues/912",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.250130+00:00"
+    },
+    "MergeFi/frontend#914": {
+      "id": "MergeFi/frontend#914",
+      "repository": "MergeFi/frontend",
+      "number": 914,
+      "title": "src/components/bounty/LiveBountyStatus.tsx has no test file",
+      "url": "https://github.com/MergeFi/frontend/issues/914",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.263662+00:00"
+    },
+    "MergeFi/frontend#909": {
+      "id": "MergeFi/frontend#909",
+      "repository": "MergeFi/frontend",
+      "number": 909,
+      "title": "src/hooks/bountyPoller.ts has no test file",
+      "url": "https://github.com/MergeFi/frontend/issues/909",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.277216+00:00"
+    },
+    "MergeFi/frontend#899": {
+      "id": "MergeFi/frontend#899",
+      "repository": "MergeFi/frontend",
+      "number": 899,
+      "title": "STATUS_VALUES omits paid, refunded, expired and unknown, so the board can show those bounties but cannot filter them",
+      "url": "https://github.com/MergeFi/frontend/issues/899",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.290942+00:00"
+    },
+    "MergeFi/frontend#898": {
+      "id": "MergeFi/frontend#898",
+      "repository": "MergeFi/frontend",
+      "number": 898,
+      "title": "bounty-query.ts filters and sorts rewards through a hardcoded XLM→USD rate of 0.12",
+      "url": "https://github.com/MergeFi/frontend/issues/898",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.304619+00:00"
+    },
+    "MergeFi/frontend#900": {
+      "id": "MergeFi/frontend#900",
+      "repository": "MergeFi/frontend",
+      "number": 900,
+      "title": "applyBountyQuery clamps an out-of-range page but buildIssuesHref keeps the original, so the URL and the rendered page disagree",
+      "url": "https://github.com/MergeFi/frontend/issues/900",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.318393+00:00"
+    },
+    "MergeFi/frontend#893": {
+      "id": "MergeFi/frontend#893",
+      "repository": "MergeFi/frontend",
+      "number": 893,
+      "title": "adaptBounty passes `asset` and `difficulty` through with no validation, unlike `status` which is coerced",
+      "url": "https://github.com/MergeFi/frontend/issues/893",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.332413+00:00"
+    },
+    "MergeFi/frontend#887": {
+      "id": "MergeFi/frontend#887",
+      "repository": "MergeFi/frontend",
+      "number": 887,
+      "title": "ThemeContext has no cross-tab sync, so toggling dark mode in one tab leaves the others on the old theme",
+      "url": "https://github.com/MergeFi/frontend/issues/887",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.346111+00:00"
+    },
+    "MergeFi/frontend#881": {
+      "id": "MergeFi/frontend#881",
+      "repository": "MergeFi/frontend",
+      "number": 881,
+      "title": "useSmartPolling's default compareFn is JSON.stringify equality, which is O(payload) per tick and order-sensitive",
+      "url": "https://github.com/MergeFi/frontend/issues/881",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.359810+00:00"
+    },
+    "MergeFi/frontend#879": {
+      "id": "MergeFi/frontend#879",
+      "repository": "MergeFi/frontend",
+      "number": 879,
+      "title": "useSmartPolling's backoff never takes effect, because the running interval is never recreated at the new delay",
+      "url": "https://github.com/MergeFi/frontend/issues/879",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.373603+00:00"
+    },
+    "MergeFi/frontend#874": {
+      "id": "MergeFi/frontend#874",
+      "repository": "MergeFi/frontend",
+      "number": 874,
+      "title": "The sitemap filters mock bounties with a predicate that ignores its own argument",
+      "url": "https://github.com/MergeFi/frontend/issues/874",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.387157+00:00"
     }
   },
   "history": [
-    {
-      "id": "stevederico/omarchy#350",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.459171+00:00"
-    },
-    {
-      "id": "andrewsiah/agentswarm-examples#18",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.461547+00:00"
-    },
-    {
-      "id": "panoskokmotos/panoskokmotos#23",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.464597+00:00"
-    },
-    {
-      "id": "Monkestation/Monkestation2.0#12966",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.468177+00:00"
-    },
-    {
-      "id": "panoskokmotos/panoskokmotos#22",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-10T01:32:37.470864+00:00"
-    },
-    {
-      "id": "panoskokmotos/panoskokmotos#21",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-10T01:32:37.473930+00:00"
-    },
-    {
-      "id": "thedelph/quell-contracts#3",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-10T01:32:37.477157+00:00"
-    },
-    {
-      "id": "Security-Card-Game/securityDeckGame#36",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.479661+00:00"
-    },
-    {
-      "id": "andrewsiah/agentswarm-examples#16",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.482929+00:00"
-    },
-    {
-      "id": "paraspell/xcm-tools#2480",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.485797+00:00"
-    },
-    {
-      "id": "zhangjiayang6835-cyber/bounty-plaza#4281",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-10T01:32:37.488635+00:00"
-    },
-    {
-      "id": "zhangjiayang6835-cyber/bounty-plaza#4280",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-10T01:32:37.491663+00:00"
-    },
-    {
-      "id": "farmmer938-lgtm/autonomous-zero-baht#34",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.494807+00:00"
-    },
-    {
-      "id": "relayhop/sn-monetization-runtime#1366",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.497750+00:00"
-    },
-    {
-      "id": "Monkestation/Monkestation2.0#12965",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.500673+00:00"
-    },
-    {
-      "id": "andrewsiah/agentswarm-mcp#10",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.503758+00:00"
-    },
-    {
-      "id": "pdcarlson/Frapp#3954",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.506885+00:00"
-    },
-    {
-      "id": "pdcarlson/Frapp#3953",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.510008+00:00"
-    },
-    {
-      "id": "pdcarlson/Frapp#3952",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.513063+00:00"
-    },
-    {
-      "id": "dev-kp-eloper/BountyScout#1747",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.515842+00:00"
-    },
-    {
-      "id": "MirrorCartographer/MirrorCartographer#33",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.519301+00:00"
-    },
-    {
-      "id": "hanzoai/ai#148",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.522569+00:00"
-    },
-    {
-      "id": "andrewsiah/agentswarm-examples#15",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.525824+00:00"
-    },
-    {
-      "id": "TensorBlock/awesome-mcp-servers#5649",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.528891+00:00"
-    },
-    {
-      "id": "andrewsiah/agentswarm-examples#14",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.532555+00:00"
-    },
-    {
-      "id": "HCTDIP/corps-jobs#178",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.535188+00:00"
-    },
-    {
-      "id": "chatmcp/mcpso#7038",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.539515+00:00"
-    },
-    {
-      "id": "hoozh/mesa-caliente#18",
-      "status": "unsafe",
-      "updated_at": "2026-11-10T01:32:37.542118+00:00"
-    },
-    {
-      "id": "andrewsiah/agentswarm-mcp#9",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.545911+00:00"
-    },
-    {
-      "id": "Dr-Logvinovich/round-square#3",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.549811+00:00"
-    },
-    {
-      "id": "chiffcbd95/bendk97-neogeo-bugs#128",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.553237+00:00"
-    },
-    {
-      "id": "paraspell/xcm-tools#2479",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.555938+00:00"
-    },
-    {
-      "id": "saverchenkov/EvoMu#792",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.559839+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#327",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.563372+00:00"
-    },
-    {
-      "id": "andrewsiah/agentswarm-pi#2",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.566297+00:00"
-    },
-    {
-      "id": "vandelay87/pile-up#265",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.570513+00:00"
-    },
-    {
-      "id": "paraspell/xcm-tools#2478",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.573939+00:00"
-    },
-    {
-      "id": "andrewsiah/agentswarm-mcp#8",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.577739+00:00"
-    },
-    {
-      "id": "astruzocyber/CVE#3959",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.582360+00:00"
-    },
-    {
-      "id": "limitlessprojects/Go-Hybrid#4297",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.588689+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#326",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.591659+00:00"
-    },
-    {
-      "id": "mautic/mautic#18120",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.595318+00:00"
-    },
-    {
-      "id": "freedom-winds/BountyScout#1399",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.598860+00:00"
-    },
-    {
-      "id": "andrewsiah/agentswarm-pi#1",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.603339+00:00"
-    },
-    {
-      "id": "GurliGebis/WoWAddon-BattlePetCompletionist#193",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.606907+00:00"
-    },
-    {
-      "id": "sebrandon1/go-skylight#555",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.609868+00:00"
-    },
-    {
-      "id": "andrewsiah/agentswarm-examples#11",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.614500+00:00"
-    },
-    {
-      "id": "hanzoai/mcp#28",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.621640+00:00"
-    },
-    {
-      "id": "hanzoai/ui#308",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.625637+00:00"
-    },
-    {
-      "id": "hanzoai/ui#307",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.628870+00:00"
-    },
-    {
-      "id": "limitlessprojects/Go-Hybrid#4289",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.633043+00:00"
-    },
-    {
-      "id": "hanzoai/ai#138",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.637167+00:00"
-    },
-    {
-      "id": "hanzoai/ai#137",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.642210+00:00"
-    },
-    {
-      "id": "hanzoai/ai#136",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.645369+00:00"
-    },
-    {
-      "id": "hanzoai/ai#135",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.649788+00:00"
-    },
-    {
-      "id": "hanzoai/ai#134",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.653870+00:00"
-    },
-    {
-      "id": "hanzoai/ai#133",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.656983+00:00"
-    },
-    {
-      "id": "hanzoai/ai#132",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.660739+00:00"
-    },
-    {
-      "id": "hanzoai/ai#131",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.665276+00:00"
-    },
-    {
-      "id": "hanzoai/ai#130",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.669572+00:00"
-    },
-    {
-      "id": "MateusKasuya/spqtc-tournament-manager#138",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.674084+00:00"
-    },
-    {
-      "id": "MateusKasuya/spqtc-tournament-manager#132",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.678007+00:00"
-    },
-    {
-      "id": "izrik/stuart#84",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.682040+00:00"
-    },
-    {
-      "id": "izrik/tudor#194",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.685312+00:00"
-    },
-    {
-      "id": "auscaster/frantic-board#587",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-10T01:32:37.692021+00:00"
-    },
-    {
-      "id": "danielseisenbacher/predictable#312",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-10T01:32:37.695335+00:00"
-    },
-    {
-      "id": "andrewsiah/agentswarm-cli#7",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.699216+00:00"
-    },
-    {
-      "id": "saverchenkov/EvoMu#783",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.703846+00:00"
-    },
-    {
-      "id": "limitlessprojects/Go-Hybrid#4280",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.707862+00:00"
-    },
-    {
-      "id": "ZecHub/zec-bounties#596",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.711770+00:00"
-    },
-    {
-      "id": "Rohank143/BountyScout#87",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.715157+00:00"
-    },
-    {
-      "id": "ecarlste/x4-pirates-life-mod#87",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.720084+00:00"
-    },
-    {
-      "id": "andrewsiah/agentswarm-examples#9",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.724394+00:00"
-    },
-    {
-      "id": "andrewsiah/agentswarm-remote#6",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.729198+00:00"
-    },
-    {
-      "id": "limitlessprojects/Go-Hybrid#4274",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.733792+00:00"
-    },
-    {
-      "id": "paraspell/xcm-tools#2476",
-      "status": "unsafe",
-      "updated_at": "2026-11-10T01:32:37.738233+00:00"
-    },
-    {
-      "id": "pdcarlson/Frapp#3873",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.742548+00:00"
-    },
-    {
-      "id": "VlcekM/MeitouClient#476",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.746738+00:00"
-    },
-    {
-      "id": "paraspell/xcm-tools#2475",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.750300+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#4642",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.755243+00:00"
-    },
-    {
-      "id": "mautic/mautic#18114",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.759500+00:00"
-    },
-    {
-      "id": "blackcode-ch/tmx-go-public#19",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.763699+00:00"
-    },
-    {
-      "id": "blackcode-ch/tmx-go-public#18",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.767251+00:00"
-    },
-    {
-      "id": "limitlessprojects/Go-Hybrid#4269",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.772227+00:00"
-    },
-    {
-      "id": "scooper4711/scrollkeeper#61",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.775821+00:00"
-    },
-    {
-      "id": "nuentoter/dust-and-debt#19",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.780752+00:00"
-    },
-    {
-      "id": "relayhop/sn-monetization-runtime#1365",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.785125+00:00"
-    },
-    {
-      "id": "relayhop/sn-monetization-runtime#1364",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.789399+00:00"
-    },
-    {
-      "id": "dev-kp-eloper/BountyScout#1746",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.792972+00:00"
-    },
-    {
-      "id": "panoskokmotos/panoskokmotos#20",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.798091+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2576",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.801791+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2575",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.807672+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2574",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.813334+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2573",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.818464+00:00"
-    },
-    {
-      "id": "ProSkillsMD/proskills#10845",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.823007+00:00"
-    },
-    {
-      "id": "call-0f-code/COC-Members#79",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.829230+00:00"
-    },
-    {
-      "id": "mautic/mautic#18108",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.833265+00:00"
-    },
-    {
-      "id": "paritytech/polkadot-sdk#13772",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-10T01:32:37.838169+00:00"
-    },
-    {
-      "id": "Kokanee25/Western#736",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.842225+00:00"
-    },
-    {
-      "id": "Monkestation/Monkestation2.0#12962",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-10T01:32:37.846160+00:00"
-    },
     {
       "id": "pokerclubhq/info#83",
       "status": "reward_too_low",
@@ -8312,7 +8812,507 @@
       "id": "Chihyunpark1/slop-source#13",
       "status": "reward_too_low",
       "updated_at": "2026-11-11T19:37:29.302018+00:00"
+    },
+    {
+      "id": "ConcatenaLabs/sequentia-web-wallet#713",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.114296+00:00"
+    },
+    {
+      "id": "fitzforge/polestar#1927",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.127666+00:00"
+    },
+    {
+      "id": "beesyst/beeagent#365",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.143742+00:00"
+    },
+    {
+      "id": "ConcatenaLabs/sequentia-web-wallet#708",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.156127+00:00"
+    },
+    {
+      "id": "ConcatenaLabs/seqdex#165",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.168345+00:00"
+    },
+    {
+      "id": "ledger-direct/.github#2",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.178550+00:00"
+    },
+    {
+      "id": "immunefi-team/Spectra-Audit-Competition#2",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.193340+00:00"
+    },
+    {
+      "id": "Stellar-Music/stellar-music-contracts#33",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.205738+00:00"
+    },
+    {
+      "id": "Folks-Finance/folks-staking-contracts#3",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.217926+00:00"
+    },
+    {
+      "id": "JalapenoLabs/SpeciesUnknownMods#3",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.227662+00:00"
+    },
+    {
+      "id": "ConcatenaLabs/ambra#253",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.242459+00:00"
+    },
+    {
+      "id": "ConcatenaLabs/sequentia-web-wallet#701",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.254856+00:00"
+    },
+    {
+      "id": "ConcatenaLabs/seqdex#164",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.267523+00:00"
+    },
+    {
+      "id": "Monkestation/Monkestation2.0#12992",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.279846+00:00"
+    },
+    {
+      "id": "alchemix-finance/alchemix-v2-dao#201",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.292623+00:00"
+    },
+    {
+      "id": "EnidAnderson/EvilSwarm#91",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.302996+00:00"
+    },
+    {
+      "id": "ConcatenaLabs/sequentia-web-wallet#697",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.317968+00:00"
+    },
+    {
+      "id": "ConcatenaLabs/sequentia-web-wallet#696",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-12T07:12:41.330745+00:00"
+    },
+    {
+      "id": "paraloom-labs/paraloom-core#1580",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.343302+00:00"
+    },
+    {
+      "id": "Stellar-Music/stellar-music-contracts#32",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.355957+00:00"
+    },
+    {
+      "id": "ConcatenaLabs/sequentia-web-wallet#691",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.368465+00:00"
+    },
+    {
+      "id": "xeprotocol/xe#499",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.382638+00:00"
+    },
+    {
+      "id": "xeprotocol/xe#498",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.393362+00:00"
+    },
+    {
+      "id": "xeprotocol/xe#497",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.408897+00:00"
+    },
+    {
+      "id": "yaojiejia/agents-radar#462",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.421321+00:00"
+    },
+    {
+      "id": "xeprotocol/xe#496",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.431197+00:00"
+    },
+    {
+      "id": "paraloom-labs/paraloom-core#1579",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.446057+00:00"
+    },
+    {
+      "id": "freedom-winds/BountyScout#1407",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.455946+00:00"
+    },
+    {
+      "id": "paraloom-labs/paraloom-core#1577",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.472230+00:00"
+    },
+    {
+      "id": "ConcatenaLabs/sequentia-web-wallet#689",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-12T07:12:41.487010+00:00"
+    },
+    {
+      "id": "anthropics/claude-code#109174",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.508040+00:00"
+    },
+    {
+      "id": "Stellar-Music/stellar-music-contracts#31",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.524468+00:00"
+    },
+    {
+      "id": "xeprotocol/xe#495",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.539931+00:00"
+    },
+    {
+      "id": "xeprotocol/xe#494",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.552665+00:00"
+    },
+    {
+      "id": "xeprotocol/xe#493",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.565343+00:00"
+    },
+    {
+      "id": "Monkestation/Monkestation2.0#12989",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.578111+00:00"
+    },
+    {
+      "id": "paraloom-labs/paraloom-core#1573",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.590897+00:00"
+    },
+    {
+      "id": "skuzu7/CSA-LAB#15",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.603838+00:00"
+    },
+    {
+      "id": "z0r0z/tacit#72",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.616687+00:00"
+    },
+    {
+      "id": "Stellar-Music/stellar-music-contracts#30",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.629665+00:00"
+    },
+    {
+      "id": "windoliver/deepbuild#2327",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.642776+00:00"
+    },
+    {
+      "id": "MergeFi/backend#853",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.655671+00:00"
+    },
+    {
+      "id": "MergeFi/backend#851",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.668602+00:00"
+    },
+    {
+      "id": "MergeFi/backend#850",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.682127+00:00"
+    },
+    {
+      "id": "MergeFi/backend#848",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.694810+00:00"
+    },
+    {
+      "id": "Replikanti/agentis-colonies#2363",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.707638+00:00"
+    },
+    {
+      "id": "MergeFi/backend#839",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.720750+00:00"
+    },
+    {
+      "id": "MergeFi/backend#837",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.731089+00:00"
+    },
+    {
+      "id": "MergeFi/backend#836",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.749106+00:00"
+    },
+    {
+      "id": "MergeFi/backend#832",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.759319+00:00"
+    },
+    {
+      "id": "MergeFi/backend#831",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.772356+00:00"
+    },
+    {
+      "id": "MergeFi/backend#817",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.785383+00:00"
+    },
+    {
+      "id": "MergeFi/backend#816",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.798330+00:00"
+    },
+    {
+      "id": "MergeFi/backend#805",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.813874+00:00"
+    },
+    {
+      "id": "MergeFi/backend#799",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.824353+00:00"
+    },
+    {
+      "id": "MergeFi/backend#798",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.837349+00:00"
+    },
+    {
+      "id": "MergeFi/backend#797",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.853032+00:00"
+    },
+    {
+      "id": "MergeFi/backend#796",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.866598+00:00"
+    },
+    {
+      "id": "MergeFi/backend#795",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.877529+00:00"
+    },
+    {
+      "id": "MergeFi/backend#794",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.893243+00:00"
+    },
+    {
+      "id": "MergeFi/backend#788",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.906394+00:00"
+    },
+    {
+      "id": "MergeFi/backend#787",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.919615+00:00"
+    },
+    {
+      "id": "MergeFi/backend#786",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.930068+00:00"
+    },
+    {
+      "id": "MergeFi/backend#785",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.945816+00:00"
+    },
+    {
+      "id": "MergeFi/backend#784",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.956298+00:00"
+    },
+    {
+      "id": "MergeFi/backend#778",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.971869+00:00"
+    },
+    {
+      "id": "MergeFi/backend#777",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.982382+00:00"
+    },
+    {
+      "id": "MergeFi/backend#775",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:41.995597+00:00"
+    },
+    {
+      "id": "MergeFi/backend#774",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.008873+00:00"
+    },
+    {
+      "id": "MergeFi/backend#773",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.024740+00:00"
+    },
+    {
+      "id": "MergeFi/backend#771",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.038222+00:00"
+    },
+    {
+      "id": "MergeFi/backend#769",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.051982+00:00"
+    },
+    {
+      "id": "MergeFi/backend#763",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.065282+00:00"
+    },
+    {
+      "id": "MergeFi/backend#764",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.078844+00:00"
+    },
+    {
+      "id": "MergeFi/backend#762",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.089568+00:00"
+    },
+    {
+      "id": "MergeFi/backend#754",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.105677+00:00"
+    },
+    {
+      "id": "MergeFi/backend#752",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.119036+00:00"
+    },
+    {
+      "id": "Rohank143/BountyScout#96",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.132233+00:00"
+    },
+    {
+      "id": "dev-kp-eloper/BountyScout#1754",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.147392+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#949",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.160806+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#948",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.171280+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#946",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.187461+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#939",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.198303+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#929",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.214483+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#928",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.228183+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#924",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.242108+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#925",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.255823+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#923",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.269255+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#916",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.282888+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#912",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.296619+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#914",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.310246+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#909",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.324103+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#899",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.338068+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#898",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.348950+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#900",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.365507+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#893",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.376519+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#887",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.393153+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#881",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.403979+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#879",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.414876+00:00"
+    },
+    {
+      "id": "MergeFi/frontend#874",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-12T07:12:42.425843+00:00"
     }
   ],
-  "updated_at": "2026-11-11T19:37:29.302022+00:00"
+  "updated_at": "2026-11-12T07:12:42.425853+00:00"
 }
