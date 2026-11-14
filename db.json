@@ -1,1520 +1,191 @@
 {
-  "engine": "OPTIMUS AI",
-  "version": "1.0.0",
-  "generated_at": "2026-11-14T22:25:24.618069+00:00",
-  "statistics": {
-    "discovered_this_run": 100,
-    "total_tracked": 1145,
-    "submitted": 0,
-    "accepted": 0,
-    "paid": 0
-  },
+  "engine": "AUTO-EARN ENGINE",
+  "version": "1.0",
+  "discovered": 84,
+  "reviewed": 30,
+  "pull_requests_submitted": 0,
   "results": [
     {
-      "id": "Gleb302596555/openbfme-godot#493",
-      "repository": "Gleb302596555/openbfme-godot",
-      "number": 493,
-      "title": "Port 211: Stale stop sweep: the economy group S-250 .. S-260 against main (S-252 names the UpgradeCenter as not ported)",
-      "url": "https://github.com/Gleb302596555/openbfme-godot/issues/493",
+      "issue": "https://github.com/nishant/mc-packs/issues/226",
+      "title": "Validation 0f3e559 (perf/w0-harness)",
       "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.302419+00:00"
+      "status": "no explicit USD reward"
     },
     {
-      "id": "freedom-winds/BountyScout#1417",
-      "repository": "freedom-winds/BountyScout",
-      "number": 1417,
-      "title": "🎯 Bounty Alert: 3 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1417",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.302828+00:00"
-    },
-    {
-      "id": "Rohank143/BountyScout#106",
-      "repository": "Rohank143/BountyScout",
-      "number": 106,
-      "title": "🎯 Bounty Alert: 5 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/106",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.320516+00:00"
-    },
-    {
-      "id": "LandoCrissian/robinhood-meme-terminal#609",
-      "repository": "LandoCrissian/robinhood-meme-terminal",
-      "number": 609,
-      "title": "RMT Task 040 — Free security hardening and independent community-review preparation",
-      "url": "https://github.com/LandoCrissian/robinhood-meme-terminal/issues/609",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.303299+00:00"
-    },
-    {
-      "id": "dev-kp-eloper/BountyScout#1765",
-      "repository": "dev-kp-eloper/BountyScout",
-      "number": 1765,
-      "title": "🎯 Bounty Alert: 5 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1765",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.353548+00:00"
-    },
-    {
-      "id": "Vezryn-LLC/graph-community#43",
-      "repository": "Vezryn-LLC/graph-community",
-      "number": 43,
+      "issue": "https://github.com/Vezryn-LLC/graph-community/issues/43",
       "title": "[COMMUNITY/DOCS] Make security reporting policy concise and contributor-friendly",
-      "url": "https://github.com/Vezryn-LLC/graph-community/issues/43",
       "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.375666+00:00"
+      "status": "no explicit USD reward"
     },
     {
-      "id": "Arrow-air/project-quiver#286",
-      "repository": "Arrow-air/project-quiver",
-      "number": 286,
-      "title": "20 Ah Tattu 4.0 pack: review Tattu bridge version 2 and confirm the 20 Ah capacity failsafe values",
-      "url": "https://github.com/Arrow-air/project-quiver/issues/286",
+      "issue": "https://github.com/Eternally-Thriving-Grandmasterism/Powrush-MMO/issues/738",
+      "title": "COUNCIL BOARD",
       "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.399833+00:00"
+      "status": "no explicit USD reward"
     },
     {
-      "id": "alleycatassetacquisitions/pdn#465",
-      "repository": "alleycatassetacquisitions/pdn",
-      "number": 465,
-      "title": "Fold the match key into a shared secret-key holder",
-      "url": "https://github.com/alleycatassetacquisitions/pdn/issues/465",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.421695+00:00"
-    },
-    {
-      "id": "cantrip-rs/cantrip-rs#3048",
-      "repository": "cantrip-rs/cantrip-rs",
-      "number": 3048,
-      "title": "Cards: Foundations red (59 cards)",
-      "url": "https://github.com/cantrip-rs/cantrip-rs/issues/3048",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.443606+00:00"
-    },
-    {
-      "id": "cantrip-rs/cantrip-rs#3047",
-      "repository": "cantrip-rs/cantrip-rs",
-      "number": 3047,
-      "title": "Cards: Foundations green (56 cards)",
-      "url": "https://github.com/cantrip-rs/cantrip-rs/issues/3047",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.465606+00:00"
-    },
-    {
-      "id": "jejellyroll-fr/fpdb-3#810",
-      "repository": "jejellyroll-fr/fpdb-3",
-      "number": 810,
-      "title": "[Parser] Betclic 2025+ client: shared knockouts and re-entry in tournaments",
-      "url": "https://github.com/jejellyroll-fr/fpdb-3/issues/810",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.487457+00:00"
-    },
-    {
-      "id": "PortSwigger/extension-portal#593",
-      "repository": "PortSwigger/extension-portal",
-      "number": 593,
-      "title": "Injection Scanner",
-      "url": "https://github.com/PortSwigger/extension-portal/issues/593",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.509355+00:00"
-    },
-    {
-      "id": "VlcekM/MeitouClient#705",
-      "repository": "VlcekM/MeitouClient",
-      "number": 705,
-      "title": "Feedback: Combat",
-      "url": "https://github.com/VlcekM/MeitouClient/issues/705",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.531441+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#563",
-      "repository": "xeprotocol/xe",
-      "number": 563,
-      "title": "DecodeVote panics on a crafted vote encoding: uint16 length wraparound at core/encoding.go:699",
-      "url": "https://github.com/xeprotocol/xe/issues/563",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.553632+00:00"
-    },
-    {
-      "id": "TokenNotIncluded/lmm-api#989",
-      "repository": "TokenNotIncluded/lmm-api",
-      "number": 989,
-      "title": "上游运维、后端杂项与 i18n 移植评估",
-      "url": "https://github.com/TokenNotIncluded/lmm-api/issues/989",
-      "reward_usd": 1.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.575501+00:00"
-    },
-    {
-      "id": "TokenNotIncluded/lmm-api#986",
-      "repository": "TokenNotIncluded/lmm-api",
-      "number": 986,
-      "title": "上游 Relay/Responses 移植与跟踪",
-      "url": "https://github.com/TokenNotIncluded/lmm-api/issues/986",
-      "reward_usd": 1.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.598001+00:00"
-    },
-    {
-      "id": "HCTDIP/corps-jobs#192",
-      "repository": "HCTDIP/corps-jobs",
-      "number": 192,
-      "title": "Railway 赏金：有 7 条值得抢",
-      "url": "https://github.com/HCTDIP/corps-jobs/issues/192",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.624406+00:00"
-    },
-    {
-      "id": "limitlessprojects/Go-Hybrid#4475",
-      "repository": "limitlessprojects/Go-Hybrid",
-      "number": 4475,
-      "title": "hyb generate: recursive walk enters testdata, _-prefixed dirs and nested modules, so a fixture there aborts the whole run",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/4475",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.646674+00:00"
-    },
-    {
-      "id": "LiamBMX/joshymc-plugin#1545",
-      "repository": "LiamBMX/joshymc-plugin",
-      "number": 1545,
-      "title": "Lifesteal: Audit Banking, PvP Coin Stealing, Bounties, and Economy Transaction Integrity",
-      "url": "https://github.com/LiamBMX/joshymc-plugin/issues/1545",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.669176+00:00"
-    },
-    {
-      "id": "freedom-winds/BountyScout#1416",
-      "repository": "freedom-winds/BountyScout",
-      "number": 1416,
-      "title": "🎯 Bounty Alert: 21 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1416",
-      "reward_usd": 600.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:22.691311+00:00"
-    },
-    {
-      "id": "LiamBMX/joshymc-plugin#1539",
-      "repository": "LiamBMX/joshymc-plugin",
-      "number": 1539,
-      "title": "Lifesteal: Audit Server Performance, Database Bottlenecks, Memory Usage, and Runtime Stability",
-      "url": "https://github.com/LiamBMX/joshymc-plugin/issues/1539",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.714422+00:00"
-    },
-    {
-      "id": "accensa/accensa-contracts#1008",
-      "repository": "accensa/accensa-contracts",
-      "number": 1008,
-      "title": "test: cover watchtower_counter_evidence and its bounty split",
-      "url": "https://github.com/accensa/accensa-contracts/issues/1008",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.737464+00:00"
-    },
-    {
-      "id": "Youseph-Elkhouly/Bountic#1",
-      "repository": "Youseph-Elkhouly/Bountic",
-      "number": 1,
-      "title": "Agent Coordination Board",
-      "url": "https://github.com/Youseph-Elkhouly/Bountic/issues/1",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.760618+00:00"
-    },
-    {
-      "id": "chazlander/TrueshotLodge#3",
-      "repository": "chazlander/TrueshotLodge",
-      "number": 3,
-      "title": "BOTW - Bounty of the Week",
-      "url": "https://github.com/chazlander/TrueshotLodge/issues/3",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.783488+00:00"
-    },
-    {
-      "id": "VlcekM/MeitouClient#697",
-      "repository": "VlcekM/MeitouClient",
-      "number": 697,
-      "title": "Feedback: Training Gear",
-      "url": "https://github.com/VlcekM/MeitouClient/issues/697",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.807115+00:00"
-    },
-    {
-      "id": "agntn/puzzles#578",
-      "repository": "agntn/puzzles",
-      "number": 578,
-      "title": "Describe the package as agnostic",
-      "url": "https://github.com/agntn/puzzles/issues/578",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.830657+00:00"
-    },
-    {
-      "id": "Rohank143/BountyScout#105",
-      "repository": "Rohank143/BountyScout",
-      "number": 105,
-      "title": "🎯 Bounty Alert: 21 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/105",
-      "reward_usd": 600.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:22.853530+00:00"
-    },
-    {
-      "id": "dev-kp-eloper/BountyScout#1764",
-      "repository": "dev-kp-eloper/BountyScout",
-      "number": 1764,
-      "title": "🎯 Bounty Alert: 21 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1764",
-      "reward_usd": 600.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:22.876595+00:00"
-    },
-    {
-      "id": "accensa/accensa-contracts#998",
-      "repository": "accensa/accensa-contracts",
-      "number": 998,
-      "title": "fix: Confine prune-bounty payouts to a configured bounty asset",
-      "url": "https://github.com/accensa/accensa-contracts/issues/998",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.899447+00:00"
-    },
-    {
-      "id": "accensa/accensa-contracts#994",
-      "repository": "accensa/accensa-contracts",
-      "number": 994,
-      "title": "fix: Keep the unpayable remainder of a prune bounty accrued, not burned",
-      "url": "https://github.com/accensa/accensa-contracts/issues/994",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.923265+00:00"
-    },
-    {
-      "id": "accensa/accensa-contracts#993",
-      "repository": "accensa/accensa-contracts",
-      "number": 993,
-      "title": "fix: Skip the ReceiptsPruned event when a prune call removes nothing",
-      "url": "https://github.com/accensa/accensa-contracts/issues/993",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.947234+00:00"
-    },
-    {
-      "id": "Ivanmg10/achivements#168",
-      "repository": "Ivanmg10/achivements",
-      "number": 168,
-      "title": "fix(ui): groups and rankings review findings",
-      "url": "https://github.com/Ivanmg10/achivements/issues/168",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.969922+00:00"
-    },
-    {
-      "id": "heavenskybird/stripunion#199",
-      "repository": "heavenskybird/stripunion",
-      "number": 199,
-      "title": "P1: AVCams model and affiliate referral recruitment with approved tracked signup routes",
-      "url": "https://github.com/heavenskybird/stripunion/issues/199",
-      "reward_usd": 200.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:22.992180+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#28",
-      "repository": "shin2344234/bounty-teleportation",
-      "number": 28,
-      "title": "Game crashes when teleporting while holding a bounty",
-      "url": "https://github.com/shin2344234/bounty-teleportation/issues/28",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.019608+00:00"
-    },
-    {
-      "id": "relayhop/ClaudeEarnSelf-runtime#1232",
-      "repository": "relayhop/ClaudeEarnSelf-runtime",
-      "number": 1232,
-      "title": "[demand] high-priority 2026-11-14T16:01",
-      "url": "https://github.com/relayhop/ClaudeEarnSelf-runtime/issues/1232",
-      "reward_usd": 600.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:23.042108+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#26",
-      "repository": "shin2344234/bounty-teleportation",
-      "number": 26,
-      "title": "Unlimited bounties on random NPCs",
-      "url": "https://github.com/shin2344234/bounty-teleportation/issues/26",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.064436+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#20",
-      "repository": "shin2344234/bounty-teleportation",
-      "number": 20,
-      "title": "Crash on a teleport after delivering a carried bounty",
-      "url": "https://github.com/shin2344234/bounty-teleportation/issues/20",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.086270+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#15",
-      "repository": "shin2344234/bounty-teleportation",
-      "number": 15,
-      "title": "Carried bounty doesn't teleport on 1.0.13 after the second 1 November patch",
-      "url": "https://github.com/shin2344234/bounty-teleportation/issues/15",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.107944+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#11",
-      "repository": "shin2344234/bounty-teleportation",
-      "number": 11,
-      "title": "Carry a bounty while riding special mounts such as the wyvern or bear",
-      "url": "https://github.com/shin2344234/bounty-teleportation/issues/11",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.129712+00:00"
-    },
-    {
-      "id": "sunlabuiuc/PyHealth#1477",
-      "repository": "sunlabuiuc/PyHealth",
-      "number": 1477,
-      "title": "Port SHHSDataset to the PyHealth 2.0 dataset API (part of #340)",
-      "url": "https://github.com/sunlabuiuc/PyHealth/issues/1477",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.152205+00:00"
-    },
-    {
-      "id": "LadderMine/yieldladder#158",
-      "repository": "LadderMine/yieldladder",
-      "number": 158,
-      "title": "How can I reach the team to report a security issue? The bounty email bounces",
-      "url": "https://github.com/LadderMine/yieldladder/issues/158",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.175064+00:00"
-    },
-    {
-      "id": "Luminous-Dynamics/mycelix#6166",
-      "repository": "Luminous-Dynamics/mycelix",
-      "number": 6166,
-      "title": "Implement LARP-EPISTEMIC v2: contestable scientific rewards and reviewer assurance",
-      "url": "https://github.com/Luminous-Dynamics/mycelix/issues/6166",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.197698+00:00"
-    },
-    {
-      "id": "LadderMine/yieldladder#157",
-      "repository": "LadderMine/yieldladder",
-      "number": 157,
-      "title": "Locked vaults cannot be deployed with the project's own deploy script",
-      "url": "https://github.com/LadderMine/yieldladder/issues/157",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.220021+00:00"
-    },
-    {
-      "id": "LadderMine/yieldladder#156",
-      "repository": "LadderMine/yieldladder",
-      "number": 156,
-      "title": "Negative withdrawal amounts inflate balances and shares for free in all four vaults",
-      "url": "https://github.com/LadderMine/yieldladder/issues/156",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.242130+00:00"
-    },
-    {
-      "id": "zhangjiayang6835-cyber/bounty-plaza#4340",
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "number": 4340,
-      "title": "[Bounty] [Escrowed $450 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4340",
-      "reward_usd": 450.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:23.264603+00:00"
-    },
-    {
-      "id": "zhangjiayang6835-cyber/bounty-plaza#4341",
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "number": 4341,
-      "title": "[Bounty] [Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account b",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4341",
-      "reward_usd": 450.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:23.287760+00:00"
-    },
-    {
-      "id": "zhangjiayang6835-cyber/bounty-plaza#4339",
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "number": 4339,
-      "title": "[Bounty] [Escrowed $600 USDC] Prevent aliasing mutable ref-cell bitmask collision across ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4339",
-      "reward_usd": 600.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:23.310356+00:00"
-    },
-    {
-      "id": "zhangjiayang6835-cyber/bounty-plaza#4338",
-      "repository": "zhangjiayang6835-cyber/bounty-plaza",
-      "number": 4338,
-      "title": "[Bounty] [Escrowed $600 USDC] Align Posted/Non-Posted header credit wrap mask under 256B ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4338",
-      "reward_usd": 600.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:23.333459+00:00"
-    },
-    {
-      "id": "ERA-Projects/era-project-eng#980",
-      "repository": "ERA-Projects/era-project-eng",
-      "number": 980,
-      "title": "Crash in [Town] dialog EIP: H3era hd.005D6E98. Code: C0000005",
-      "url": "https://github.com/ERA-Projects/era-project-eng/issues/980",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.357361+00:00"
-    },
-    {
-      "id": "tenstorrent/tt-metal#65634",
-      "repository": "tenstorrent/tt-metal",
-      "number": 65634,
-      "title": "[Bounty Proposal] Fix ttnn.sampling and ttnn.moe Quasar DataflowBuffer drain deadlocks, missing pack_init retargets, legacy CircularBuffer mask hazard, and runtime k / W bounds",
-      "url": "https://github.com/tenstorrent/tt-metal/issues/65634",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.380704+00:00"
-    },
-    {
-      "id": "Space-Stories/space-stories-14#470",
-      "repository": "Space-Stories/space-stories-14",
-      "number": 470,
-      "title": "TestExpireIdCardExpiryUsesPauseDuration test failure on main (Content.IntegrationTests.Tests.Access.ExpireIdCardTest.TestExpireIdCardExpiryUsesPauseDuration)",
-      "url": "https://github.com/Space-Stories/space-stories-14/issues/470",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.404429+00:00"
-    },
-    {
-      "id": "shin2344234/master-looter#107",
-      "repository": "shin2344234/master-looter",
-      "number": 107,
-      "title": "Pet filter deletes items the player picked up",
-      "url": "https://github.com/shin2344234/master-looter/issues/107",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.426918+00:00"
-    },
-    {
-      "id": "rroland10/dex223-bug-bounty#113",
-      "repository": "rroland10/dex223-bug-bounty",
-      "number": 113,
-      "title": "RPC/subgraph proxy rate limits keyed by spoofable first X-Forwarded-For entry (per-Vercel-instance only)",
-      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/113",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.452584+00:00"
-    },
-    {
-      "id": "rroland10/dex223-bug-bounty#112",
-      "repository": "rroland10/dex223-bug-bounty",
-      "number": 112,
-      "title": "Factory accepts ERC-223 transfers with no way to recover them (funds permanently locked)",
-      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/112",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.475123+00:00"
-    },
-    {
-      "id": "rroland10/dex223-bug-bounty#111",
-      "repository": "rroland10/dex223-bug-bounty",
-      "number": 111,
-      "title": "Protocol fees in unlisted tokens (including D223 itself) never reach stakers; the RevenueV2 owner sweeps them",
-      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/111",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.498544+00:00"
-    },
-    {
-      "id": "rroland10/dex223-bug-bounty#110",
-      "repository": "rroland10/dex223-bug-bounty",
-      "number": 110,
-      "title": "Forged Onramp widget events via unauthenticated postMessage show a fake \"Sale complete\" (fiat on/off-ramp)",
-      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/110",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.521770+00:00"
-    },
-    {
-      "id": "rroland10/dex223-bug-bounty#109",
-      "repository": "rroland10/dex223-bug-bounty",
-      "number": 109,
-      "title": "Factory set() lets the owner replace pool logic for every pool created afterwards (no timelock, no event, no validation)",
-      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/109",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.544863+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#6",
-      "repository": "shin2344234/bounty-teleportation",
-      "number": 6,
-      "title": "Crash 5 to 10 seconds after starting the game with both settings on",
-      "url": "https://github.com/shin2344234/bounty-teleportation/issues/6",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.567581+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#3",
-      "repository": "shin2344234/bounty-teleportation",
-      "number": 3,
-      "title": "Game crash with only the mod's DMM support bundle and no mod log",
-      "url": "https://github.com/shin2344234/bounty-teleportation/issues/3",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.589986+00:00"
-    },
-    {
-      "id": "tenstorrent/tt-metal#65627",
-      "repository": "tenstorrent/tt-metal",
-      "number": 65627,
-      "title": "[Bounty Proposal] Fix silent NaN index corruption, outer-padding OOB indices, preallocated output hazards, and Quasar build failure in ttnn.argmax NC & W%32==0 paths",
-      "url": "https://github.com/tenstorrent/tt-metal/issues/65627",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.613091+00:00"
-    },
-    {
-      "id": "fitzforge/polestar#2327",
-      "repository": "fitzforge/polestar",
-      "number": 2327,
-      "title": "Wrong step: Desolace, step 1",
-      "url": "https://github.com/fitzforge/polestar/issues/2327",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.635852+00:00"
-    },
-    {
-      "id": "Luminous-Dynamics/mycelix#6156",
-      "repository": "Luminous-Dynamics/mycelix",
-      "number": 6156,
-      "title": "Implement LARP v2 typed Rust contract reference and conformance harness",
-      "url": "https://github.com/Luminous-Dynamics/mycelix/issues/6156",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.660671+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#4908",
-      "repository": "Ikalus1988/MisakaNet",
-      "number": 4908,
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4908",
+      "issue": "https://github.com/ldavis2700/ai-revenue-agent/issues/85",
+      "title": "APEX: Autonomous Job-to-Cash Engine — discovery → winning → execution → payout",
       "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.683507+00:00"
+      "status": "no explicit USD reward"
     },
     {
-      "id": "Ikalus1988/MisakaNet#4907",
-      "repository": "Ikalus1988/MisakaNet",
-      "number": 4907,
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4907",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.709241+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#4906",
-      "repository": "Ikalus1988/MisakaNet",
-      "number": 4906,
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4906",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.732210+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#4905",
-      "repository": "Ikalus1988/MisakaNet",
-      "number": 4905,
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4905",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.754948+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#4904",
-      "repository": "Ikalus1988/MisakaNet",
-      "number": 4904,
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4904",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.778604+00:00"
-    },
-    {
-      "id": "yeheskieltame/claudelance#645",
-      "repository": "yeheskieltame/claudelance",
-      "number": 645,
-      "title": "Stats bountyCount reports resolved tasks instead of posted tasks",
-      "url": "https://github.com/yeheskieltame/claudelance/issues/645",
-      "reward_usd": 15.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:23.801419+00:00"
-    },
-    {
-      "id": "relayhop/sn-monetization-runtime#1381",
-      "repository": "relayhop/sn-monetization-runtime",
-      "number": 1381,
-      "title": "[radar] SN open bounty 2026-11-14T13:24",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1381",
+      "issue": "https://github.com/tmsteph/3dvr-portal/issues/3285",
+      "title": "Open-source contribution candidate: Hacker Fab",
       "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.824051+00:00"
+      "status": "no explicit USD reward"
     },
     {
-      "id": "miooor/aseansurvivor#1",
-      "repository": "miooor/aseansurvivor",
-      "number": 1,
-      "title": "Spec: Johor encounter-and-loot slice",
-      "url": "https://github.com/miooor/aseansurvivor/issues/1",
+      "issue": "https://github.com/SkriptLang/Skript/issues/8383",
+      "title": "When using multiline examples the docs generator breaks",
       "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.847570+00:00"
+      "status": "no explicit USD reward"
     },
     {
-      "id": "midnightntwrk/midnight-examples#108",
-      "repository": "midnightntwrk/midnight-examples",
-      "number": 108,
-      "title": "Wallet wrappers still log the first 8 characters of the seed",
-      "url": "https://github.com/midnightntwrk/midnight-examples/issues/108",
+      "issue": "https://github.com/fleet-sdk/docs/issues/8",
+      "title": "[Educational] Fleet-Tutorial + Bounties",
       "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.870876+00:00"
+      "status": "no explicit USD reward"
     },
     {
-      "id": "paraloom-labs/paraloom-core#1606",
-      "repository": "paraloom-labs/paraloom-core",
-      "number": 1606,
-      "title": "[BOUNTY] High: reconcile_validators deadlocks on pre-dual-stake 72-byte ValidatorRegistry (AccountDidNotDeserialize in Step 2 before Step 3 reset), admits non-canonical PDAs in decode, and exits 0 on invariant mismatch",
-      "url": "https://github.com/paraloom-labs/paraloom-core/issues/1606",
+      "issue": "https://github.com/nishant/mc-packs/issues/224",
+      "title": "Validation 49dca6b (perf/w0b-validate)",
       "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.894435+00:00"
+      "status": "no explicit USD reward"
     },
     {
-      "id": "s-os-agency/agents#8",
-      "repository": "s-os-agency/agents",
-      "number": 8,
-      "title": "[MON-20261114-04] Agent-ready engineering, documentation and crypto-paid creative task pack",
-      "url": "https://github.com/s-os-agency/agents/issues/8",
-      "reward_usd": 13000.0,
-      "status": "unsafe",
-      "updated_at": "2026-11-14T22:25:23.917977+00:00",
-      "message": "Mission écartée : contenu à risque (private key)."
-    },
-    {
-      "id": "s-os-agency/agents#7",
-      "repository": "s-os-agency/agents",
-      "number": 7,
-      "title": "[MON-20261114-03] Digital task execution: structured data, public-source research and client-ready deliverables",
-      "url": "https://github.com/s-os-agency/agents/issues/7",
+      "issue": "https://github.com/alleycatassetacquisitions/pdn/issues/256",
+      "title": "test: hardware sweep of the comms rewrite — 5+ device mixed-role session",
       "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.941178+00:00"
+      "status": "no explicit USD reward"
     },
     {
-      "id": "velrino/jobs#533",
-      "repository": "velrino/jobs",
-      "number": 533,
-      "title": "[EPAM Systems] Senior Security Architect — Remote: Argentina, Brazil, Chile, Colombia, Mexico / Remote",
-      "url": "https://github.com/velrino/jobs/issues/533",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.963916+00:00"
-    },
-    {
-      "id": "velrino/jobs#532",
-      "repository": "velrino/jobs",
-      "number": 532,
-      "title": "[EPAM Systems] Security Architect — Remote: Argentina, Brazil, Chile, Colombia, Mexico / Remote",
-      "url": "https://github.com/velrino/jobs/issues/532",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.987585+00:00"
-    },
-    {
-      "id": "freedom-winds/BountyScout#1415",
-      "repository": "freedom-winds/BountyScout",
-      "number": 1415,
-      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1415",
-      "reward_usd": 75.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:24.010200+00:00"
-    },
-    {
-      "id": "kshahwali533-cyber/sentinel-ai#25",
-      "repository": "kshahwali533-cyber/sentinel-ai",
-      "number": 25,
-      "title": "Product roadmap: validation, researcher workflows, intelligence, analytics, teams, enterprise and billing",
-      "url": "https://github.com/kshahwali533-cyber/sentinel-ai/issues/25",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.032743+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#561",
-      "repository": "xeprotocol/xe",
-      "number": 561,
-      "title": "Node.Stop() stalls ~65–70 s on an in-flight performance-certificate benchmark",
-      "url": "https://github.com/xeprotocol/xe/issues/561",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.055119+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#560",
-      "repository": "xeprotocol/xe",
-      "number": 560,
-      "title": "API rate-limiter sweep goroutines are immortal: +3 per Handler.Mux(), never stopped",
-      "url": "https://github.com/xeprotocol/xe/issues/560",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.077353+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#559",
-      "repository": "xeprotocol/xe",
-      "number": 559,
-      "title": "mDNS discovery service leaks 7 goroutines per Node.Stop() (production default has mDNS on)",
-      "url": "https://github.com/xeprotocol/xe/issues/559",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.100024+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#558",
-      "repository": "xeprotocol/xe",
-      "number": 558,
-      "title": "Failed node.New() leaks the libp2p listener, the Badger directory lock, and ~38 goroutines",
-      "url": "https://github.com/xeprotocol/xe/issues/558",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.122662+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#557",
-      "repository": "xeprotocol/xe",
-      "number": 557,
-      "title": "Committed ledger state is lost on power loss: BadgerStore never enables SyncWrites and no commit path calls Sync()",
-      "url": "https://github.com/xeprotocol/xe/issues/557",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.145737+00:00"
-    },
-    {
-      "id": "HCTDIP/corps-jobs#191",
-      "repository": "HCTDIP/corps-jobs",
-      "number": 191,
-      "title": "Railway 赏金：有 6 条值得抢",
-      "url": "https://github.com/HCTDIP/corps-jobs/issues/191",
-      "reward_usd": 20.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:24.168583+00:00"
-    },
-    {
-      "id": "Rosemary-ux/lyricsflip#192",
-      "repository": "Rosemary-ux/lyricsflip",
-      "number": 192,
-      "title": "[Documentation] LF-201 · Create a \"good first issue\" guide for open-source contributors",
-      "url": "https://github.com/Rosemary-ux/lyricsflip/issues/192",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.191428+00:00"
-    },
-    {
-      "id": "onlyonee1/PaymentFlow#692",
-      "repository": "onlyonee1/PaymentFlow",
-      "number": 692,
-      "title": "Create a Soroban contract deployment checklist and mainnet go-live runbook",
-      "url": "https://github.com/onlyonee1/PaymentFlow/issues/692",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.214232+00:00"
-    },
-    {
-      "id": "Rosemary-ux/lyricsflip#140",
-      "repository": "Rosemary-ux/lyricsflip",
-      "number": 140,
-      "title": "[Documentation] LF-151 · Write security policy and responsible disclosure guide",
-      "url": "https://github.com/Rosemary-ux/lyricsflip/issues/140",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.237037+00:00"
-    },
-    {
-      "id": "fulldecent/erc721#308",
-      "repository": "fulldecent/erc721",
-      "number": 308,
-      "title": "safeTransferFrom skips the receiver check for a contract under construction, token can be locked permanently",
-      "url": "https://github.com/fulldecent/erc721/issues/308",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.259091+00:00"
-    },
-    {
-      "id": "taikoxyz/taiko-mono#22359",
-      "repository": "taikoxyz/taiko-mono",
-      "number": 22359,
-      "title": "[Formal M05] Etna registry lifecycle and withdrawal accounting",
-      "url": "https://github.com/taikoxyz/taiko-mono/issues/22359",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.281152+00:00"
-    },
-    {
-      "id": "hugoalves-dev/simkl-mcp-cloudflare-workers#81",
-      "repository": "hugoalves-dev/simkl-mcp-cloudflare-workers",
-      "number": 81,
-      "title": "Simkl API documentation changed",
-      "url": "https://github.com/hugoalves-dev/simkl-mcp-cloudflare-workers/issues/81",
-      "reward_usd": 188.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:24.304465+00:00"
-    },
-    {
-      "id": "d85rcrcy27-creator/ArbiVault#97",
-      "repository": "d85rcrcy27-creator/ArbiVault",
-      "number": 97,
-      "title": "Draco: audit and activate safe ArbiVault monetization opportunities",
-      "url": "https://github.com/d85rcrcy27-creator/ArbiVault/issues/97",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.327269+00:00"
-    },
-    {
-      "id": "pliniosilveira/commander-arena#60",
-      "repository": "pliniosilveira/commander-arena",
-      "number": 60,
-      "title": "Deck Support - Precon - Quandrix Unlimited",
-      "url": "https://github.com/pliniosilveira/commander-arena/issues/60",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.351770+00:00"
-    },
-    {
-      "id": "Rohank143/BountyScout#104",
-      "repository": "Rohank143/BountyScout",
-      "number": 104,
-      "title": "🎯 Bounty Alert: 11 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/104",
-      "reward_usd": 450.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:24.375452+00:00"
-    },
-    {
-      "id": "dev-kp-eloper/BountyScout#1762",
-      "repository": "dev-kp-eloper/BountyScout",
-      "number": 1762,
-      "title": "🎯 Bounty Alert: 10 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1762",
-      "reward_usd": 450.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:24.399261+00:00"
-    },
-    {
-      "id": "devlux76/vortex#110",
-      "repository": "devlux76/vortex",
-      "number": 110,
-      "title": "Vote: criteria for the first paid VORTEX bounty pilot",
-      "url": "https://github.com/devlux76/vortex/issues/110",
+      "issue": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/1",
+      "title": "[BOUNTY $50] SKILL: Generate a structured CHANGELOG from git history",
       "reward_usd": 50.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:24.423455+00:00"
+      "status": "no supported execution contract"
     },
     {
-      "id": "ilhamraduanbis-source/toyol-digital#8",
-      "repository": "ilhamraduanbis-source/toyol-digital",
-      "number": 8,
-      "title": "Toyol Mission Engine — persistent mission queue and heartbeat",
-      "url": "https://github.com/ilhamraduanbis-source/toyol-digital/issues/8",
+      "issue": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3",
+      "title": "[BOUNTY $100] HOOK: Pre-tool-use hook that blocks destructive bash commands",
+      "reward_usd": 100.0,
+      "status": "no supported execution contract"
+    },
+    {
+      "issue": "https://github.com/RSPSApp/tsps/issues/153",
+      "title": "OSRS minigames and activities: merged coverage and remaining gaps",
       "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.446064+00:00"
+      "status": "no explicit USD reward"
     },
     {
-      "id": "kwesigaamon8-web/Amon-Kwesiga#13",
-      "repository": "kwesigaamon8-web/Amon-Kwesiga",
-      "number": 13,
-      "title": "Funding partners wanted — open crypto payment safety toolkit pilot (proposal; not an NGO)",
-      "url": "https://github.com/kwesigaamon8-web/Amon-Kwesiga/issues/13",
-      "reward_usd": 300.0,
-      "status": "unsafe",
-      "updated_at": "2026-11-14T22:25:24.468369+00:00",
-      "message": "Mission écartée : contenu à risque (private key)."
-    },
-    {
-      "id": "zimbadev/crystalserver#1042",
-      "repository": "zimbadev/crystalserver",
-      "number": 1042,
-      "title": "[KV] Game migration markers are only persisted on server save, so migrations re-run after an unclean stop",
-      "url": "https://github.com/zimbadev/crystalserver/issues/1042",
+      "issue": "https://github.com/warden-protocol/wardenprotocol/issues/1924",
+      "title": "docs: fix llms-full.txt broken links and split MiCAR white paper",
       "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.491352+00:00"
+      "status": "unsafe task"
     },
     {
-      "id": "zimbadev/crystalserver#1038",
-      "repository": "zimbadev/crystalserver",
-      "number": 1038,
-      "title": "[IO] Saving a player loaded offline wipes bounty tasks, weekly tasks, forge history and bosstiary",
-      "url": "https://github.com/zimbadev/crystalserver/issues/1038",
+      "issue": "https://github.com/0xSneaks/ai-coms/issues/13",
+      "title": "AI COMS health: board needs attention",
+      "reward_usd": 30.0,
+      "status": "unsafe task"
+    },
+    {
+      "issue": "https://github.com/silasfelinus/kind_robots/issues/4535",
+      "title": "[ROADMAP] Slime City: Clash | Cards, Factions, Art, Balance and QA",
       "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.513687+00:00"
+      "status": "no explicit USD reward"
     },
     {
-      "id": "ruohong2018/ruohong2018.github.io#1376",
-      "repository": "ruohong2018/ruohong2018.github.io",
-      "number": 1376,
-      "title": "[每日信息流] 2026-11-14",
-      "url": "https://github.com/ruohong2018/ruohong2018.github.io/issues/1376",
-      "reward_usd": 400.0,
-      "status": "unsafe",
-      "updated_at": "2026-11-14T22:25:24.536870+00:00",
-      "message": "Mission écartée : contenu à risque (malware)."
+      "issue": "https://github.com/janzeerOrg/janzeer-sdk-go/issues/1",
+      "title": "[100 JNZ] Typed RPC wrappers for the token methods, getTransactionsByAddress, sendRawTransaction, methods and getGenesis",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/nimbusscale/dust-law/issues/2",
+      "title": "Game rule clarifications",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/Gleb302596555/openbfme-godot/issues/493",
+      "title": "Port 211: Stale stop sweep: the economy group S-250 .. S-260 against main (S-252 names the UpgradeCenter as not ported)",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/Zoverions/AXIOM-MESH/issues/1575",
+      "title": "Watch findings integration backlog — architecture/security conformance",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/telegraphprotocol/bounties/issues/96",
+      "title": "SECURITY_REVIEW: evaluation material and an evaluator adapter",
+      "reward_usd": 0,
+      "status": "unsafe task"
+    },
+    {
+      "issue": "https://github.com/limitlessprojects/Go-Hybrid/issues/940",
+      "title": "Triage Board (auto-updated daily — pin me)",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/vitalets/github-trending-repos/issues/35",
+      "title": "New daily trending repos in Shell",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/vitalets/github-trending-repos/issues/109",
+      "title": "New daily trending repos in Jupyter Notebook",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/fo4sf/fo4-to-starfield/issues/32",
+      "title": "Project update (shared post: Claude, Codex, Grok)",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/nextcloud/server/issues/1440",
+      "title": "Federated calendar and contacts sharing",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/OpenRA/OpenRA/issues/4988",
+      "title": "Add C&C:TD campaign",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/Oreocide/TrinityCore/issues/77",
+      "title": "World quests: nothing consumes the scheduled world states yet (conditions, feed, pickup, area POI, callings, emissaries)",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/freedom-winds/BountyScout/issues/1417",
+      "title": "🎯 Bounty Alert: 3 New Opportunityies found",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/kwesigaamon8-web/Amon-Kwesiga/issues/6",
+      "title": "DIRECTORS' COORDINATION ROOM — performance, shared handoffs, independent research",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
+    },
+    {
+      "issue": "https://github.com/manaflow-ai/cmux/issues/13742",
+      "title": "Design and product calls (gallery: #15427), plus CI admin",
+      "reward_usd": 0,
+      "status": "no explicit USD reward"
     }
   ],
-  "history": [
-    {
-      "id": "Gleb302596555/openbfme-godot#493",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.326138+00:00"
-    },
-    {
-      "id": "freedom-winds/BountyScout#1417",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.362792+00:00"
-    },
-    {
-      "id": "Rohank143/BountyScout#106",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.386372+00:00"
-    },
-    {
-      "id": "LandoCrissian/robinhood-meme-terminal#609",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.408902+00:00"
-    },
-    {
-      "id": "dev-kp-eloper/BountyScout#1765",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.430987+00:00"
-    },
-    {
-      "id": "Vezryn-LLC/graph-community#43",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.448229+00:00"
-    },
-    {
-      "id": "Arrow-air/project-quiver#286",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.470330+00:00"
-    },
-    {
-      "id": "alleycatassetacquisitions/pdn#465",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.496638+00:00"
-    },
-    {
-      "id": "cantrip-rs/cantrip-rs#3048",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.518455+00:00"
-    },
-    {
-      "id": "cantrip-rs/cantrip-rs#3047",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.540786+00:00"
-    },
-    {
-      "id": "jejellyroll-fr/fpdb-3#810",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.562758+00:00"
-    },
-    {
-      "id": "PortSwigger/extension-portal#593",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.584695+00:00"
-    },
-    {
-      "id": "VlcekM/MeitouClient#705",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.611593+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#563",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.633559+00:00"
-    },
-    {
-      "id": "TokenNotIncluded/lmm-api#989",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.656068+00:00"
-    },
-    {
-      "id": "TokenNotIncluded/lmm-api#986",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.678437+00:00"
-    },
-    {
-      "id": "HCTDIP/corps-jobs#192",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.696239+00:00"
-    },
-    {
-      "id": "limitlessprojects/Go-Hybrid#4475",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.719480+00:00"
-    },
-    {
-      "id": "LiamBMX/joshymc-plugin#1545",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.742610+00:00"
-    },
-    {
-      "id": "freedom-winds/BountyScout#1416",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:22.770438+00:00"
-    },
-    {
-      "id": "LiamBMX/joshymc-plugin#1539",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.793302+00:00"
-    },
-    {
-      "id": "accensa/accensa-contracts#1008",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.817285+00:00"
-    },
-    {
-      "id": "Youseph-Elkhouly/Bountic#1",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.840287+00:00"
-    },
-    {
-      "id": "chazlander/TrueshotLodge#3",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.863128+00:00"
-    },
-    {
-      "id": "VlcekM/MeitouClient#697",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.881835+00:00"
-    },
-    {
-      "id": "agntn/puzzles#578",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.910122+00:00"
-    },
-    {
-      "id": "Rohank143/BountyScout#105",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:22.933618+00:00"
-    },
-    {
-      "id": "dev-kp-eloper/BountyScout#1764",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:22.956737+00:00"
-    },
-    {
-      "id": "accensa/accensa-contracts#998",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:22.979181+00:00"
-    },
-    {
-      "id": "accensa/accensa-contracts#994",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.006085+00:00"
-    },
-    {
-      "id": "accensa/accensa-contracts#993",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.028891+00:00"
-    },
-    {
-      "id": "Ivanmg10/achivements#168",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.051494+00:00"
-    },
-    {
-      "id": "heavenskybird/stripunion#199",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:23.073435+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#28",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.095171+00:00"
-    },
-    {
-      "id": "relayhop/ClaudeEarnSelf-runtime#1232",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:23.117016+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#26",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.138629+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#20",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.161544+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#15",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.184628+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#11",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.207199+00:00"
-    },
-    {
-      "id": "sunlabuiuc/PyHealth#1477",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.229187+00:00"
-    },
-    {
-      "id": "LadderMine/yieldladder#158",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.246825+00:00"
-    },
-    {
-      "id": "Luminous-Dynamics/mycelix#6166",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.274667+00:00"
-    },
-    {
-      "id": "LadderMine/yieldladder#157",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.297013+00:00"
-    },
-    {
-      "id": "LadderMine/yieldladder#156",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.315606+00:00"
-    },
-    {
-      "id": "zhangjiayang6835-cyber/bounty-plaza#4340",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:23.338347+00:00"
-    },
-    {
-      "id": "zhangjiayang6835-cyber/bounty-plaza#4341",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:23.362416+00:00"
-    },
-    {
-      "id": "zhangjiayang6835-cyber/bounty-plaza#4339",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:23.390140+00:00"
-    },
-    {
-      "id": "zhangjiayang6835-cyber/bounty-plaza#4338",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:23.413742+00:00"
-    },
-    {
-      "id": "ERA-Projects/era-project-eng#980",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.439054+00:00"
-    },
-    {
-      "id": "tenstorrent/tt-metal#65634",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.461859+00:00"
-    },
-    {
-      "id": "Space-Stories/space-stories-14#470",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.479982+00:00"
-    },
-    {
-      "id": "shin2344234/master-looter#107",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.508250+00:00"
-    },
-    {
-      "id": "rroland10/dex223-bug-bounty#113",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.526320+00:00"
-    },
-    {
-      "id": "rroland10/dex223-bug-bounty#112",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.549852+00:00"
-    },
-    {
-      "id": "rroland10/dex223-bug-bounty#111",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.576727+00:00"
-    },
-    {
-      "id": "rroland10/dex223-bug-bounty#110",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.599071+00:00"
-    },
-    {
-      "id": "rroland10/dex223-bug-bounty#109",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.622543+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#6",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.640639+00:00"
-    },
-    {
-      "id": "shin2344234/bounty-teleportation#3",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.670100+00:00"
-    },
-    {
-      "id": "tenstorrent/tt-metal#65627",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.695932+00:00"
-    },
-    {
-      "id": "fitzforge/polestar#2327",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.718803+00:00"
-    },
-    {
-      "id": "Luminous-Dynamics/mycelix#6156",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.741696+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#4908",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.764302+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#4907",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.788107+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#4906",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.810876+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#4905",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.828892+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#4904",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.852557+00:00"
-    },
-    {
-      "id": "yeheskieltame/claudelance#645",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:23.880880+00:00"
-    },
-    {
-      "id": "relayhop/sn-monetization-runtime#1381",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.904262+00:00"
-    },
-    {
-      "id": "miooor/aseansurvivor#1",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.927702+00:00"
-    },
-    {
-      "id": "midnightntwrk/midnight-examples#108",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.950481+00:00"
-    },
-    {
-      "id": "paraloom-labs/paraloom-core#1606",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:23.973853+00:00"
-    },
-    {
-      "id": "s-os-agency/agents#8",
-      "status": "unsafe",
-      "updated_at": "2026-11-14T22:25:23.997094+00:00"
-    },
-    {
-      "id": "s-os-agency/agents#7",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.019573+00:00"
-    },
-    {
-      "id": "velrino/jobs#533",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.041948+00:00"
-    },
-    {
-      "id": "velrino/jobs#532",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.064308+00:00"
-    },
-    {
-      "id": "freedom-winds/BountyScout#1415",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:24.082089+00:00"
-    },
-    {
-      "id": "kshahwali533-cyber/sentinel-ai#25",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.109115+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#561",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.127530+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#560",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.155567+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#559",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.173505+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#558",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.196293+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#557",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.223842+00:00"
-    },
-    {
-      "id": "HCTDIP/corps-jobs#191",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:24.246130+00:00"
-    },
-    {
-      "id": "Rosemary-ux/lyricsflip#192",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.268126+00:00"
-    },
-    {
-      "id": "onlyonee1/PaymentFlow#692",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.290553+00:00"
-    },
-    {
-      "id": "Rosemary-ux/lyricsflip#140",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.314303+00:00"
-    },
-    {
-      "id": "fulldecent/erc721#308",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.332377+00:00"
-    },
-    {
-      "id": "taikoxyz/taiko-mono#22359",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.356850+00:00"
-    },
-    {
-      "id": "hugoalves-dev/simkl-mcp-cloudflare-workers#81",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:24.380623+00:00"
-    },
-    {
-      "id": "d85rcrcy27-creator/ArbiVault#97",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.409941+00:00"
-    },
-    {
-      "id": "pliniosilveira/commander-arena#60",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.432937+00:00"
-    },
-    {
-      "id": "Rohank143/BountyScout#104",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:24.455274+00:00"
-    },
-    {
-      "id": "dev-kp-eloper/BountyScout#1762",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:24.477803+00:00"
-    },
-    {
-      "id": "devlux76/vortex#110",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-14T22:25:24.500711+00:00"
-    },
-    {
-      "id": "ilhamraduanbis-source/toyol-digital#8",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.522779+00:00"
-    },
-    {
-      "id": "kwesigaamon8-web/Amon-Kwesiga#13",
-      "status": "unsafe",
-      "updated_at": "2026-11-14T22:25:24.546296+00:00"
-    },
-    {
-      "id": "zimbadev/crystalserver#1042",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.564178+00:00"
-    },
-    {
-      "id": "zimbadev/crystalserver#1038",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-14T22:25:24.581536+00:00"
-    },
-    {
-      "id": "ruohong2018/ruohong2018.github.io#1376",
-      "status": "unsafe",
-      "updated_at": "2026-11-14T22:25:24.598890+00:00"
-    }
-  ],
-  "notice": "Une mission détectée n'est pas un revenu. Un Pull Request soumis n'est pas une acceptation. Un paiement est enregistré uniquement après confirmation réelle."
+  "notice": "A PR is not proof of acceptance or payment.",
+  "generated_at": "2026-11-14T22:36:32.055523+00:00"
 }
