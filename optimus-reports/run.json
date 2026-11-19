@@ -1,1516 +1,1516 @@
 {
   "engine": "OPTIMUS AI",
   "version": "1.0.0",
-  "generated_at": "2026-11-18T20:32:46.634489+00:00",
+  "generated_at": "2026-11-19T07:28:09.538140+00:00",
   "statistics": {
     "discovered_this_run": 100,
-    "total_tracked": 1906,
+    "total_tracked": 2006,
     "submitted": 0,
     "accepted": 0,
     "paid": 0
   },
   "results": [
     {
-      "id": "Soroban-escrow/escrow-app#124",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 124,
-      "title": "Progress stepper for refunded and disputed bounties",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/124",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.324653+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#123",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 123,
-      "title": "Show the funding and closing transactions on the bounty page",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/123",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.324867+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#116",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 116,
-      "title": "Indexes for maintainer, audit-log and review lookups",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/116",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.325516+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#121",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 121,
-      "title": "Don't relabel an issue whose bounty label is already correct",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/121",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.325251+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#113",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 113,
-      "title": "Edge-case tests for `parseCommand`",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/113",
-      "reward_usd": 50.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:42.403515+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#110",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 110,
-      "title": "Index the bounty text search",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/110",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.445821+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#108",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 108,
-      "title": "Add totals to public user profiles",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/108",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.486237+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#198",
-      "repository": "bad-antics/lateralus-lang",
-      "number": 198,
-      "title": "[bounty] stdlib.merkle tutorial",
-      "url": "https://github.com/bad-antics/lateralus-lang/issues/198",
-      "reward_usd": 25.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:42.529755+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#87",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 87,
-      "title": "Test `resolve` with a winner and `winner_bps = 0`",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/87",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.570916+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#85",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 85,
-      "title": "Test treasury rotation applies to existing bounties",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/85",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.612028+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#83",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 83,
-      "title": "Test relayer rotation via `set_relayer`",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/83",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.655004+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#82",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 82,
-      "title": "Test that the admin cannot move bounty funds directly",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/82",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.695526+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#81",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 81,
-      "title": "Test that the arbiter cannot release or refund",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/81",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.737859+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#80",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 80,
-      "title": "Test stored `Bounty` fields after funding",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/80",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.779960+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#79",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 79,
-      "title": "Test the same issue number in two repos can be funded concurrently",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/79",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.825863+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#78",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 78,
-      "title": "Test that the deadline window is inclusive at both ends",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/78",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.868287+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#77",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 77,
-      "title": "Test that `fund_bounty` accepts exactly `min_amount` and `max_amount`",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/77",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.910207+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#76",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 76,
-      "title": "Bound how far `set_fee` can move in a single call",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/76",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.952857+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#75",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 75,
-      "title": "Require a non-zero `min_duration_secs`",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/75",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.993222+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#74",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 74,
-      "title": "Add `release_many` for batched relayer payouts",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/74",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.035250+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#73",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 73,
-      "title": "Let a maintainer revoke `relayer_allowed` on an open bounty",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/73",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.084319+00:00"
-    },
-    {
-      "id": "freedom-winds/BountyScout#1431",
-      "repository": "freedom-winds/BountyScout",
-      "number": 1431,
-      "title": "🎯 Bounty Alert: 11 New Opportunityies found",
-      "url": "https://github.com/freedom-winds/BountyScout/issues/1431",
-      "reward_usd": 225.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:43.125596+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#71",
-      "repository": "Soroban-escrow/escrow-contracts",
-      "number": 71,
-      "title": "Add `cancel_bounty` with maintainer and arbiter co-signature",
-      "url": "https://github.com/Soroban-escrow/escrow-contracts/issues/71",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.167839+00:00"
-    },
-    {
-      "id": "frolvanya/omni-rebalancer#2",
-      "repository": "frolvanya/omni-rebalancer",
-      "number": 2,
-      "title": "DAO proposal #335 filed for the omni.bridge replay — 10% bounty ($200k) to execute",
-      "url": "https://github.com/frolvanya/omni-rebalancer/issues/2",
-      "reward_usd": 200.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:43.207932+00:00"
-    },
-    {
-      "id": "wallyben/makefun-token-radar#3",
-      "repository": "wallyben/makefun-token-radar",
-      "number": 3,
-      "title": "Verify GitHub Actions workflow execution",
-      "url": "https://github.com/wallyben/makefun-token-radar/issues/3",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.249889+00:00"
-    },
-    {
-      "id": "wallyben/makefun-token-radar#1",
-      "repository": "wallyben/makefun-token-radar",
-      "number": 1,
-      "title": "Create the four missing bounty repositories",
-      "url": "https://github.com/wallyben/makefun-token-radar/issues/1",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.292307+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2746",
-      "repository": "FuRongJun-1999/dsh-bounty",
-      "number": 2746,
-      "title": "第三方独立复验：dsh-memory PR #927（feat(ui)：自我认知页补通用价值观（引智能论3.4 §2.1）＋锚点按字段拆行）——TS 守卫升级5项 基线2红/3过→修复全绿",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2746",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.334517+00:00"
-    },
-    {
-      "id": "OmniBlocks/clippy#26",
-      "repository": "OmniBlocks/clippy",
-      "number": 26,
-      "title": "reclaiming clippy from omniblocks",
-      "url": "https://github.com/OmniBlocks/clippy/issues/26",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.376237+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2745",
-      "repository": "FuRongJun-1999/dsh-bounty",
-      "number": 2745,
-      "title": "第三方独立复验：dsh-memory PR #926（fix(ui)：身份档案说人话——中文类型+ID降副标+详情按需）——TS 守卫3项 基线3红→修复全绿（静态面；S3 点击路径运行时缺陷见 #993/#2741 披露）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2745",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.416265+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-backend#106",
-      "repository": "Soroban-escrow/escrow-backend",
-      "number": 106,
-      "title": "Tests: settle when the bounty changes state while a release is in flight",
-      "url": "https://github.com/Soroban-escrow/escrow-backend/issues/106",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.457953+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-backend#104",
-      "repository": "Soroban-escrow/escrow-backend",
-      "number": 104,
-      "title": "Admin: reconcile a FAILED payout that has a transaction hash",
-      "url": "https://github.com/Soroban-escrow/escrow-backend/issues/104",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.499659+00:00"
-    },
-    {
-      "id": "Kongok/news-image-20261117#1",
-      "repository": "Kongok/news-image-20261117",
-      "number": 1,
-      "title": "Build news-image entry: Sum up 17 November's world news in one image",
-      "url": "https://github.com/Kongok/news-image-20261117/issues/1",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.541122+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-backend#100",
-      "repository": "Soroban-escrow/escrow-backend",
-      "number": 100,
-      "title": "Tell the contributor when a payout fails because they are the maintainer",
-      "url": "https://github.com/Soroban-escrow/escrow-backend/issues/100",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.583059+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2744",
-      "repository": "FuRongJun-1999/dsh-bounty",
-      "number": 2744,
-      "title": "第三方独立复验：lingshu PR #1422（feat(bridge)：add read-only World-Atta replay provider——外部贡献者 laszapens）——pytest 守卫 7 函数（展开 9 用例）基线ModuleNotFoundError（新面）→修复全绿",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2744",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.640854+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-backend#99",
-      "repository": "Soroban-escrow/escrow-backend",
-      "number": 99,
-      "title": "on_wallet_linked stops at the first payout that fails",
-      "url": "https://github.com/Soroban-escrow/escrow-backend/issues/99",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.682275+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-backend#95",
-      "repository": "Soroban-escrow/escrow-backend",
-      "number": 95,
-      "title": "Show the refund date and a time zone on the bounty card",
-      "url": "https://github.com/Soroban-escrow/escrow-backend/issues/95",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.724113+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2743",
-      "repository": "FuRongJun-1999/dsh-bounty",
-      "number": 2743,
-      "title": "第三方独立复验：lingshu PR #1419（test(world)：cover camera metadata round trips——外部贡献者 laszapens test-only 单）——pytest 守卫 8 函数（参数化展开 14 用例）两腿同绿（部分子面首钉＋与既有守卫重叠复钉）",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2743",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.765333+00:00"
-    },
-    {
-      "id": "progidyken-hub/BLUEWHALE#442",
-      "repository": "progidyken-hub/BLUEWHALE",
-      "number": 442,
-      "title": "security: Publish formal SECURITY.md with vulnerability disclosure policy and PGP key",
-      "url": "https://github.com/progidyken-hub/BLUEWHALE/issues/442",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.811521+00:00"
-    },
-    {
-      "id": "Refract-Protocol/refract-contracts#582",
-      "repository": "Refract-Protocol/refract-contracts",
-      "number": 582,
-      "title": "`bounty::evidence` accepts an unverified evidence hash and reports success",
-      "url": "https://github.com/Refract-Protocol/refract-contracts/issues/582",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.853771+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2742",
-      "repository": "FuRongJun-1999/dsh-bounty",
-      "number": 2742,
-      "title": "第三方独立复验：dsh-memory PR #995（fix(stg)：切断 stg ↔ mcp_server 双向惰性循环（下沉 _normalize_session）——外部贡献者直修，对象侧 lingshu #434 硬前置第 2 项）——脚本守卫7判据 基线FileNotFoundError（新面）→修复全绿",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2742",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.896329+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#93",
-      "repository": "Ayush441-python/AUREN",
-      "number": 93,
-      "title": "[Bug Bounty] AI report verifies +18% for a stress scenario whose return is −18%",
-      "url": "https://github.com/Ayush441-python/AUREN/issues/93",
-      "reward_usd": 10.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:43.939231+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#100",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 100,
-      "title": "Review a PR against every open bounty it closes",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/100",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.979305+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#97",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 97,
-      "title": "Return each PR's rank from the API so the web page matches the PR comment",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/97",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.021714+00:00"
-    },
-    {
-      "id": "Refract-Protocol/refract-contracts#536",
-      "repository": "Refract-Protocol/refract-contracts",
-      "number": 536,
-      "title": "Bounty evidence verification re-hashes the same payload on every check",
-      "url": "https://github.com/Refract-Protocol/refract-contracts/issues/536",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.064574+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#95",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 95,
-      "title": "Handle closed, deleted and transferred bounty issues",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/95",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.111225+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2741",
-      "repository": "FuRongJun-1999/dsh-bounty",
-      "number": 2741,
-      "title": "第三方独立复验：dsh-memory PR #992（feat(write)：身份标签回落安全主体——补类别层第一维＋价值观闸/写面管线）——脚本守卫三件23判据 基线1ImportError+2守卫行为红→修复全绿",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2741",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.156053+00:00"
-    },
-    {
-      "id": "Refract-Protocol/refract-contracts#515",
-      "repository": "Refract-Protocol/refract-contracts",
-      "number": 515,
-      "title": "Bounty escrow refill can exceed the configured cap",
-      "url": "https://github.com/Refract-Protocol/refract-contracts/issues/515",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.199604+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#93",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 93,
-      "title": "Add a `/bounty status` command",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/93",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.242076+00:00"
-    },
-    {
-      "id": "Gen-x-academy/chainVerse-onchain#1429",
-      "repository": "Gen-x-academy/chainVerse-onchain",
-      "number": 1429,
-      "title": "[On-chain Capstone][CAPSTONE-081] Configure project funding models",
-      "url": "https://github.com/Gen-x-academy/chainVerse-onchain/issues/1429",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.285600+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#92",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 92,
-      "title": "Re-running `/bounty` should invalidate the previous funding link",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/92",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.327696+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#91",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 91,
-      "title": "Update the funding-link comment when the link expires or is used",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/91",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.368383+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2740",
-      "repository": "FuRongJun-1999/dsh-bounty",
-      "number": 2740,
-      "title": "第三方独立复验：dsh-memory PR #990（feat(#980)：B 包——写入闸默认 enforce（知识层需复核））——脚本守卫两件42判据 基线3红/39过→修复全绿",
-      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2740",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.412942+00:00"
-    },
-    {
-      "id": "Gen-x-academy/chainVerse-frontend#1507",
-      "repository": "Gen-x-academy/chainVerse-frontend",
-      "number": 1507,
-      "title": "[Frontend Capstone][CAPSTONE-081] Configure project funding models",
-      "url": "https://github.com/Gen-x-academy/chainVerse-frontend/issues/1507",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.455133+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#813",
+      "id": "xeprotocol/xe#849",
       "repository": "xeprotocol/xe",
-      "number": 813,
-      "title": "[High] Lock-vs-tally divergence lets a timed low-hash fork permanently stall finality for an account position",
-      "url": "https://github.com/xeprotocol/xe/issues/813",
+      "number": 849,
+      "title": "[Medium] statechain replay() applies stored blocks without ValidateOp/validateTransition — an op the live path rejects is admitted on restart",
+      "url": "https://github.com/xeprotocol/xe/issues/849",
       "reward_usd": 0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.498843+00:00"
+      "updated_at": "2026-11-19T07:28:05.072709+00:00"
     },
     {
-      "id": "Soroban-escrow/escrow-app#87",
-      "repository": "Soroban-escrow/escrow-app",
-      "number": 87,
-      "title": "Alert on payouts stuck in SUBMITTED",
-      "url": "https://github.com/Soroban-escrow/escrow-app/issues/87",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.538847+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#196",
-      "repository": "bad-antics/lateralus-lang",
-      "number": 196,
-      "title": "[bounty] bug-report: Python API primes_up_to(0) IndexError and primes_up_to(-5) returns wrong primes; sliding_window(_,0) returns empty windows",
-      "url": "https://github.com/bad-antics/lateralus-lang/issues/196",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.582019+00:00"
-    },
-    {
-      "id": "Gen-x-academy/chainVerse-backend#1591",
-      "repository": "Gen-x-academy/chainVerse-backend",
-      "number": 1591,
-      "title": "[Backend Capstone][CAPSTONE-081] Configure project funding models",
-      "url": "https://github.com/Gen-x-academy/chainVerse-backend/issues/1591",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.624481+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#195",
-      "repository": "bad-antics/lateralus-lang",
-      "number": 195,
-      "title": "[Bug]: [bounty] bug-report: stdlib modules cannot be imported from .ltl — import algorithms → NameError",
-      "url": "https://github.com/bad-antics/lateralus-lang/issues/195",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.665250+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#194",
-      "repository": "bad-antics/lateralus-lang",
-      "number": 194,
-      "title": "[bounty] bug-report: chunk(arr, 0) infinite-loops in .ltl stdlib; Python API raises raw ValueError",
-      "url": "https://github.com/bad-antics/lateralus-lang/issues/194",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.707548+00:00"
-    },
-    {
-      "id": "ChainSafe/lodestar#10652",
-      "repository": "ChainSafe/lodestar",
-      "number": 10652,
-      "title": "validateLatestHash INVALID verdict throws mid-pass-2 on a Valid Gloas PENDING dependent, leaving a half-updated fork-choice tree",
-      "url": "https://github.com/ChainSafe/lodestar/issues/10652",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.749982+00:00"
-    },
-    {
-      "id": "kate8382/AURA#144",
-      "repository": "kate8382/AURA",
-      "number": 144,
-      "title": "[1.5] fix(policy): remove mock-flag bypass from production cross-check adapters",
-      "url": "https://github.com/kate8382/AURA/issues/144",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.792163+00:00"
-    },
-    {
-      "id": "paraspell/xcm-tools#2571",
-      "repository": "paraspell/xcm-tools",
-      "number": 2571,
-      "title": "[Bug bounty] XCM Analyser: rejects the capitalised network object `{ Kusama: null }` / `{ Polkadot: null }` (the form sdk-core uses) while `'Kusama'` and `{ kusama: null }` work",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2571",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.834622+00:00"
-    },
-    {
-      "id": "bitaps-com/jsbtc#78",
-      "repository": "bitaps-com/jsbtc",
-      "number": 78,
-      "title": "[Bug Bounty] `igamc` calls undefined `igam`, silently discarding ~86% of entropy draws and biasing generated secrets",
-      "url": "https://github.com/bitaps-com/jsbtc/issues/78",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.878241+00:00"
-    },
-    {
-      "id": "paraspell/xcm-tools#2570",
-      "repository": "paraspell/xcm-tools",
-      "number": 2570,
-      "title": "[Bug bounty] SDK (Dedot): hasRuntimeApi always returns true, so every custom chain is registered with supportsDryRunApi / supportsXcmPaymentApi = true even when the runtime has neither",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2570",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.920883+00:00"
-    },
-    {
-      "id": "paraspell/xcm-tools#2569",
-      "repository": "paraspell/xcm-tools",
-      "number": 2569,
-      "title": "[Bug bounty] SDK: getMinTransferableAmount throws \"Wrong compact input\" when the transferred asset also pays the fee (feeAsset on AssetHub) - the computed minimum cannot be built",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2569",
-      "reward_usd": 22641.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:44.963867+00:00"
-    },
-    {
-      "id": "TheJollyLaMa/DecentBusking#402",
-      "repository": "TheJollyLaMa/DecentBusking",
-      "number": 402,
-      "title": "Enable Dbusker and whitelisted buskers to report bugs and earn bug-catcher credit",
-      "url": "https://github.com/TheJollyLaMa/DecentBusking/issues/402",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.005933+00:00"
-    },
-    {
-      "id": "relayhop/sn-monetization-runtime#1418",
-      "repository": "relayhop/sn-monetization-runtime",
-      "number": 1418,
-      "title": "[radar] SN open bounty 2026-11-18T16:28",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1418",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.050529+00:00"
-    },
-    {
-      "id": "kwesigaamon8-web/Amon-Kwesiga#21",
-      "repository": "kwesigaamon8-web/Amon-Kwesiga",
-      "number": 21,
-      "title": "Lateralus TOML manifest loss — upstream maintainer bug-report review request ($10 eligibility unconfirmed)",
-      "url": "https://github.com/kwesigaamon8-web/Amon-Kwesiga/issues/21",
-      "reward_usd": 10.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:45.093808+00:00"
-    },
-    {
-      "id": "pookjw/Clocky#3",
-      "repository": "pookjw/Clocky",
-      "number": 3,
-      "title": "App crashes when opened",
-      "url": "https://github.com/pookjw/Clocky/issues/3",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.136901+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5255",
-      "repository": "Ikalus1988/MisakaNet",
-      "number": 5255,
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5255",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.179749+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5254",
-      "repository": "Ikalus1988/MisakaNet",
-      "number": 5254,
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5254",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.221828+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5253",
-      "repository": "Ikalus1988/MisakaNet",
-      "number": 5253,
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5253",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.264792+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5252",
-      "repository": "Ikalus1988/MisakaNet",
-      "number": 5252,
-      "title": "[Bounty] Answer the 2 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5252",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.307952+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5251",
-      "repository": "Ikalus1988/MisakaNet",
-      "number": 5251,
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5251",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.351935+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5250",
-      "repository": "Ikalus1988/MisakaNet",
-      "number": 5250,
-      "title": "[Bounty] Answer the 3 linked question(s)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5250",
-      "reward_usd": 0.0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.394071+00:00"
-    },
-    {
-      "id": "tenstorrent/tt-metal#66242",
-      "repository": "tenstorrent/tt-metal",
-      "number": 66242,
-      "title": "[Bounty Proposal] moreh_softmax / moreh_logsoftmax: max shift masks padding to 0, returns 0 / +inf for negative rows on non-tile-aligned dims",
-      "url": "https://github.com/tenstorrent/tt-metal/issues/66242",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.435083+00:00"
-    },
-    {
-      "id": "vllm-project/vllm-omni#10668",
-      "repository": "vllm-project/vllm-omni",
-      "number": 10668,
-      "title": "[Bug]: HunyuanImage3 forced-token sampling rules are not applied by MRv2",
-      "url": "https://github.com/vllm-project/vllm-omni/issues/10668",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.477591+00:00"
-    },
-    {
-      "id": "relayhop/sn-monetization-runtime#1416",
-      "repository": "relayhop/sn-monetization-runtime",
-      "number": 1416,
-      "title": "[radar] SN open bounty 2026-11-18T15:31",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1416",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.521113+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#89",
-      "repository": "Ayush441-python/AUREN",
-      "number": 89,
-      "title": "[Bug] Undefined correlations hide the strongest measured pair",
-      "url": "https://github.com/Ayush441-python/AUREN/issues/89",
-      "reward_usd": 10.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:45.565074+00:00"
-    },
-    {
-      "id": "paraspell/xcm-tools#2567",
-      "repository": "paraspell/xcm-tools",
-      "number": 2567,
-      "title": "[Bug bounty] getSupportedAssets advertises 115 assets the SDK can never build (reserve or hop chain missing from the registry)",
-      "url": "https://github.com/paraspell/xcm-tools/issues/2567",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.607701+00:00"
-    },
-    {
-      "id": "auscaster/frantic-board#602",
-      "repository": "auscaster/frantic-board",
-      "number": 602,
-      "title": "support: agent-651cf0 — claims #128 / #129 in human review; archive + MediaWiki revision evidence attached",
-      "url": "https://github.com/auscaster/frantic-board/issues/602",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.649365+00:00"
-    },
-    {
-      "id": "BetaONEIO/gamefolio-web-app#68",
-      "repository": "BetaONEIO/gamefolio-web-app",
-      "number": 68,
-      "title": "Extract selected bounty and campaign work from stale PR #65",
-      "url": "https://github.com/BetaONEIO/gamefolio-web-app/issues/68",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.691753+00:00"
-    },
-    {
-      "id": "s4ztz4bnf6-maker/Lubuimi#94",
-      "repository": "s4ztz4bnf6-maker/Lubuimi",
-      "number": 94,
-      "title": "JARVIS Revenue Operations: AI-agent task exchange for real EUR/BTC payouts",
-      "url": "https://github.com/s4ztz4bnf6-maker/Lubuimi/issues/94",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.735956+00:00"
-    },
-    {
-      "id": "lissy93/bug-bounties#278",
-      "repository": "lissy93/bug-bounties",
-      "number": 278,
-      "title": "[Program]: Add Apple Inc.",
-      "url": "https://github.com/lissy93/bug-bounties/issues/278",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.780113+00:00"
-    },
-    {
-      "id": "relayhop/sn-monetization-runtime#1414",
-      "repository": "relayhop/sn-monetization-runtime",
-      "number": 1414,
-      "title": "[radar] SN open bounty 2026-11-18T13:49",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1414",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.824237+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#78",
-      "repository": "Ayush441-python/AUREN",
-      "number": 78,
-      "title": "[Bug Bounty] Allocation chart shows $0 for every holding in the default $10,000 portfolio",
-      "url": "https://github.com/Ayush441-python/AUREN/issues/78",
-      "reward_usd": 25.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:45.866223+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#193",
-      "repository": "bad-antics/lateralus-lang",
-      "number": 193,
-      "title": "[bounty] bug-report: stdlib/consistent_hash.ltl crashes on Python target (float mid from `/ 2` and undefined `hash_fnv1a_64`)",
-      "url": "https://github.com/bad-antics/lateralus-lang/issues/193",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.909999+00:00"
-    },
-    {
-      "id": "OracleDesk/OracleDesk-SmartContract#336",
-      "repository": "OracleDesk/OracleDesk-SmartContract",
-      "number": 336,
-      "title": "Implement the settlement keeper task that resolves, finalizes and settles markets",
-      "url": "https://github.com/OracleDesk/OracleDesk-SmartContract/issues/336",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.951286+00:00"
-    },
-    {
-      "id": "shariqh/github-enterprise-settings-configurator#278",
-      "repository": "shariqh/github-enterprise-settings-configurator",
-      "number": 278,
-      "title": "[product-watch] Enterprise Server 3.22.5",
-      "url": "https://github.com/shariqh/github-enterprise-settings-configurator/issues/278",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.993874+00:00"
-    },
-    {
-      "id": "shariqh/github-enterprise-settings-configurator#277",
-      "repository": "shariqh/github-enterprise-settings-configurator",
-      "number": 277,
-      "title": "[product-watch] Enterprise Server 3.21.10",
-      "url": "https://github.com/shariqh/github-enterprise-settings-configurator/issues/277",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.038579+00:00"
-    },
-    {
-      "id": "Ibercivis/citsci-federation#97",
-      "repository": "Ibercivis/citsci-federation",
-      "number": 97,
-      "title": "Watch for a cyber refusal: apply to the Cyber Verification Program only when one blocks us",
-      "url": "https://github.com/Ibercivis/citsci-federation/issues/97",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.088305+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#191",
-      "repository": "bad-antics/lateralus-lang",
-      "number": 191,
-      "title": "[bounty] stdlib.consistent_hash tutorial",
-      "url": "https://github.com/bad-antics/lateralus-lang/issues/191",
-      "reward_usd": 25.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:46.130747+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#72",
-      "repository": "Ayush441-python/AUREN",
-      "number": 72,
-      "title": "[API Integration] Bounty Hunter Autonomous Agent & Multi-Asset Risk Sentinel for AUREN /risk",
-      "url": "https://github.com/Ayush441-python/AUREN/issues/72",
-      "reward_usd": 25.0,
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:46.172083+00:00"
-    },
-    {
-      "id": "vllm-project/vllm-omni#10643",
-      "repository": "vllm-project/vllm-omni",
-      "number": 10643,
-      "title": "[Bug][Release]: HunyuanImage AR CoT misses <recaption> under MRv2 with vLLM 0.34.0",
-      "url": "https://github.com/vllm-project/vllm-omni/issues/10643",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.215708+00:00"
-    },
-    {
-      "id": "Rohank143/BountyScout#122",
-      "repository": "Rohank143/BountyScout",
-      "number": 122,
-      "title": "🎯 Bounty Alert: 14 New Opportunityies found",
-      "url": "https://github.com/Rohank143/BountyScout/issues/122",
-      "reward_usd": 0,
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.258391+00:00"
-    },
-    {
-      "id": "limitlessprojects/Go-Hybrid#4569",
+      "id": "limitlessprojects/Go-Hybrid#4586",
       "repository": "limitlessprojects/Go-Hybrid",
-      "number": 4569,
-      "title": "[wildcard] Kill go test -race as the Backstop: Deterministic Simulation Runtime (hyb sim) for Managed Blocks & Logical Races",
-      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/4569",
+      "number": 4586,
+      "title": "[wildcard] Measure Spike 6's claimed rustc-translation loss: a CI-only shadow-Rust oracle for Tier-0 ownership (W-023's missing half)",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/issues/4586",
       "reward_usd": 0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.306377+00:00"
+      "updated_at": "2026-11-19T07:28:05.073241+00:00"
     },
     {
-      "id": "dev-kp-eloper/BountyScout#1779",
-      "repository": "dev-kp-eloper/BountyScout",
-      "number": 1779,
-      "title": "🎯 Bounty Alert: 13 New Opportunityies found",
-      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1779",
+      "id": "xeprotocol/xe#842",
+      "repository": "xeprotocol/xe",
+      "number": 842,
+      "title": "[Minor] Malicious sync peer can suppress chosen accounts from a victim's sync frontier via unverified `Rejected[]`",
+      "url": "https://github.com/xeprotocol/xe/issues/842",
       "reward_usd": 0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.348920+00:00"
+      "updated_at": "2026-11-19T07:28:05.074112+00:00"
     },
     {
-      "id": "Ayush441-python/AUREN#67",
-      "repository": "Ayush441-python/AUREN",
-      "number": 67,
-      "title": "[Maths Bounty] Sector Exposure Inversion in sector_exposure() Corrupts Single-Sector Risk Penalty and Falsely Penalizes Diversified Portfolios",
-      "url": "https://github.com/Ayush441-python/AUREN/issues/67",
-      "reward_usd": 50.0,
+      "id": "xeprotocol/xe#841",
+      "repository": "xeprotocol/xe",
+      "number": 841,
+      "title": "[High] Degenerate all-zero ed25519 public key: keyless representative can finalize conflicting blocks (signature forged by grinding, no private key)",
+      "url": "https://github.com/xeprotocol/xe/issues/841",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.087946+00:00"
+    },
+    {
+      "id": "Smartdevs17/agenticpay#1329",
+      "repository": "Smartdevs17/agenticpay",
+      "number": 1329,
+      "title": "Build on-chain work-proof verifier with challenger bounty flow",
+      "url": "https://github.com/Smartdevs17/agenticpay/issues/1329",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.154996+00:00"
+    },
+    {
+      "id": "anggara-ts/OpenHyperAI-too#105",
+      "repository": "anggara-ts/OpenHyperAI-too",
+      "number": 105,
+      "title": "7.42: removed items (Helm of the Overlord, Khanda) still in hero item builds",
+      "url": "https://github.com/anggara-ts/OpenHyperAI-too/issues/105",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.200042+00:00"
+    },
+    {
+      "id": "VlcekM/MeitouClient#1060",
+      "repository": "VlcekM/MeitouClient",
+      "number": 1060,
+      "title": "Feedback: Status indicator constantly flickering",
+      "url": "https://github.com/VlcekM/MeitouClient/issues/1060",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.242776+00:00"
+    },
+    {
+      "id": "8thlight/lantern-line-factory-baked-demo#36",
+      "repository": "8thlight/lantern-line-factory-baked-demo",
+      "number": 36,
+      "title": "Caretaker finding: Fast follower of print line-factory-baked-demo-qxi: GitHub issue 8thligh",
+      "url": "https://github.com/8thlight/lantern-line-factory-baked-demo/issues/36",
+      "reward_usd": 0.0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.287783+00:00"
+    },
+    {
+      "id": "VlcekM/MeitouClient#1059",
+      "repository": "VlcekM/MeitouClient",
+      "number": 1059,
+      "title": "Feedback: Rebirth characters have \"Moving\" goal instead of \"Worker\" and are constantly walking around.",
+      "url": "https://github.com/VlcekM/MeitouClient/issues/1059",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.333011+00:00"
+    },
+    {
+      "id": "rroland10/dex223-bug-bounty#158",
+      "repository": "rroland10/dex223-bug-bounty",
+      "number": 158,
+      "title": "[BUG] [Info] TESTING_GUIDE references scripts and files that do not exist",
+      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/158",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.376849+00:00"
+    },
+    {
+      "id": "rroland10/dex223-bug-bounty#157",
+      "repository": "rroland10/dex223-bug-bounty",
+      "number": 157,
+      "title": "[BUG] [Info] The Nov 18 doc-fix round (#144–#147) missed .github/ — the removed contradictions survive in the templates",
+      "url": "https://github.com/rroland10/dex223-bug-bounty/issues/157",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.418319+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1969",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1969,
+      "title": "SBB-2026-500 [TEST] Verify Webhook secret rotation from a clean environment",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1969",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.461333+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1968",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1968,
+      "title": "SBB-2026-499 [DOCS] Explain Webhook secret rotation outcomes",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1968",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.502494+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1967",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1967,
+      "title": "SBB-2026-498 [CONFIG] Validate Webhook secret rotation setup",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1967",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.547526+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1966",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1966,
+      "title": "SBB-2026-497 [RELIABILITY] Make Webhook secret rotation reruns safe",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1966",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.591545+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1965",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1965,
+      "title": "SBB-2026-496 [TOOLING] Define Webhook secret rotation inputs",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1965",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.634080+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1964",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1964,
+      "title": "SBB-2026-495 [TEST] Verify Testnet deployment configuration from a clean environment",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1964",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.675635+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1963",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1963,
+      "title": "SBB-2026-494 [DOCS] Explain Testnet deployment configuration outcomes",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1963",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.720681+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1962",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1962,
+      "title": "SBB-2026-493 [CONFIG] Validate Testnet deployment configuration setup",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1962",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.763436+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1961",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1961,
+      "title": "SBB-2026-492 [RELIABILITY] Make Testnet deployment configuration reruns safe",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1961",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.807473+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1960",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1960,
+      "title": "SBB-2026-491 [TOOLING] Define Testnet deployment configuration inputs",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1960",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.855219+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1959",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1959,
+      "title": "SBB-2026-490 [TEST] Verify Local test data seeding from a clean environment",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1959",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.899585+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1958",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1958,
+      "title": "SBB-2026-489 [DOCS] Explain Local test data seeding outcomes",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1958",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.942858+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1957",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1957,
+      "title": "SBB-2026-488 [CONFIG] Validate Local test data seeding setup",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1957",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.986148+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1956",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1956,
+      "title": "SBB-2026-487 [RELIABILITY] Make Local test data seeding reruns safe",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1956",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.029385+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1955",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1955,
+      "title": "SBB-2026-486 [TOOLING] Define Local test data seeding inputs",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1955",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.074548+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1954",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1954,
+      "title": "SBB-2026-485 [TEST] Verify Bounty lifecycle E2E fixtures from a clean environment",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1954",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.123754+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1953",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1953,
+      "title": "SBB-2026-484 [DOCS] Explain Bounty lifecycle E2E fixtures outcomes",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1953",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.164375+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1952",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1952,
+      "title": "SBB-2026-483 [CONFIG] Validate Bounty lifecycle E2E fixtures setup",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1952",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.208230+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1951",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1951,
+      "title": "SBB-2026-482 [RELIABILITY] Make Bounty lifecycle E2E fixtures reruns safe",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1951",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.253428+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1950",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1950,
+      "title": "SBB-2026-481 [TOOLING] Define Bounty lifecycle E2E fixtures inputs",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1950",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.297324+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1949",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1949,
+      "title": "SBB-2026-480 [TEST] Verify Notification delivery worker replay and failure",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1949",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.341565+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1948",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1948,
+      "title": "SBB-2026-479 [OBS] Trace Notification delivery worker outcomes",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1948",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.383695+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1947",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1947,
+      "title": "SBB-2026-478 [SECURITY] Validate Notification delivery worker input",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1947",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.429743+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1946",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1946,
+      "title": "SBB-2026-477 [RELIABILITY] Resume Notification delivery worker after interruption",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1946",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.472987+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1945",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1945,
+      "title": "SBB-2026-476 [DATA] Define Notification delivery worker boundary behavior",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1945",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.516531+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1944",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1944,
+      "title": "SBB-2026-475 [TEST] Verify GitHub webhook processing replay and failure",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1944",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.560064+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1943",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1943,
+      "title": "SBB-2026-474 [OBS] Trace GitHub webhook processing outcomes",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1943",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.605544+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1942",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1942,
+      "title": "SBB-2026-473 [SECURITY] Validate GitHub webhook processing input",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1942",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.648175+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1941",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1941,
+      "title": "SBB-2026-472 [RELIABILITY] Resume GitHub webhook processing after interruption",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1941",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.692021+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1940",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1940,
+      "title": "SBB-2026-471 [DATA] Define GitHub webhook processing boundary behavior",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1940",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.734281+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1939",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1939,
+      "title": "SBB-2026-470 [TEST] Verify Soroban event backfill replay and failure",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1939",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.778333+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1938",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1938,
+      "title": "SBB-2026-469 [OBS] Trace Soroban event backfill outcomes",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1938",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.822286+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1937",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1937,
+      "title": "SBB-2026-468 [SECURITY] Validate Soroban event backfill input",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1937",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.865056+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1936",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1936,
+      "title": "SBB-2026-467 [RELIABILITY] Resume Soroban event backfill after interruption",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1936",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.908367+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1935",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1935,
+      "title": "SBB-2026-466 [DATA] Define Soroban event backfill boundary behavior",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1935",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.954308+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1934",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1934,
+      "title": "SBB-2026-465 [TEST] Verify Soroban indexer cursor replay and failure",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1934",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.997561+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1933",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1933,
+      "title": "SBB-2026-464 [OBS] Trace Soroban indexer cursor outcomes",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1933",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.040053+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1932",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1932,
+      "title": "SBB-2026-463 [SECURITY] Validate Soroban indexer cursor input",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1932",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.083954+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1931",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1931,
+      "title": "SBB-2026-462 [RELIABILITY] Resume Soroban indexer cursor after interruption",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1931",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.128499+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1930",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1930,
+      "title": "SBB-2026-461 [DATA] Define Soroban indexer cursor boundary behavior",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1930",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.172582+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1929",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1929,
+      "title": "SBB-2026-460 [TEST] Verify Concurrent bounty state update replay and failure",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1929",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.215053+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1928",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1928,
+      "title": "SBB-2026-459 [OBS] Trace Concurrent bounty state update outcomes",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1928",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.259557+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1927",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1927,
+      "title": "SBB-2026-458 [SECURITY] Validate Concurrent bounty state update input",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1927",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.305651+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1926",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1926,
+      "title": "SBB-2026-457 [RELIABILITY] Resume Concurrent bounty state update after interruption",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1926",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.355661+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1925",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1925,
+      "title": "SBB-2026-456 [DATA] Define Concurrent bounty state update boundary behavior",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1925",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.400919+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1924",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1924,
+      "title": "SBB-2026-455 [TEST] Verify JSON bounty store writes replay and failure",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1924",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.445930+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1923",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1923,
+      "title": "SBB-2026-454 [OBS] Trace JSON bounty store writes outcomes",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1923",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.492014+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1922",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1922,
+      "title": "SBB-2026-453 [SECURITY] Validate JSON bounty store writes input",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1922",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.534836+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1921",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1921,
+      "title": "SBB-2026-452 [RELIABILITY] Resume JSON bounty store writes after interruption",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1921",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.579417+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1920",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1920,
+      "title": "SBB-2026-451 [DATA] Define JSON bounty store writes boundary behavior",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1920",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.623553+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1919",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1919,
+      "title": "SBB-2026-450 [TEST] Add Soroban regression for Bounty storage lifetime",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1919",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.670165+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1918",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1918,
+      "title": "SBB-2026-449 [EVENT] Align Bounty storage lifetime events with committed state",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1918",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.712496+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1917",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1917,
+      "title": "SBB-2026-448 [SECURITY] Enforce authority for Bounty storage lifetime",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1917",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.757315+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1916",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1916,
+      "title": "SBB-2026-447 [CONTRACT] Keep Bounty storage lifetime failures atomic",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1916",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.801824+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1915",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1915,
+      "title": "SBB-2026-446 [CONTRACT] Specify Bounty storage lifetime boundaries",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1915",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.848661+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2574",
+      "repository": "paraspell/xcm-tools",
+      "number": 2574,
+      "title": "[Bug bounty] SDK/API: transact() combined with feeAsset can never be built — origin dry run fails with NotHoldingFees at instruction 2 (AssetHubPolkadot)",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2574",
+      "reward_usd": 300000000.0,
       "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:46.395106+00:00"
+      "updated_at": "2026-11-19T07:28:07.894379+00:00"
     },
     {
-      "id": "HCTDIP/corps-jobs#202",
-      "repository": "HCTDIP/corps-jobs",
-      "number": 202,
-      "title": "Railway 赏金：有 2 条值得抢",
-      "url": "https://github.com/HCTDIP/corps-jobs/issues/202",
+      "id": "ritik4ever/stellar-bounty-board#1914",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1914,
+      "title": "SBB-2026-445 [TEST] Add Soroban regression for Escrow asset accounting",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1914",
       "reward_usd": 0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.439606+00:00"
+      "updated_at": "2026-11-19T07:28:07.935957+00:00"
     },
     {
-      "id": "ceejaylaboratory/AnchorPoint#1642",
-      "repository": "ceejaylaboratory/AnchorPoint",
-      "number": 1642,
-      "title": "feat(contracts/vault): implement auto-compounding strategy with harvest fee distribution",
-      "url": "https://github.com/ceejaylaboratory/AnchorPoint/issues/1642",
+      "id": "ritik4ever/stellar-bounty-board#1913",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1913,
+      "title": "SBB-2026-444 [EVENT] Align Escrow asset accounting events with committed state",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1913",
       "reward_usd": 0,
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.484726+00:00"
+      "updated_at": "2026-11-19T07:28:07.980814+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1912",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1912,
+      "title": "SBB-2026-443 [SECURITY] Enforce authority for Escrow asset accounting",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1912",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.025589+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1911",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1911,
+      "title": "SBB-2026-442 [CONTRACT] Keep Escrow asset accounting failures atomic",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1911",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.070229+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1910",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1910,
+      "title": "SBB-2026-441 [CONTRACT] Specify Escrow asset accounting boundaries",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1910",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.115344+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1909",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1909,
+      "title": "SBB-2026-440 [TEST] Add Soroban regression for Arbiter resolution",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1909",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.159331+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1908",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1908,
+      "title": "SBB-2026-439 [EVENT] Align Arbiter resolution events with committed state",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1908",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.207461+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1907",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1907,
+      "title": "SBB-2026-438 [SECURITY] Enforce authority for Arbiter resolution",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1907",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.252172+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1906",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1906,
+      "title": "SBB-2026-437 [CONTRACT] Keep Arbiter resolution failures atomic",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1906",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.293207+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1905",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1905,
+      "title": "SBB-2026-436 [CONTRACT] Specify Arbiter resolution boundaries",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1905",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.339611+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1904",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1904,
+      "title": "SBB-2026-435 [TEST] Add Soroban regression for Dispute window",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1904",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.386598+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1903",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1903,
+      "title": "SBB-2026-434 [EVENT] Align Dispute window events with committed state",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1903",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.429418+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1902",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1902,
+      "title": "SBB-2026-433 [SECURITY] Enforce authority for Dispute window",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1902",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.473989+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1901",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1901,
+      "title": "SBB-2026-432 [CONTRACT] Keep Dispute window failures atomic",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1901",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.519814+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1900",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1900,
+      "title": "SBB-2026-431 [CONTRACT] Specify Dispute window boundaries",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1900",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.567488+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1899",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1899,
+      "title": "SBB-2026-430 [TEST] Add Soroban regression for Contract refund",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1899",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.611092+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1898",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1898,
+      "title": "SBB-2026-429 [EVENT] Align Contract refund events with committed state",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1898",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.655943+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1897",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1897,
+      "title": "SBB-2026-428 [SECURITY] Enforce authority for Contract refund",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1897",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.699450+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1896",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1896,
+      "title": "SBB-2026-427 [CONTRACT] Keep Contract refund failures atomic",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1896",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.746008+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1895",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1895,
+      "title": "SBB-2026-426 [CONTRACT] Specify Contract refund boundaries",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1895",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.789907+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1894",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1894,
+      "title": "SBB-2026-425 [TEST] Add Soroban regression for Contract payout",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1894",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.836113+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1893",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1893,
+      "title": "SBB-2026-424 [EVENT] Align Contract payout events with committed state",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1893",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.882280+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1892",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1892,
+      "title": "SBB-2026-423 [SECURITY] Enforce authority for Contract payout",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1892",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.927141+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1891",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1891,
+      "title": "SBB-2026-422 [CONTRACT] Keep Contract payout failures atomic",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1891",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.972134+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1890",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1890,
+      "title": "SBB-2026-421 [CONTRACT] Specify Contract payout boundaries",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1890",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:09.018346+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1889",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1889,
+      "title": "SBB-2026-420 [TEST] Add Soroban regression for Contract submission",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1889",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:09.064139+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1888",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1888,
+      "title": "SBB-2026-419 [EVENT] Align Contract submission events with committed state",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1888",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:09.111490+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1887",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1887,
+      "title": "SBB-2026-418 [SECURITY] Enforce authority for Contract submission",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1887",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:09.157331+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1886",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1886,
+      "title": "SBB-2026-417 [CONTRACT] Keep Contract submission failures atomic",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1886",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:09.201729+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1885",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1885,
+      "title": "SBB-2026-416 [CONTRACT] Specify Contract submission boundaries",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1885",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:09.246971+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1884",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1884,
+      "title": "SBB-2026-415 [TEST] Add Soroban regression for Contract reservation",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1884",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:09.293476+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1883",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1883,
+      "title": "SBB-2026-414 [EVENT] Align Contract reservation events with committed state",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1883",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:09.337733+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1882",
+      "repository": "ritik4ever/stellar-bounty-board",
+      "number": 1882,
+      "title": "SBB-2026-413 [SECURITY] Enforce authority for Contract reservation",
+      "url": "https://github.com/ritik4ever/stellar-bounty-board/issues/1882",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:09.383118+00:00"
     }
   ],
   "history": [
     {
-      "id": "Soroban-escrow/escrow-app#124",
+      "id": "xeprotocol/xe#849",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.385145+00:00"
+      "updated_at": "2026-11-19T07:28:05.128973+00:00"
     },
     {
-      "id": "Soroban-escrow/escrow-app#123",
+      "id": "limitlessprojects/Go-Hybrid#4586",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.421055+00:00"
+      "updated_at": "2026-11-19T07:28:05.178932+00:00"
     },
     {
-      "id": "Soroban-escrow/escrow-app#116",
+      "id": "xeprotocol/xe#842",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.467095+00:00"
+      "updated_at": "2026-11-19T07:28:05.223286+00:00"
     },
     {
-      "id": "Soroban-escrow/escrow-app#121",
+      "id": "xeprotocol/xe#841",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.505094+00:00"
+      "updated_at": "2026-11-19T07:28:05.267224+00:00"
     },
     {
-      "id": "Soroban-escrow/escrow-app#113",
+      "id": "Smartdevs17/agenticpay#1329",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.312199+00:00"
+    },
+    {
+      "id": "anggara-ts/OpenHyperAI-too#105",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.349924+00:00"
+    },
+    {
+      "id": "VlcekM/MeitouClient#1060",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.398767+00:00"
+    },
+    {
+      "id": "8thlight/lantern-line-factory-baked-demo#36",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.436267+00:00"
+    },
+    {
+      "id": "VlcekM/MeitouClient#1059",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.483255+00:00"
+    },
+    {
+      "id": "rroland10/dex223-bug-bounty#158",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.525992+00:00"
+    },
+    {
+      "id": "rroland10/dex223-bug-bounty#157",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.572134+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1969",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.603121+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1968",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.654790+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1967",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.699255+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1966",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.744129+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1965",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.787281+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1964",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.833958+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1963",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.877944+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1962",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.922941+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1961",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:05.959414+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1960",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.009874+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1959",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.046385+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1958",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.092823+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1957",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.144674+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1956",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.188876+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1955",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.231978+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1954",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.277850+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1953",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.321322+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1952",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.351994+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1951",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.408107+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1950",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.440464+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1949",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.496978+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1948",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.533136+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1947",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.583991+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1946",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.622375+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1945",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.672500+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1944",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.714010+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1943",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.756529+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1942",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.796809+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1941",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.844590+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1940",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.888767+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1939",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.932792+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1938",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:06.977947+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1937",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.014529+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1936",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.064297+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1935",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.100798+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1934",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.152919+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1933",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.189387+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1932",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.239829+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1931",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.283343+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1930",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.335754+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1929",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.380739+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1928",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.418386+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1927",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.469877+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1926",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.508912+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1925",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.558835+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1924",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.600265+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1923",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.647765+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1922",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.692790+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1921",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.737031+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1920",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.781898+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1919",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.826783+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1918",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.873808+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1917",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.916130+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1916",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:07.960586+00:00"
+    },
+    {
+      "id": "ritik4ever/stellar-bounty-board#1915",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-19T07:28:08.003803+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2574",
       "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:42.546501+00:00"
+      "updated_at": "2026-11-19T07:28:08.049498+00:00"
     },
     {
-      "id": "Soroban-escrow/escrow-app#110",
+      "id": "ritik4ever/stellar-bounty-board#1914",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.593206+00:00"
+      "updated_at": "2026-11-19T07:28:08.095497+00:00"
     },
     {
-      "id": "Soroban-escrow/escrow-app#108",
+      "id": "ritik4ever/stellar-bounty-board#1913",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.629793+00:00"
+      "updated_at": "2026-11-19T07:28:08.139745+00:00"
     },
     {
-      "id": "bad-antics/lateralus-lang#198",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:42.676523+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#87",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.718665+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#85",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.756133+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#83",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.807093+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#82",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.849834+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#81",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.891094+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#80",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.933994+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#79",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:42.969069+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#78",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.016468+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#77",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.056645+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#76",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.106624+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#75",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.143802+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#74",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.188995+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#73",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.231283+00:00"
-    },
-    {
-      "id": "freedom-winds/BountyScout#1431",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:43.273515+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-contracts#71",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.315485+00:00"
-    },
-    {
-      "id": "frolvanya/omni-rebalancer#2",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:43.350517+00:00"
-    },
-    {
-      "id": "wallyben/makefun-token-radar#3",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.397624+00:00"
-    },
-    {
-      "id": "wallyben/makefun-token-radar#1",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.439061+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2746",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.480688+00:00"
-    },
-    {
-      "id": "OmniBlocks/clippy#26",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.522407+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2745",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.563862+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-backend#106",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.618987+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-backend#104",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.657566+00:00"
-    },
-    {
-      "id": "Kongok/news-image-20261117#1",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.705058+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-backend#100",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.740640+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2744",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.786753+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-backend#99",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.835038+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-backend#95",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.876914+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2743",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.919739+00:00"
-    },
-    {
-      "id": "progidyken-hub/BLUEWHALE#442",
+      "id": "ritik4ever/stellar-bounty-board#1912",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.960152+00:00"
+      "updated_at": "2026-11-19T07:28:08.177360+00:00"
     },
     {
-      "id": "Refract-Protocol/refract-contracts#582",
+      "id": "ritik4ever/stellar-bounty-board#1911",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:43.997173+00:00"
+      "updated_at": "2026-11-19T07:28:08.232004+00:00"
     },
     {
-      "id": "FuRongJun-1999/dsh-bounty#2742",
+      "id": "ritik4ever/stellar-bounty-board#1910",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.044503+00:00"
+      "updated_at": "2026-11-19T07:28:08.273251+00:00"
     },
     {
-      "id": "Ayush441-python/AUREN#93",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:44.092029+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#100",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.135384+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#97",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.179789+00:00"
-    },
-    {
-      "id": "Refract-Protocol/refract-contracts#536",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.221664+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#95",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.266121+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2741",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.307454+00:00"
-    },
-    {
-      "id": "Refract-Protocol/refract-contracts#515",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.349516+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#93",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.394132+00:00"
-    },
-    {
-      "id": "Gen-x-academy/chainVerse-onchain#1429",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.436063+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#92",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.479201+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#91",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.519487+00:00"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-bounty#2740",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.562296+00:00"
-    },
-    {
-      "id": "Gen-x-academy/chainVerse-frontend#1507",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.599759+00:00"
-    },
-    {
-      "id": "xeprotocol/xe#813",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.646214+00:00"
-    },
-    {
-      "id": "Soroban-escrow/escrow-app#87",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.688401+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#196",
+      "id": "ritik4ever/stellar-bounty-board#1909",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.731108+00:00"
+      "updated_at": "2026-11-19T07:28:08.318723+00:00"
     },
     {
-      "id": "Gen-x-academy/chainVerse-backend#1591",
+      "id": "ritik4ever/stellar-bounty-board#1908",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.773133+00:00"
+      "updated_at": "2026-11-19T07:28:08.363878+00:00"
     },
     {
-      "id": "bad-antics/lateralus-lang#195",
+      "id": "ritik4ever/stellar-bounty-board#1907",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.809008+00:00"
+      "updated_at": "2026-11-19T07:28:08.409380+00:00"
     },
     {
-      "id": "bad-antics/lateralus-lang#194",
+      "id": "ritik4ever/stellar-bounty-board#1906",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.858977+00:00"
+      "updated_at": "2026-11-19T07:28:08.453702+00:00"
     },
     {
-      "id": "ChainSafe/lodestar#10652",
+      "id": "ritik4ever/stellar-bounty-board#1905",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.900284+00:00"
+      "updated_at": "2026-11-19T07:28:08.499186+00:00"
     },
     {
-      "id": "kate8382/AURA#144",
+      "id": "ritik4ever/stellar-bounty-board#1904",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.943826+00:00"
+      "updated_at": "2026-11-19T07:28:08.544538+00:00"
     },
     {
-      "id": "paraspell/xcm-tools#2571",
+      "id": "ritik4ever/stellar-bounty-board#1903",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:44.985491+00:00"
+      "updated_at": "2026-11-19T07:28:08.584635+00:00"
     },
     {
-      "id": "bitaps-com/jsbtc#78",
+      "id": "ritik4ever/stellar-bounty-board#1902",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.029840+00:00"
+      "updated_at": "2026-11-19T07:28:08.636061+00:00"
     },
     {
-      "id": "paraspell/xcm-tools#2570",
+      "id": "ritik4ever/stellar-bounty-board#1901",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.074791+00:00"
+      "updated_at": "2026-11-19T07:28:08.673253+00:00"
     },
     {
-      "id": "paraspell/xcm-tools#2569",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:45.117914+00:00"
-    },
-    {
-      "id": "TheJollyLaMa/DecentBusking#402",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.160655+00:00"
-    },
-    {
-      "id": "relayhop/sn-monetization-runtime#1418",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.196190+00:00"
-    },
-    {
-      "id": "kwesigaamon8-web/Amon-Kwesiga#21",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:45.245785+00:00"
-    },
-    {
-      "id": "pookjw/Clocky#3",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.281595+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5255",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.332025+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5254",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.374423+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5253",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.415884+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5252",
+      "id": "ritik4ever/stellar-bounty-board#1900",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.458267+00:00"
+      "updated_at": "2026-11-19T07:28:08.723781+00:00"
     },
     {
-      "id": "Ikalus1988/MisakaNet#5251",
+      "id": "ritik4ever/stellar-bounty-board#1899",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.502109+00:00"
+      "updated_at": "2026-11-19T07:28:08.763144+00:00"
     },
     {
-      "id": "Ikalus1988/MisakaNet#5250",
+      "id": "ritik4ever/stellar-bounty-board#1898",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.545503+00:00"
+      "updated_at": "2026-11-19T07:28:08.815459+00:00"
     },
     {
-      "id": "tenstorrent/tt-metal#66242",
+      "id": "ritik4ever/stellar-bounty-board#1897",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.581661+00:00"
+      "updated_at": "2026-11-19T07:28:08.853530+00:00"
     },
     {
-      "id": "vllm-project/vllm-omni#10668",
+      "id": "ritik4ever/stellar-bounty-board#1896",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.630113+00:00"
+      "updated_at": "2026-11-19T07:28:08.904964+00:00"
     },
     {
-      "id": "relayhop/sn-monetization-runtime#1416",
+      "id": "ritik4ever/stellar-bounty-board#1895",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.672720+00:00"
+      "updated_at": "2026-11-19T07:28:08.951432+00:00"
     },
     {
-      "id": "Ayush441-python/AUREN#89",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:45.716021+00:00"
-    },
-    {
-      "id": "paraspell/xcm-tools#2567",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.760539+00:00"
-    },
-    {
-      "id": "auscaster/frantic-board#602",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.804181+00:00"
-    },
-    {
-      "id": "BetaONEIO/gamefolio-web-app#68",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.846963+00:00"
-    },
-    {
-      "id": "s4ztz4bnf6-maker/Lubuimi#94",
+      "id": "ritik4ever/stellar-bounty-board#1894",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.890647+00:00"
+      "updated_at": "2026-11-19T07:28:08.997473+00:00"
     },
     {
-      "id": "lissy93/bug-bounties#278",
+      "id": "ritik4ever/stellar-bounty-board#1893",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.931796+00:00"
+      "updated_at": "2026-11-19T07:28:09.043576+00:00"
     },
     {
-      "id": "relayhop/sn-monetization-runtime#1414",
+      "id": "ritik4ever/stellar-bounty-board#1892",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:45.974419+00:00"
+      "updated_at": "2026-11-19T07:28:09.082142+00:00"
     },
     {
-      "id": "Ayush441-python/AUREN#78",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:46.018198+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#193",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.068532+00:00"
-    },
-    {
-      "id": "OracleDesk/OracleDesk-SmartContract#336",
+      "id": "ritik4ever/stellar-bounty-board#1891",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.105268+00:00"
+      "updated_at": "2026-11-19T07:28:09.136625+00:00"
     },
     {
-      "id": "shariqh/github-enterprise-settings-configurator#278",
+      "id": "ritik4ever/stellar-bounty-board#1890",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.152811+00:00"
+      "updated_at": "2026-11-19T07:28:09.174912+00:00"
     },
     {
-      "id": "shariqh/github-enterprise-settings-configurator#277",
+      "id": "ritik4ever/stellar-bounty-board#1889",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.196075+00:00"
+      "updated_at": "2026-11-19T07:28:09.226705+00:00"
     },
     {
-      "id": "Ibercivis/citsci-federation#97",
+      "id": "ritik4ever/stellar-bounty-board#1888",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.239054+00:00"
+      "updated_at": "2026-11-19T07:28:09.269795+00:00"
     },
     {
-      "id": "bad-antics/lateralus-lang#191",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:46.283496+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#72",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:46.329269+00:00"
-    },
-    {
-      "id": "vllm-project/vllm-omni#10643",
+      "id": "ritik4ever/stellar-bounty-board#1887",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.375482+00:00"
+      "updated_at": "2026-11-19T07:28:09.317327+00:00"
     },
     {
-      "id": "Rohank143/BountyScout#122",
+      "id": "ritik4ever/stellar-bounty-board#1886",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.419868+00:00"
+      "updated_at": "2026-11-19T07:28:09.362590+00:00"
     },
     {
-      "id": "limitlessprojects/Go-Hybrid#4569",
+      "id": "ritik4ever/stellar-bounty-board#1885",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.465147+00:00"
+      "updated_at": "2026-11-19T07:28:09.408493+00:00"
     },
     {
-      "id": "dev-kp-eloper/BountyScout#1779",
+      "id": "ritik4ever/stellar-bounty-board#1884",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.508376+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#67",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-18T20:32:46.539845+00:00"
+      "updated_at": "2026-11-19T07:28:09.440688+00:00"
     },
     {
-      "id": "HCTDIP/corps-jobs#202",
+      "id": "ritik4ever/stellar-bounty-board#1883",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.571295+00:00"
+      "updated_at": "2026-11-19T07:28:09.473683+00:00"
     },
     {
-      "id": "ceejaylaboratory/AnchorPoint#1642",
+      "id": "ritik4ever/stellar-bounty-board#1882",
       "status": "reward_too_low",
-      "updated_at": "2026-11-18T20:32:46.603428+00:00"
+      "updated_at": "2026-11-19T07:28:09.505902+00:00"
     }
   ],
   "notice": "Une mission détectée n'est pas un revenu. Un Pull Request soumis n'est pas une acceptation. Un paiement est enregistré uniquement après confirmation réelle."
