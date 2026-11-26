@@ -32281,509 +32281,1009 @@
       "reward_usd": 3000.0,
       "status": "no_supported_contract",
       "updated_at": "2026-11-25T21:43:01.730152+00:00"
+    },
+    "mautic/mautic#18390": {
+      "id": "mautic/mautic#18390",
+      "repository": "mautic/mautic",
+      "number": 18390,
+      "title": "2f.1 - Forget a contact's tracking identifiers when they turn tracking off (sub-task of #17736)",
+      "url": "https://github.com/mautic/mautic/issues/18390",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.212088+00:00"
+    },
+    "johnchampaign/star-wars-rebellion#852": {
+      "id": "johnchampaign/star-wars-rebellion#852",
+      "repository": "johnchampaign/star-wars-rebellion",
+      "number": 852,
+      "title": "[player mrvvfh] that was a great move - the ai is improving! it just stole me a sd by taking loy",
+      "url": "https://github.com/johnchampaign/star-wars-rebellion/issues/852",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.214072+00:00"
+    },
+    "mautic/mautic#18391": {
+      "id": "mautic/mautic#18391",
+      "repository": "mautic/mautic",
+      "number": 18391,
+      "title": "2f.2 - Let consent tools withdraw tracking consent (sub-task of #17736)",
+      "url": "https://github.com/mautic/mautic/issues/18391",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.211757+00:00"
+    },
+    "FuRongJun-1999/dsh-bounty#2875": {
+      "id": "FuRongJun-1999/dsh-bounty#2875",
+      "repository": "FuRongJun-1999/dsh-bounty",
+      "number": 2875,
+      "title": "[intake 输入] dsh-memory PR #1056：消除 Rust 检索 NaN 排序崩溃与新鲜度/JSON 漏洞并补齐 Swarm VM 对拍与递归深度上限",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2875",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.212692+00:00"
+    },
+    "VlcekM/MeitouClient#1471": {
+      "id": "VlcekM/MeitouClient#1471",
+      "repository": "VlcekM/MeitouClient",
+      "number": 1471,
+      "title": "Feedback: Police in Heng grabbed unconscious char resting in bar",
+      "url": "https://github.com/VlcekM/MeitouClient/issues/1471",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.330921+00:00"
+    },
+    "FuRongJun-1999/dsh-bounty#2874": {
+      "id": "FuRongJun-1999/dsh-bounty#2874",
+      "repository": "FuRongJun-1999/dsh-bounty",
+      "number": 2874,
+      "title": "[intake 输入] lingshu PR #1533（Refs #196 第十六批）：anim / shade_paint / mesh_svg 非有限值崩溃、法线上溢与路径穿越收口",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2874",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.396921+00:00"
+    },
+    "FuRongJun-1999/dsh-bounty#2873": {
+      "id": "FuRongJun-1999/dsh-bounty#2873",
+      "repository": "FuRongJun-1999/dsh-bounty",
+      "number": 2873,
+      "title": "[intake 输入] lingshu PR #1532：修复 scenario 边 condition_space 非有限 JSON 崩溃、scenario_cli --root UNC 路径栅栏与 brain_store 数值边界",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2873",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.470379+00:00"
+    },
+    "FuRongJun-1999/dsh-bounty#2872": {
+      "id": "FuRongJun-1999/dsh-bounty#2872",
+      "repository": "FuRongJun-1999/dsh-bounty",
+      "number": 2872,
+      "title": "[intake 输入] lingshu PR #1531：修复 structure_permissions 漏检数据文件与硬链逃逸、structure_writer occurred_at 裸 SQLite 崩溃及 structure_service 校验边界",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2872",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.535202+00:00"
+    },
+    "FuRongJun-1999/dsh-bounty#2871": {
+      "id": "FuRongJun-1999/dsh-bounty#2871",
+      "repository": "FuRongJun-1999/dsh-bounty",
+      "number": 2871,
+      "title": "[intake 输入] dsh-memory PR #1055：修复 Hive HIVE_ORCH_TOKEN_FILE 路径小写化静默失效及 spec/json 溢出与代理对破坏",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2871",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.599181+00:00"
+    },
+    "FuRongJun-1999/dsh-bounty#2870": {
+      "id": "FuRongJun-1999/dsh-bounty#2870",
+      "repository": "FuRongJun-1999/dsh-bounty",
+      "number": 2870,
+      "title": "[intake 输入] dsh-memory PR #1054：封闭 subgraph / insight / predict 跨主体可见性绕过、治理伪造与 NaN/Inf 误判崩溃",
+      "url": "https://github.com/FuRongJun-1999/dsh-bounty/issues/2870",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.663997+00:00"
+    },
+    "johnchampaign/star-wars-rebellion#851": {
+      "id": "johnchampaign/star-wars-rebellion#851",
+      "repository": "johnchampaign/star-wars-rebellion",
+      "number": 851,
+      "title": "[player mrvvfh] the rebel ai is probably still a bit tired :D why play prepare for battle when n",
+      "url": "https://github.com/johnchampaign/star-wars-rebellion/issues/851",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.727687+00:00"
+    },
+    "logos-co/rfp#306": {
+      "id": "logos-co/rfp#306",
+      "repository": "logos-co/rfp",
+      "number": 306,
+      "title": "[PROPOSAL] RFP-017 — Escapement",
+      "url": "https://github.com/logos-co/rfp/issues/306",
+      "reward_usd": 23.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-26T08:19:46.792234+00:00"
+    },
+    "floflo777/open-crypto-puzzles#63": {
+      "id": "floflo777/open-crypto-puzzles#63",
+      "repository": "floflo777/open-crypto-puzzles",
+      "number": 63,
+      "title": "Second escrow check from a full node for 19 of these puzzles (CSV and JSON, CC BY 4.0)",
+      "url": "https://github.com/floflo777/open-crypto-puzzles/issues/63",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.857781+00:00"
+    },
+    "barryrwilson/Rimward#366": {
+      "id": "barryrwilson/Rimward#366",
+      "repository": "barryrwilson/Rimward",
+      "number": 366,
+      "title": "[Playtest][War] Bargaining stalemate: a war quarry absorbs 82 hits without dropping below 66% hull and capitulates only after the job lapses",
+      "url": "https://github.com/barryrwilson/Rimward/issues/366",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.922815+00:00"
+    },
+    "xentac/FFScouter#68": {
+      "id": "xentac/FFScouter#68",
+      "repository": "xentac/FFScouter",
+      "number": 68,
+      "title": "Adopt property-based testing: wrapper, cache clock, first six properties, deep CI job",
+      "url": "https://github.com/xentac/FFScouter/issues/68",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.990074+00:00"
+    },
+    "wr-max52/openspace-game#715": {
+      "id": "wr-max52/openspace-game#715",
+      "repository": "wr-max52/openspace-game",
+      "number": 715,
+      "title": "People by distance: a place's people come in as you walk up and go when you leave",
+      "url": "https://github.com/wr-max52/openspace-game/issues/715",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.051452+00:00"
+    },
+    "ebrahimi1366alireza-tech/AICreativeEarnings#11": {
+      "id": "ebrahimi1366alireza-tech/AICreativeEarnings#11",
+      "repository": "ebrahimi1366alireza-tech/AICreativeEarnings",
+      "number": 11,
+      "title": "Executive handoff: take over project operations and run first audit",
+      "url": "https://github.com/ebrahimi1366alireza-tech/AICreativeEarnings/issues/11",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.117031+00:00"
+    },
+    "Alandale-xyz/alandale-contracts#3": {
+      "id": "Alandale-xyz/alandale-contracts#3",
+      "repository": "Alandale-xyz/alandale-contracts",
+      "number": 3,
+      "title": "Potential fund-draining order-of-operations bug in LuteRaiseUpgradeable (owner-callable, pre-launch)",
+      "url": "https://github.com/Alandale-xyz/alandale-contracts/issues/3",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.182656+00:00"
+    },
+    "FileSherlock/k15#2": {
+      "id": "FileSherlock/k15#2",
+      "repository": "FileSherlock/k15",
+      "number": 2,
+      "title": "Findings from a hobbyist bounty attempt: a rollback bug in record's deferred path (live on 15kb.org) and a latent table overrun",
+      "url": "https://github.com/FileSherlock/k15/issues/2",
+      "reward_usd": 18.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-26T08:19:47.248812+00:00"
+    },
+    "bad-antics/lateralus-lang#1008": {
+      "id": "bad-antics/lateralus-lang#1008",
+      "repository": "bad-antics/lateralus-lang",
+      "number": 1008,
+      "title": "[bounty] bug-report: lateralus characterize aliases 2-arg parameters when first param is named y (emits x - x / k * k / n > n)",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/1008",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.314864+00:00"
+    },
+    "bad-antics/lateralus-lang#1006": {
+      "id": "bad-antics/lateralus-lang#1006",
+      "repository": "bad-antics/lateralus-lang",
+      "number": 1006,
+      "title": "[bounty] stdlib.bitflags tutorial: type-safe protocol & permission bitmasks",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/1006",
+      "reward_usd": 25.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-26T08:19:47.381578+00:00"
+    },
+    "nikoltu/W3AndroidEngine#55": {
+      "id": "nikoltu/W3AndroidEngine#55",
+      "repository": "nikoltu/W3AndroidEngine",
+      "number": 55,
+      "title": "DOTA Unli-Bounty Issue",
+      "url": "https://github.com/nikoltu/W3AndroidEngine/issues/55",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.447657+00:00"
+    },
+    "UnhingedDevelopers/live-world-rs#1": {
+      "id": "UnhingedDevelopers/live-world-rs#1",
+      "repository": "UnhingedDevelopers/live-world-rs",
+      "number": 1,
+      "title": "Spec: Core LiveWorld RS Simulation Framework & Server Architecture",
+      "url": "https://github.com/UnhingedDevelopers/live-world-rs/issues/1",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.508892+00:00"
+    },
+    "Poom5741/perplay#29": {
+      "id": "Poom5741/perplay#29",
+      "repository": "Poom5741/perplay",
+      "number": 29,
+      "title": "PerPlay token economy — BNB Bangkok pitch & demo scope",
+      "url": "https://github.com/Poom5741/perplay/issues/29",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.574374+00:00"
+    },
+    "tari-project/special_contributions#702": {
+      "id": "tari-project/special_contributions#702",
+      "repository": "tari-project/special_contributions",
+      "number": 702,
+      "title": "Contribution: fix(walletd)!: scope validator fee permissions by claim key (tari-project/tari-ootle#3796)",
+      "url": "https://github.com/tari-project/special_contributions/issues/702",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.642396+00:00"
+    },
+    "tari-project/special_contributions#701": {
+      "id": "tari-project/special_contributions#701",
+      "repository": "tari-project/special_contributions",
+      "number": 701,
+      "title": "Contribution: fix(engine): enforce component scope on VaultAction read operations (tari-project/tari-ootle#3773)",
+      "url": "https://github.com/tari-project/special_contributions/issues/701",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.709517+00:00"
+    },
+    "aeyakovenko/percolator-cli#95": {
+      "id": "aeyakovenko/percolator-cli#95",
+      "repository": "aeyakovenko/percolator-cli",
+      "number": 95,
+      "title": "Partial Liquidation (`reqQty = 1`) on Bankrupt Portfolios (`shortfall > 0`) Repeatedly Drains Market Insurance Fund and Grants a Zero-Capital Rebound Option",
+      "url": "https://github.com/aeyakovenko/percolator-cli/issues/95",
+      "reward_usd": 1000.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-26T08:19:47.772790+00:00"
+    },
+    "bad-antics/lateralus-lang#1001": {
+      "id": "bad-antics/lateralus-lang#1001",
+      "repository": "bad-antics/lateralus-lang",
+      "number": 1001,
+      "title": "[bounty] Port Amicable Numbers sum to Lateralus",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/1001",
+      "reward_usd": 25.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-26T08:19:47.844020+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6146": {
+      "id": "code-with-abhi-i5/CodePulse#6146",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6146,
+      "title": "feat(animations): trigger canvas confetti explosion upon successfully claiming bounty reward (handling edge cases and empty datasets) [L2-MODAL-A11Y-MOTION-052]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6146",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.910066+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6136": {
+      "id": "code-with-abhi-i5/CodePulse#6136",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6136,
+      "title": "feat(animations): trigger canvas confetti explosion upon successfully claiming bounty reward (with unit test coverage verification) [L2-MODAL-A11Y-MOTION-042]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6136",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.976930+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6126": {
+      "id": "code-with-abhi-i5/CodePulse#6126",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6126,
+      "title": "feat(animations): trigger canvas confetti explosion upon successfully claiming bounty reward (asserting WCAG 2.1 AA compliance standards) [L2-MODAL-A11Y-MOTION-032]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6126",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.042832+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6116": {
+      "id": "code-with-abhi-i5/CodePulse#6116",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6116,
+      "title": "feat(animations): trigger canvas confetti explosion upon successfully claiming bounty reward (with high-contrast dark theme adjustments) [L2-MODAL-A11Y-MOTION-022]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6116",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.107712+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6106": {
+      "id": "code-with-abhi-i5/CodePulse#6106",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6106,
+      "title": "feat(animations): trigger canvas confetti explosion upon successfully claiming bounty reward (in tablet and mobile viewport) [L2-MODAL-A11Y-MOTION-012]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6106",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.173533+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6096": {
+      "id": "code-with-abhi-i5/CodePulse#6096",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6096,
+      "title": "feat(animations): trigger canvas confetti explosion upon successfully claiming bounty reward [L2-MODAL-A11Y-MOTION-002]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6096",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.238061+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6090": {
+      "id": "code-with-abhi-i5/CodePulse#6090",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6090,
+      "title": "feat(tables): add items-per-page selector (10, 25, 50, 100) to repository list (handling edge cases and empty datasets) [L2-SEARCH-FILTER-EXPORT-056]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6090",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.303625+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6088": {
+      "id": "code-with-abhi-i5/CodePulse#6088",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6088,
+      "title": "feat(bounties): implement multi-select pill filter for programming languages and frameworks (handling edge cases and empty datasets) [L2-SEARCH-FILTER-EXPORT-054]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6088",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.366026+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6086": {
+      "id": "code-with-abhi-i5/CodePulse#6086",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6086,
+      "title": "feat(tables): support multi-column ascending and descending sorting on bounties table (handling edge cases and empty datasets) [L2-SEARCH-FILTER-EXPORT-052]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6086",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.431400+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6081": {
+      "id": "code-with-abhi-i5/CodePulse#6081",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6081,
+      "title": "feat(search): synchronize active search query and filter selections into URL search params (with unit test coverage verification) [L2-SEARCH-FILTER-EXPORT-047]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6081",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.499092+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6078": {
+      "id": "code-with-abhi-i5/CodePulse#6078",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6078,
+      "title": "feat(bounties): implement multi-select pill filter for programming languages and frameworks (with unit test coverage verification) [L2-SEARCH-FILTER-EXPORT-044]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6078",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.565261+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6077": {
+      "id": "code-with-abhi-i5/CodePulse#6077",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6077,
+      "title": "feat(leaderboard): add client-side export to CSV button for competition standings (with unit test coverage verification) [L2-SEARCH-FILTER-EXPORT-043]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6077",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.633926+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6076": {
+      "id": "code-with-abhi-i5/CodePulse#6076",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6076,
+      "title": "feat(tables): support multi-column ascending and descending sorting on bounties table (with unit test coverage verification) [L2-SEARCH-FILTER-EXPORT-042]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6076",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.700059+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6072": {
+      "id": "code-with-abhi-i5/CodePulse#6072",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6072,
+      "title": "feat(search): highlight matching query substrings within repository search results (asserting WCAG 2.1 AA compliance standards) [L2-SEARCH-FILTER-EXPORT-038]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6072",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.764480+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6068": {
+      "id": "code-with-abhi-i5/CodePulse#6068",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6068,
+      "title": "feat(bounties): implement multi-select pill filter for programming languages and frameworks (asserting WCAG 2.1 AA compliance standards) [L2-SEARCH-FILTER-EXPORT-034]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6068",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.831349+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6066": {
+      "id": "code-with-abhi-i5/CodePulse#6066",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6066,
+      "title": "feat(tables): support multi-column ascending and descending sorting on bounties table (asserting WCAG 2.1 AA compliance standards) [L2-SEARCH-FILTER-EXPORT-032]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6066",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.893951+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6063": {
+      "id": "code-with-abhi-i5/CodePulse#6063",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6063,
+      "title": "feat(search): store and suggest last 5 recent search keywords in search dropdown (with high-contrast dark theme adjustments) [L2-SEARCH-FILTER-EXPORT-029]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6063",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.959689+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6059": {
+      "id": "code-with-abhi-i5/CodePulse#6059",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6059,
+      "title": "feat(cmdk): register quick dashboard navigation and theme switching in command palette (with high-contrast dark theme adjustments) [L2-SEARCH-FILTER-EXPORT-025]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6059",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.025596+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6058": {
+      "id": "code-with-abhi-i5/CodePulse#6058",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6058,
+      "title": "feat(bounties): implement multi-select pill filter for programming languages and frameworks (with high-contrast dark theme adjustments) [L2-SEARCH-FILTER-EXPORT-024]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6058",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.091851+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6056": {
+      "id": "code-with-abhi-i5/CodePulse#6056",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6056,
+      "title": "feat(tables): support multi-column ascending and descending sorting on bounties table (with high-contrast dark theme adjustments) [L2-SEARCH-FILTER-EXPORT-022]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6056",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.157890+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6054": {
+      "id": "code-with-abhi-i5/CodePulse#6054",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6054,
+      "title": "feat(filters): add one-click clear all active filters button when any filter is enabled (in tablet and mobile viewport) [L2-SEARCH-FILTER-EXPORT-020]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6054",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.224602+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6050": {
+      "id": "code-with-abhi-i5/CodePulse#6050",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6050,
+      "title": "feat(tables): add items-per-page selector (10, 25, 50, 100) to repository list (in tablet and mobile viewport) [L2-SEARCH-FILTER-EXPORT-016]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6050",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.288960+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6048": {
+      "id": "code-with-abhi-i5/CodePulse#6048",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6048,
+      "title": "feat(bounties): implement multi-select pill filter for programming languages and frameworks (in tablet and mobile viewport) [L2-SEARCH-FILTER-EXPORT-014]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6048",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.356791+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6046": {
+      "id": "code-with-abhi-i5/CodePulse#6046",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6046,
+      "title": "feat(tables): support multi-column ascending and descending sorting on bounties table (in tablet and mobile viewport) [L2-SEARCH-FILTER-EXPORT-012]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6046",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.421875+00:00"
+    },
+    "Rohank143/BountyScout#148": {
+      "id": "Rohank143/BountyScout#148",
+      "repository": "Rohank143/BountyScout",
+      "number": 148,
+      "title": "🎯 Bounty Alert: 18 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/148",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.489162+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6045": {
+      "id": "code-with-abhi-i5/CodePulse#6045",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6045,
+      "title": "feat(search): add 300ms debounce to repository catalog search input (in tablet and mobile viewport) [L2-SEARCH-FILTER-EXPORT-011]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6045",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.556233+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6041": {
+      "id": "code-with-abhi-i5/CodePulse#6041",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6041,
+      "title": "feat(search): synchronize active search query and filter selections into URL search params [L2-SEARCH-FILTER-EXPORT-007]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6041",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.621091+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6038": {
+      "id": "code-with-abhi-i5/CodePulse#6038",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6038,
+      "title": "feat(bounties): implement multi-select pill filter for programming languages and frameworks [L2-SEARCH-FILTER-EXPORT-004]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6038",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.687638+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6036": {
+      "id": "code-with-abhi-i5/CodePulse#6036",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6036,
+      "title": "feat(tables): support multi-column ascending and descending sorting on bounties table [L2-SEARCH-FILTER-EXPORT-002]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6036",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.755245+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6031": {
+      "id": "code-with-abhi-i5/CodePulse#6031",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6031,
+      "title": "fix(auth): add client-side refine validation ensuring password and confirmation match (handling edge cases and empty datasets) [L2-FORMS-FEEDBACK-057]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6031",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.821892+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6021": {
+      "id": "code-with-abhi-i5/CodePulse#6021",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6021,
+      "title": "fix(auth): add client-side refine validation ensuring password and confirmation match (with unit test coverage verification) [L2-FORMS-FEEDBACK-047]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6021",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.892809+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6011": {
+      "id": "code-with-abhi-i5/CodePulse#6011",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6011,
+      "title": "fix(auth): add client-side refine validation ensuring password and confirmation match (asserting WCAG 2.1 AA compliance standards) [L2-FORMS-FEEDBACK-037]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6011",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.960035+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#6001": {
+      "id": "code-with-abhi-i5/CodePulse#6001",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 6001,
+      "title": "fix(auth): add client-side refine validation ensuring password and confirmation match (with high-contrast dark theme adjustments) [L2-FORMS-FEEDBACK-027]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/6001",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.027040+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5991": {
+      "id": "code-with-abhi-i5/CodePulse#5991",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5991,
+      "title": "fix(auth): add client-side refine validation ensuring password and confirmation match (in tablet and mobile viewport) [L2-FORMS-FEEDBACK-017]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5991",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.093842+00:00"
+    },
+    "dev-kp-eloper/BountyScout#1806": {
+      "id": "dev-kp-eloper/BountyScout#1806",
+      "repository": "dev-kp-eloper/BountyScout",
+      "number": 1806,
+      "title": "🎯 Bounty Alert: 18 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1806",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.159825+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5981": {
+      "id": "code-with-abhi-i5/CodePulse#5981",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5981,
+      "title": "fix(auth): add client-side refine validation ensuring password and confirmation match [L2-FORMS-FEEDBACK-007]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5981",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.223826+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5973": {
+      "id": "code-with-abhi-i5/CodePulse#5973",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5973,
+      "title": "feat(ui): convert desktop submit bounty button into floating action button on mobile (handling edge cases and empty datasets) [L2-RESPONSIVE-MOBILE-059]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5973",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.290212+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5972": {
+      "id": "code-with-abhi-i5/CodePulse#5972",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5972,
+      "title": "fix(ui): apply truncate class and title tooltip to lengthy GitHub usernames in cards (handling edge cases and empty datasets) [L2-RESPONSIVE-MOBILE-058]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5972",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.355930+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5969": {
+      "id": "code-with-abhi-i5/CodePulse#5969",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5969,
+      "title": "feat(diff): add responsive fallback from split-pane diff to unified diff on mobile viewports (handling edge cases and empty datasets) [L2-RESPONSIVE-MOBILE-055]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5969",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.419975+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5968": {
+      "id": "code-with-abhi-i5/CodePulse#5968",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5968,
+      "title": "fix(bounties): enable flex-wrap on bounty technology tag pills to prevent card blowout (handling edge cases and empty datasets) [L2-RESPONSIVE-MOBILE-054]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5968",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.484885+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5963": {
+      "id": "code-with-abhi-i5/CodePulse#5963",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5963,
+      "title": "feat(ui): convert desktop submit bounty button into floating action button on mobile (with unit test coverage verification) [L2-RESPONSIVE-MOBILE-049]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5963",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.550890+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5960": {
+      "id": "code-with-abhi-i5/CodePulse#5960",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5960,
+      "title": "fix(layout): adjust topbar profile menu positioning on narrow mobile headers (with unit test coverage verification) [L2-RESPONSIVE-MOBILE-046]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5960",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.619932+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5958": {
+      "id": "code-with-abhi-i5/CodePulse#5958",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5958,
+      "title": "fix(bounties): enable flex-wrap on bounty technology tag pills to prevent card blowout (with unit test coverage verification) [L2-RESPONSIVE-MOBILE-044]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5958",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.686471+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5957": {
+      "id": "code-with-abhi-i5/CodePulse#5957",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5957,
+      "title": "fix(dashboard): refactor top metric cards grid to collapse from 4 columns to 1 on mobile (with unit test coverage verification) [L2-RESPONSIVE-MOBILE-043]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5957",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.752340+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5953": {
+      "id": "code-with-abhi-i5/CodePulse#5953",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5953,
+      "title": "feat(ui): convert desktop submit bounty button into floating action button on mobile (asserting WCAG 2.1 AA compliance standards) [L2-RESPONSIVE-MOBILE-039]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5953",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.816700+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5948": {
+      "id": "code-with-abhi-i5/CodePulse#5948",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5948,
+      "title": "fix(bounties): enable flex-wrap on bounty technology tag pills to prevent card blowout (asserting WCAG 2.1 AA compliance standards) [L2-RESPONSIVE-MOBILE-034]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5948",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.881883+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5945": {
+      "id": "code-with-abhi-i5/CodePulse#5945",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5945,
+      "title": "fix(layout): close mobile drawer automatically on route navigation change (asserting WCAG 2.1 AA compliance standards) [L2-RESPONSIVE-MOBILE-031]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5945",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.946098+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5943": {
+      "id": "code-with-abhi-i5/CodePulse#5943",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5943,
+      "title": "feat(ui): convert desktop submit bounty button into floating action button on mobile (with high-contrast dark theme adjustments) [L2-RESPONSIVE-MOBILE-029]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5943",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.013045+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5938": {
+      "id": "code-with-abhi-i5/CodePulse#5938",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5938,
+      "title": "fix(bounties): enable flex-wrap on bounty technology tag pills to prevent card blowout (with high-contrast dark theme adjustments) [L2-RESPONSIVE-MOBILE-024]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5938",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.079648+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5936": {
+      "id": "code-with-abhi-i5/CodePulse#5936",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5936,
+      "title": "fix(ui): wrap leaderboard ranking table in horizontal overflow scroll container (with high-contrast dark theme adjustments) [L2-RESPONSIVE-MOBILE-022]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5936",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.146484+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5933": {
+      "id": "code-with-abhi-i5/CodePulse#5933",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5933,
+      "title": "feat(ui): convert desktop submit bounty button into floating action button on mobile (in tablet and mobile viewport) [L2-RESPONSIVE-MOBILE-019]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5933",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.214238+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5928": {
+      "id": "code-with-abhi-i5/CodePulse#5928",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5928,
+      "title": "fix(bounties): enable flex-wrap on bounty technology tag pills to prevent card blowout (in tablet and mobile viewport) [L2-RESPONSIVE-MOBILE-014]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5928",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.281834+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5924": {
+      "id": "code-with-abhi-i5/CodePulse#5924",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5924,
+      "title": "style(layout): add backdrop-blur-md and subtle border to sticky topbar during scroll [L2-RESPONSIVE-MOBILE-010]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5924",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.347571+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5923": {
+      "id": "code-with-abhi-i5/CodePulse#5923",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5923,
+      "title": "feat(ui): convert desktop submit bounty button into floating action button on mobile [L2-RESPONSIVE-MOBILE-009]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5923",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.414589+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5921": {
+      "id": "code-with-abhi-i5/CodePulse#5921",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5921,
+      "title": "feat(battles): collapse spectator chat into sliding bottom sheet on small screens [L2-RESPONSIVE-MOBILE-007]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5921",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.477346+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5918": {
+      "id": "code-with-abhi-i5/CodePulse#5918",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5918,
+      "title": "fix(bounties): enable flex-wrap on bounty technology tag pills to prevent card blowout [L2-RESPONSIVE-MOBILE-004]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5918",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.544858+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5864": {
+      "id": "code-with-abhi-i5/CodePulse#5864",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5864,
+      "title": "a11y(layout): implement skip to main content keyboard accessibility link (with unit test coverage verification) [L1-A11Y-SEMANTIC-050]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5864",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.611513+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5858": {
+      "id": "code-with-abhi-i5/CodePulse#5858",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5858,
+      "title": "a11y(bounties): replace div card headers with semantic h3 tags for landmark navigation (with unit test coverage verification) [L1-A11Y-SEMANTIC-044]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5858",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.678889+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5854": {
+      "id": "code-with-abhi-i5/CodePulse#5854",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5854,
+      "title": "a11y(layout): implement skip to main content keyboard accessibility link (asserting WCAG 2.1 AA compliance standards) [L1-A11Y-SEMANTIC-040]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5854",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.746052+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5848": {
+      "id": "code-with-abhi-i5/CodePulse#5848",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5848,
+      "title": "a11y(bounties): replace div card headers with semantic h3 tags for landmark navigation (asserting WCAG 2.1 AA compliance standards) [L1-A11Y-SEMANTIC-034]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5848",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.812813+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5844": {
+      "id": "code-with-abhi-i5/CodePulse#5844",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5844,
+      "title": "a11y(layout): implement skip to main content keyboard accessibility link (with high-contrast dark theme adjustments) [L1-A11Y-SEMANTIC-030]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5844",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.879323+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5838": {
+      "id": "code-with-abhi-i5/CodePulse#5838",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5838,
+      "title": "a11y(bounties): replace div card headers with semantic h3 tags for landmark navigation (with high-contrast dark theme adjustments) [L1-A11Y-SEMANTIC-024]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5838",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.945406+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5834": {
+      "id": "code-with-abhi-i5/CodePulse#5834",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5834,
+      "title": "a11y(layout): implement skip to main content keyboard accessibility link (in tablet and mobile viewport) [L1-A11Y-SEMANTIC-020]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5834",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.010473+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5828": {
+      "id": "code-with-abhi-i5/CodePulse#5828",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5828,
+      "title": "a11y(bounties): replace div card headers with semantic h3 tags for landmark navigation (in tablet and mobile viewport) [L1-A11Y-SEMANTIC-014]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5828",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.077607+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5824": {
+      "id": "code-with-abhi-i5/CodePulse#5824",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5824,
+      "title": "a11y(layout): implement skip to main content keyboard accessibility link [L1-A11Y-SEMANTIC-010]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5824",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.148418+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5818": {
+      "id": "code-with-abhi-i5/CodePulse#5818",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5818,
+      "title": "a11y(bounties): replace div card headers with semantic h3 tags for landmark navigation [L1-A11Y-SEMANTIC-004]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5818",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.215985+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5807": {
+      "id": "code-with-abhi-i5/CodePulse#5807",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5807,
+      "title": "feat(certificates): design empty certificate showcase with start challenge button (with unit test coverage verification) [L1-COPY-EMPTY-043]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5807",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.281370+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5805": {
+      "id": "code-with-abhi-i5/CodePulse#5805",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5805,
+      "title": "feat(bookmarks): add illustrative empty state with explore repositories action button (with unit test coverage verification) [L1-COPY-EMPTY-041]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5805",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.349541+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5795": {
+      "id": "code-with-abhi-i5/CodePulse#5795",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5795,
+      "title": "feat(bookmarks): add illustrative empty state with explore repositories action button (asserting WCAG 2.1 AA compliance standards) [L1-COPY-EMPTY-031]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5795",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.412814+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5794": {
+      "id": "code-with-abhi-i5/CodePulse#5794",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5794,
+      "title": "feat(guilds): show recruitment empty state banner for newly created guilds with single member (with high-contrast dark theme adjustments) [L1-COPY-EMPTY-030]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5794",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.480792+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5785": {
+      "id": "code-with-abhi-i5/CodePulse#5785",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5785,
+      "title": "feat(bookmarks): add illustrative empty state with explore repositories action button (with high-contrast dark theme adjustments) [L1-COPY-EMPTY-021]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5785",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.548182+00:00"
+    },
+    "code-with-abhi-i5/CodePulse#5781": {
+      "id": "code-with-abhi-i5/CodePulse#5781",
+      "repository": "code-with-abhi-i5/CodePulse",
+      "number": 5781,
+      "title": "feat(repositories): enhance zero search results card with clear search term tag (in tablet and mobile viewport) [L1-COPY-EMPTY-017]",
+      "url": "https://github.com/code-with-abhi-i5/CodePulse/issues/5781",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.616224+00:00"
     }
   },
   "history": [
-    {
-      "id": "limitlessprojects/Go-Hybrid#4725",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.231681+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#272",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.286524+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#271",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.340622+00:00"
-    },
-    {
-      "id": "jazzqi/deep-thought-research#474",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.396019+00:00"
-    },
-    {
-      "id": "jjgroenendijk/opensky#2388",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.450345+00:00"
-    },
-    {
-      "id": "BaaRai/ARTEX#519",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.504723+00:00"
-    },
-    {
-      "id": "jjgroenendijk/opensky#2386",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.556933+00:00"
-    },
-    {
-      "id": "s4ztz4bnf6-maker/Lubuimi-#218",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.610280+00:00"
-    },
-    {
-      "id": "jjgroenendijk/opensky#2385",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.669558+00:00"
-    },
-    {
-      "id": "nick-transition/fitapp#101",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.723786+00:00"
-    },
-    {
-      "id": "parker-brown-family/omarchy-news#2",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:45.779309+00:00"
-    },
-    {
-      "id": "s4ztz4bnf6-maker/Lubuimi-#215",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.835548+00:00"
-    },
-    {
-      "id": "relayhop/sn-monetization-runtime#1440",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.889612+00:00"
-    },
-    {
-      "id": "Rohank143/BountyScout#140",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.942171+00:00"
-    },
-    {
-      "id": "dev-kp-eloper/BountyScout#1799",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:45.997396+00:00"
-    },
-    {
-      "id": "Supporters-Of-Chromium-Based-Browsers/Bug-Bounty-Program#171",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.047917+00:00"
-    },
-    {
-      "id": "Khimich13/meta-morphis#53",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.100837+00:00"
-    },
-    {
-      "id": "gh-ci-training/level-3_rvanlaere#3",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.158466+00:00"
-    },
-    {
-      "id": "rsksmart/rskj#3846",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:46.214578+00:00"
-    },
-    {
-      "id": "ecarlste/x4-headhunter-swi-patch#13",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.267471+00:00"
-    },
-    {
-      "id": "ecarlste/x4-headhunter-swi-patch#1",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.321515+00:00"
-    },
-    {
-      "id": "mmajjd926-netizen/taskmarket-issue-bounty#1",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.377487+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#268",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.428857+00:00"
-    },
-    {
-      "id": "jjgroenendijk/opensky#2380",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.483841+00:00"
-    },
-    {
-      "id": "freedom-winds/BountyScout#1449",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.535914+00:00"
-    },
-    {
-      "id": "arianna-arpg/arpg-game-world#37",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.588146+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#266",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.643680+00:00"
-    },
-    {
-      "id": "SlopDotCash/slopdotcash#3298",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.699161+00:00"
-    },
-    {
-      "id": "karagemop466-tech/Poker1#134",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:46.751315+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#264",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.815132+00:00"
-    },
-    {
-      "id": "pyfile-toolkit/gravy#1",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.872230+00:00"
-    },
-    {
-      "id": "sureshpadhiali-goat/Smart-Contract-Based-Freelance-Payment-Escrow-System#1",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.929247+00:00"
-    },
-    {
-      "id": "monkey-trading/engine#1288",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:46.983286+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#262",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.038104+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5645",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.092614+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5644",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.149355+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5643",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.203119+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5642",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.255885+00:00"
-    },
-    {
-      "id": "Ikalus1988/MisakaNet#5641",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.310590+00:00"
-    },
-    {
-      "id": "tanisaaiml-cell/Smart-Contract-Freelance-Escrow#1",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.367963+00:00"
-    },
-    {
-      "id": "Cylo-Traders/Agrocylo-Global#1395",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.424794+00:00"
-    },
-    {
-      "id": "Cylo-Traders/Agrocylo-Global#1394",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.483837+00:00"
-    },
-    {
-      "id": "VlcekM/MeitouClient#1301",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.537211+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#259",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.593470+00:00"
-    },
-    {
-      "id": "ilmi64/AI-Revenue-Division-#44",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.647299+00:00"
-    },
-    {
-      "id": "chunxiaoxx/nautilus-compass#68",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.703618+00:00"
-    },
-    {
-      "id": "Adeolu05/zec-bounty-alerts#25",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:47.759667+00:00"
-    },
-    {
-      "id": "relayhop/sn-monetization-runtime#1439",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.813723+00:00"
-    },
-    {
-      "id": "panoskokmotos/panoskokmotos#29",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:47.871458+00:00"
-    },
-    {
-      "id": "Spacial/awesome-csirt#38",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:47.926843+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#890",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:47.981889+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#889",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:48.034275+00:00"
-    },
-    {
-      "id": "mautic/mautic#18329",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:48.090946+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#888",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:48.143478+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#254",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:48.198145+00:00"
-    },
-    {
-      "id": "EliCunninghamDev/haiku-core#1",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:48.250909+00:00"
-    },
-    {
-      "id": "paraspell/xcm-tools#2635",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:48.306462+00:00"
-    },
-    {
-      "id": "paraloom-labs/paraloom-core#1705",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:48.359106+00:00"
-    },
-    {
-      "id": "Adeolu05/zec-bounty-alerts#24",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:48.409609+00:00"
-    },
-    {
-      "id": "limitlessprojects/Go-Hybrid#4700",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:48.463084+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#250",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:48.516723+00:00"
-    },
-    {
-      "id": "metapeka/radar#1",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:48.572137+00:00"
-    },
-    {
-      "id": "githoney-io/e2e#2",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:48.624022+00:00"
-    },
-    {
-      "id": "githoney-io/e2e#1",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:48.684262+00:00"
-    },
-    {
-      "id": "Ololadestephen/Postmark#10",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:48.740924+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#885",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:48.796065+00:00"
-    },
-    {
-      "id": "Rohanvasudev1/plinth#2",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:48.851799+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#880",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:48.908058+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#879",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:48.960640+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#878",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:49.015340+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#877",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:49.067693+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#876",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:49.124230+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#875",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:49.178565+00:00"
-    },
-    {
-      "id": "Quid-proquo/Quid#461",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:49.233090+00:00"
-    },
-    {
-      "id": "Quid-proquo/Quid#459",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:49.281008+00:00"
-    },
-    {
-      "id": "Quid-proquo/Quid#458",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:49.343766+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#249",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:49.399240+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#874",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:49.454970+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#248",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:49.511038+00:00"
-    },
-    {
-      "id": "Ayush441-python/AUREN#247",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:49.562779+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#873",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:49.618491+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#872",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:49.674262+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#871",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:49.730335+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#870",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:49.786756+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#869",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:49.843156+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#868",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:49.902712+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#867",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:49.956565+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#865",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:50.014614+00:00"
-    },
-    {
-      "id": "code-with-abhi-i5/CodePulse#1457",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:50.070787+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#863",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:50.126910+00:00"
-    },
-    {
-      "id": "IntersectMBO/cardano-api#1425",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:50.182258+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#861",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:50.234156+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#859",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:50.290707+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#857",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:50.345822+00:00"
-    },
-    {
-      "id": "ConcatenaLabs/Sequentia#444",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:50.401177+00:00"
-    },
-    {
-      "id": "thomas-jacque-schultz/Schub#179",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:50.457002+00:00"
-    },
-    {
-      "id": "bad-antics/lateralus-lang#855",
-      "status": "no_supported_contract",
-      "updated_at": "2026-11-23T23:54:50.514122+00:00"
-    },
-    {
-      "id": "HCTDIP/corps-jobs#218",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:50.554900+00:00"
-    },
-    {
-      "id": "Vietnoirien/TorrentLinker#182",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:50.595557+00:00"
-    },
-    {
-      "id": "Vietnoirien/TorrentLinker#173",
-      "status": "reward_too_low",
-      "updated_at": "2026-11-23T23:54:50.634296+00:00"
-    },
     {
       "id": "bad-antics/lateralus-lang#945",
       "status": "no_supported_contract",
@@ -34783,7 +35283,507 @@
       "id": "amirmomeni177/bounty-watch#39",
       "status": "no_supported_contract",
       "updated_at": "2026-11-25T21:43:01.857582+00:00"
+    },
+    {
+      "id": "mautic/mautic#18390",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.300562+00:00"
+    },
+    {
+      "id": "johnchampaign/star-wars-rebellion#852",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.366710+00:00"
+    },
+    {
+      "id": "mautic/mautic#18391",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.432101+00:00"
+    },
+    {
+      "id": "FuRongJun-1999/dsh-bounty#2875",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.504561+00:00"
+    },
+    {
+      "id": "VlcekM/MeitouClient#1471",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.568635+00:00"
+    },
+    {
+      "id": "FuRongJun-1999/dsh-bounty#2874",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.633892+00:00"
+    },
+    {
+      "id": "FuRongJun-1999/dsh-bounty#2873",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.697712+00:00"
+    },
+    {
+      "id": "FuRongJun-1999/dsh-bounty#2872",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.760791+00:00"
+    },
+    {
+      "id": "FuRongJun-1999/dsh-bounty#2871",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.826505+00:00"
+    },
+    {
+      "id": "FuRongJun-1999/dsh-bounty#2870",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.892501+00:00"
+    },
+    {
+      "id": "johnchampaign/star-wars-rebellion#851",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:46.957853+00:00"
+    },
+    {
+      "id": "logos-co/rfp#306",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-26T08:19:47.021572+00:00"
+    },
+    {
+      "id": "floflo777/open-crypto-puzzles#63",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.087051+00:00"
+    },
+    {
+      "id": "barryrwilson/Rimward#366",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.152489+00:00"
+    },
+    {
+      "id": "xentac/FFScouter#68",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.218214+00:00"
+    },
+    {
+      "id": "wr-max52/openspace-game#715",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.284224+00:00"
+    },
+    {
+      "id": "ebrahimi1366alireza-tech/AICreativeEarnings#11",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.350834+00:00"
+    },
+    {
+      "id": "Alandale-xyz/alandale-contracts#3",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.399544+00:00"
+    },
+    {
+      "id": "FileSherlock/k15#2",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-26T08:19:47.478741+00:00"
+    },
+    {
+      "id": "bad-antics/lateralus-lang#1008",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.543529+00:00"
+    },
+    {
+      "id": "bad-antics/lateralus-lang#1006",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-26T08:19:47.610358+00:00"
+    },
+    {
+      "id": "nikoltu/W3AndroidEngine#55",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.677799+00:00"
+    },
+    {
+      "id": "UnhingedDevelopers/live-world-rs#1",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.741997+00:00"
+    },
+    {
+      "id": "Poom5741/perplay#29",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.811894+00:00"
+    },
+    {
+      "id": "tari-project/special_contributions#702",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.878873+00:00"
+    },
+    {
+      "id": "tari-project/special_contributions#701",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:47.944762+00:00"
+    },
+    {
+      "id": "aeyakovenko/percolator-cli#95",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-26T08:19:48.011790+00:00"
+    },
+    {
+      "id": "bad-antics/lateralus-lang#1001",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-26T08:19:48.075858+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6146",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.142641+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6136",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.206486+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6126",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.272277+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6116",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.334135+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6106",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.400586+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6096",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.466793+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6090",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.534246+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6088",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.601691+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6086",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.669805+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6081",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.732635+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6078",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.800251+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6077",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.863170+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6076",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.929453+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6072",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:48.995040+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6068",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.060313+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6066",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.126184+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6063",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.193821+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6059",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.257268+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6058",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.324685+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6056",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.390873+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6054",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.457824+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6050",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.525129+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6048",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.590287+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6046",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.656389+00:00"
+    },
+    {
+      "id": "Rohank143/BountyScout#148",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.724356+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6045",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.791223+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6041",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.861226+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6038",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.928810+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6036",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:49.995567+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6031",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.062845+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6021",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.128786+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6011",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.192164+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#6001",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.258983+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5991",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.324212+00:00"
+    },
+    {
+      "id": "dev-kp-eloper/BountyScout#1806",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.389590+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5981",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.452842+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5973",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.519659+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5972",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.586874+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5969",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.655052+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5968",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.721016+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5963",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.785950+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5960",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.850552+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5958",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.915235+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5957",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:50.981557+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5953",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.048607+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5948",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.115172+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5945",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.180123+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5943",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.250092+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5938",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.316066+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5936",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.382194+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5933",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.446587+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5928",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.513678+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5924",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.580069+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5923",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.647314+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5921",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.715301+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5918",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.781555+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5864",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.846701+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5858",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.914816+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5854",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:51.978173+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5848",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.045886+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5844",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.116290+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5838",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.184852+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5834",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.248842+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5828",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.316800+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5824",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.381866+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5818",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.450019+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5807",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.517250+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5805",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.584399+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5795",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.649299+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5794",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.698904+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5785",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.748614+00:00"
+    },
+    {
+      "id": "code-with-abhi-i5/CodePulse#5781",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-26T08:19:52.798273+00:00"
     }
   ],
-  "updated_at": "2026-11-25T21:43:01.857594+00:00"
+  "updated_at": "2026-11-26T08:19:52.798293+00:00"
 }
