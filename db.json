@@ -1,191 +1,1517 @@
 {
-  "engine": "AUTO-EARN ENGINE",
-  "version": "1.0",
-  "discovered": 76,
-  "reviewed": 30,
-  "pull_requests_submitted": 0,
+  "engine": "OPTIMUS AI",
+  "version": "1.0.0",
+  "generated_at": "2026-11-27T08:36:19.140944+00:00",
+  "statistics": {
+    "discovered_this_run": 100,
+    "total_tracked": 3513,
+    "submitted": 0,
+    "accepted": 0,
+    "paid": 0
+  },
   "results": [
     {
-      "issue": "https://github.com/InferMatrixLab/InferRSI/issues/702",
-      "title": "task: 按 Analyzer、Indexer、Executor、Evaluator 和 Manager 重组 Harness，统一导入路径",
+      "id": "Ayush441-python/AUREN#344",
+      "repository": "Ayush441-python/AUREN",
+      "number": 344,
+      "title": "[Bug Bounty] Blocked localStorage prevents workstation API requests",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/344",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.129427+00:00"
     },
     {
-      "issue": "https://github.com/surendra2304/FRIDAY-Universe/issues/1483",
-      "title": "FRIDAY Universe coordination hub — continued from #35 (#35 hit GitHub's 2500-comment limit)",
+      "id": "Ayush441-python/AUREN#345",
+      "repository": "Ayush441-python/AUREN",
+      "number": 345,
+      "title": "[Bug Bounty] Risk Analysis recalculation button has no simulation callback",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/345",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.128984+00:00"
     },
     {
-      "issue": "https://github.com/ilhamraduanbis-source/toyol-digital/issues/5",
-      "title": "🔐 Toyol Pocket — Tindakan pemilik sebelum bayaran sebenar",
+      "id": "Ayush441-python/AUREN#346",
+      "repository": "Ayush441-python/AUREN",
+      "number": 346,
+      "title": "[Bug Bounty] Optional python-dotenv installation reverses configuration precedence",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/346",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.128640+00:00"
+    },
+    {
+      "id": "Ayush441-python/AUREN#343",
+      "repository": "Ayush441-python/AUREN",
+      "number": 343,
+      "title": "[Maths Bounty] Asset volatility ranking depends on ticker characters instead of financial returns",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/343",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.141721+00:00"
+    },
+    {
+      "id": "InferMatrixLab/InferRSI#766",
+      "repository": "InferMatrixLab/InferRSI",
+      "number": 766,
+      "title": "rfc: Harness 第二轮整改：统一受管会话入口，明确服务复用、Profile 分工和组件目录",
+      "url": "https://github.com/InferMatrixLab/InferRSI/issues/766",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.258311+00:00"
+    },
+    {
+      "id": "Ayush441-python/AUREN#342",
+      "repository": "Ayush441-python/AUREN",
+      "number": 342,
+      "title": "[Bug Bounty] Warm cache returns ticker columns in the previous request order",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/342",
       "reward_usd": 50.0,
-      "status": "unsafe task"
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-27T08:36:12.326960+00:00"
     },
     {
-      "issue": "https://github.com/on22s/alexandria-audiobook2/issues/2349",
-      "title": "[Bug]: Alexandria Workflow Bugs: Source comparison unavailable, Retained EPUB bytes missing, Re-uploading resets rendered progress",
+      "id": "bad-antics/lateralus-lang#1106",
+      "repository": "bad-antics/lateralus-lang",
+      "number": 1106,
+      "title": "[bounty] Matrix.from_flat silently drops extra elements and accepts inconsistent dimensions",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/1106",
+      "reward_usd": 10.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-27T08:36:12.396137+00:00"
+    },
+    {
+      "id": "Rohank143/BountyScout#151",
+      "repository": "Rohank143/BountyScout",
+      "number": 151,
+      "title": "🎯 Bounty Alert: 18 New Opportunityies found",
+      "url": "https://github.com/Rohank143/BountyScout/issues/151",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.465902+00:00"
     },
     {
-      "issue": "https://github.com/paraspell/xcm-tools/issues/2662",
-      "title": "[Bug bounty] AssetHub swap builds a destination leg larger than amount_out_min, so the batch reverts inside the user's slippage.",
-      "reward_usd": 0.67,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/me-fake-you/clearsheet-offers/issues/3",
-      "title": "Revenue reset: prioritize verified cashflow over infrastructure",
+      "id": "dev-kp-eloper/BountyScout#1809",
+      "repository": "dev-kp-eloper/BountyScout",
+      "number": 1809,
+      "title": "🎯 Bounty Alert: 19 New Opportunityies found",
+      "url": "https://github.com/dev-kp-eloper/BountyScout/issues/1809",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.533008+00:00"
     },
     {
-      "issue": "https://github.com/Circadian-agent/agent-collective/issues/1",
-      "title": "Introductions: who you are, what you are selling, one thing you measured",
+      "id": "hanzoai/skills#18",
+      "repository": "hanzoai/skills",
+      "number": 18,
+      "title": "[Intern] Validate top 50 Hanzo skills & 3-tier progressive discovery (`CLAUDE.md` < 8 KB)",
+      "url": "https://github.com/hanzoai/skills/issues/18",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.601820+00:00"
     },
     {
-      "issue": "https://github.com/fatal10110/acis_golang_bot/issues/625",
-      "title": "M10 S13a: second-profession row foundation (row start 40, the `(fixed)` tag, checks and fallback test)",
+      "id": "hanzoai/browser#1",
+      "repository": "hanzoai/browser",
+      "number": 1,
+      "title": "[Intern] Multi-agent Chrome extension build & local `hanzoai/engine` BYOK smoke test",
+      "url": "https://github.com/hanzoai/browser/issues/1",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.673232+00:00"
     },
     {
-      "issue": "https://github.com/paraspell/xcm-tools/issues/2661",
-      "title": "[Bug bounty] buildEvmLocal never converts assetId to ERC20, so Darwinia local transfers always fail.",
+      "id": "hanzoai/docs#26",
+      "repository": "hanzoai/docs",
+      "number": 26,
+      "title": "[Intern] Copy-paste audit of Getting Started, Self-Hosting, Mobile, Desktop & OSS Onboarding guides",
+      "url": "https://github.com/hanzoai/docs/issues/26",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.737994+00:00"
     },
     {
-      "issue": "https://github.com/gameguild-gg/gameguild/issues/1092",
-      "title": "refactor(db): Economy module has 105 tables — consolidate shared ledger pattern",
+      "id": "hanzoai/python-sdk#55",
+      "repository": "hanzoai/python-sdk",
+      "number": 55,
+      "title": "[Intern] Quickstart, async streaming & MCP/IAM example verification on Python 3.12+",
+      "url": "https://github.com/hanzoai/python-sdk/issues/55",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.805304+00:00"
     },
     {
-      "issue": "https://github.com/hexgrad/kokoro/issues/290",
-      "title": "Donation/funding for german language",
+      "id": "hanzoai/js-sdk#42",
+      "repository": "hanzoai/js-sdk",
+      "number": 42,
+      "title": "[Intern] ESM/CJS/Browser bundle & TypeScript `strict: true` consumer verification",
+      "url": "https://github.com/hanzoai/js-sdk/issues/42",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.875131+00:00"
     },
     {
-      "issue": "https://github.com/telegraphprotocol/bounties/issues/189",
-      "title": "Mission 01 — Exchange — Season II",
-      "reward_usd": 7.0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/telegraphprotocol/bounties/issues/194",
-      "title": "Mission 06 — Resources & Agriculture — Season II",
-      "reward_usd": 7.0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/paraspell/xcm-tools/issues/2660",
-      "title": "[Bug bounty] findEthAssetBySymbol only matches Ethereum mainnet (chainId 1), so symbol resolution to EthereumTestnet always fails.",
+      "id": "hanzoai/captable#15",
+      "repository": "hanzoai/captable",
+      "number": 15,
+      "title": "[Intern] Fresh-clone setup verification & stakeholder/option-grant calculation unit tests",
+      "url": "https://github.com/hanzoai/captable/issues/15",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.943406+00:00"
     },
     {
-      "issue": "https://github.com/telegraphprotocol/bounties/issues/202",
-      "title": "Mission 14 — Web3 Native & DeFi — Season II",
-      "reward_usd": 7.0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/telegraphprotocol/bounties/issues/203",
-      "title": "Mission 15 — Consumer Automation — Season II",
-      "reward_usd": 7.0,
-      "status": "no explicit USD reward"
-    },
-    {
-      "issue": "https://github.com/Obaaf/OBAAF/issues/51",
-      "title": "Flagship: plan and progress",
+      "id": "hanzoai/o11y#49",
+      "repository": "hanzoai/o11y",
+      "number": 49,
+      "title": "[Intern] OpenTelemetry OTLP trace/metric/log ingest smoke test from local `hanzoai/cloud`",
+      "url": "https://github.com/hanzoai/o11y/issues/49",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.009381+00:00"
     },
     {
-      "issue": "https://github.com/gn45db4tjc-ship-it/predecessor-meta/issues/236",
-      "title": "Watchdog: Rechecks are overdue",
+      "id": "hanzoai/mail#1",
+      "repository": "hanzoai/mail",
+      "number": 1,
+      "title": "[Intern] Local loopback SMTP/IMAP/webmail smoke test & 5-minute dev recipe",
+      "url": "https://github.com/hanzoai/mail/issues/1",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.076114+00:00"
     },
     {
-      "issue": "https://github.com/Erriccc/osborn/issues/576",
-      "title": "Buy-and-donate route: supporters pay cash, Osborn buys API credit (OpenRouter, Fireworks, others) and allocates it to a project",
+      "id": "hanzoai/post#21",
+      "repository": "hanzoai/post",
+      "number": 21,
+      "title": "[Intern] Social publishing scheduler timezone & media validation unit tests",
+      "url": "https://github.com/hanzoai/post/issues/21",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.144586+00:00"
     },
     {
-      "issue": "https://github.com/icfmp/Bible-Resources-ISBE/issues/110",
-      "title": "[FR ISBE 1915][Wave 1/2] Translate and verify canonical entries 1001-2000 (1,000 checklist)",
+      "id": "hanzoai/esign#2",
+      "repository": "hanzoai/esign",
+      "number": 2,
+      "title": "[Intern] Fresh-clone setup verification & PDF upload/sign/audit-trail smoke test",
+      "url": "https://github.com/hanzoai/esign/issues/2",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.212605+00:00"
     },
     {
-      "issue": "https://github.com/auscaster/frantic-board/issues/1",
-      "title": "Frantic Oath check-in",
+      "id": "hanzoai/cal#1",
+      "repository": "hanzoai/cal",
+      "number": 1,
+      "title": "[Intern] Local scheduling E2E flow backed by `hanzoai/cloud` (`/v1/base`)",
+      "url": "https://github.com/hanzoai/cal/issues/1",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.281440+00:00"
     },
     {
-      "issue": "https://github.com/Erriccc/osborn/issues/562",
-      "title": "Epic: livestream-funded open source: streamers, sponsor credits, replicable dev envs, weekend hackathons",
+      "id": "hanzoai/billing#1",
+      "repository": "hanzoai/billing",
+      "number": 1,
+      "title": "[Intern] Plans, invoices & usage dashboard mock-API test suite",
+      "url": "https://github.com/hanzoai/billing/issues/1",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.349282+00:00"
     },
     {
-      "issue": "https://github.com/baigao417/awesome-dot/issues/1",
-      "title": "Awesome Dot 自动收录报告",
+      "id": "hanzoai/team#43",
+      "repository": "hanzoai/team",
+      "number": 43,
+      "title": "[Intern] Clean local build, `@hanzo/gui` peer check & core workspace UI smoke tests",
+      "url": "https://github.com/hanzoai/team/issues/43",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.415683+00:00"
     },
     {
-      "issue": "https://github.com/lablab-ai/community-content/issues/462",
-      "title": "Crafting a Comprehensive Tutorial for Vectara Chat",
-      "reward_usd": 60.0,
-      "status": "no supported execution contract"
-    },
-    {
-      "issue": "https://github.com/RktRobinhood/wasteland-academy/issues/266",
-      "title": "AA SL alignment: accepted product direction and integrated delivery queue",
+      "id": "hanzoai/ide#20",
+      "repository": "hanzoai/ide",
+      "number": 20,
+      "title": "[Intern] Clean source build, large-repo (`hanzoai/cloud`) open latency profile & warning cleanup",
+      "url": "https://github.com/hanzoai/ide/issues/20",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.484946+00:00"
     },
     {
-      "issue": "https://github.com/saverchenkov/EvoMu/issues/1495",
-      "title": "[P1][PvE/Runtime] Upgrade DungeonRuntimeInstance engine (content loader, real NPC spawn/slim meta, triggers/actions, branching rooms, objectives, restart re-materialization) before #1398",
+      "id": "hanzoai/gui#21",
+      "repository": "hanzoai/gui",
+      "number": 21,
+      "title": "[Intern] Keyboard navigation, focus-ring & WCAG AA accessibility audit on core primitives",
+      "url": "https://github.com/hanzoai/gui/issues/21",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.554480+00:00"
     },
     {
-      "issue": "https://github.com/RktRobinhood/wasteland-academy/issues/268",
-      "title": "Mastery: propose weighted skill calibration with deterministic learner trajectories",
+      "id": "hanzoai/ui#337",
+      "repository": "hanzoai/ui",
+      "number": 337,
+      "title": "[Intern] Verify `@hanzo/ui` tree-shaking, React 19 / Next.js static export & Storybook/tests",
+      "url": "https://github.com/hanzoai/ui/issues/337",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.621232+00:00"
     },
     {
-      "issue": "https://github.com/tmsteph/3dvr-portal/issues/3285",
-      "title": "Open-source contribution candidate: Hacker Fab",
+      "id": "hanzoai/extension#30",
+      "repository": "hanzoai/extension",
+      "number": 30,
+      "title": "[Intern] Browser extension (Chrome/Firefox/Edge) + VS Code `.vsix` build & ZAP/MCP bridge QA",
+      "url": "https://github.com/hanzoai/extension/issues/30",
       "reward_usd": 0,
-      "status": "no explicit USD reward"
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.690441+00:00"
     },
     {
-      "issue": "https://github.com/0xSneaks/ai-coms/issues/13",
-      "title": "AI COMS health: board needs attention",
-      "reward_usd": 30.0,
-      "status": "unsafe task"
+      "id": "hanzoai/chat#3",
+      "repository": "hanzoai/chat",
+      "number": 3,
+      "title": "[Intern] Static SPA build against local `hanzoai/engine` + Playwright streaming smoke tests",
+      "url": "https://github.com/hanzoai/chat/issues/3",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.755904+00:00"
     },
     {
-      "issue": "https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/1",
-      "title": "ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift witness - Reward $175 USDC",
-      "reward_usd": 175.0,
-      "status": "no supported execution contract"
+      "id": "hanzoai/mobile#2",
+      "repository": "hanzoai/mobile",
+      "number": 2,
+      "title": "[Intern] Android APK/ADB & iOS Xcode USB end-to-end install and UX QA",
+      "url": "https://github.com/hanzoai/mobile/issues/2",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.825287+00:00"
+    },
+    {
+      "id": "hanzoai/app#140",
+      "repository": "hanzoai/app",
+      "number": 140,
+      "title": "[Intern] Build a reference open-source App Mod (`@hanzo/mod`) mounted into the `@hanzo/app` siderail",
+      "url": "https://github.com/hanzoai/app/issues/140",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.895118+00:00"
+    },
+    {
+      "id": "hanzoai/dev#106",
+      "repository": "hanzoai/dev",
+      "number": 106,
+      "title": "[Intern] Standalone Tauri desktop build & cross-OS QA (macOS, Linux, Windows)",
+      "url": "https://github.com/hanzoai/dev/issues/106",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.964388+00:00"
+    },
+    {
+      "id": "hanzoai/dev#107",
+      "repository": "hanzoai/dev",
+      "number": 107,
+      "title": "[Intern] Fix intermittent snapshot ordering flake in `FxReplayFixtures.integration.test.ts` (CI Shard 7)",
+      "url": "https://github.com/hanzoai/dev/issues/107",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.035323+00:00"
+    },
+    {
+      "id": "hanzoai/desktop#67",
+      "repository": "hanzoai/desktop",
+      "number": 67,
+      "title": "[Intern] Local Cloud (`hanzo up`) & local Engine (`:1234`) endpoint switcher QA",
+      "url": "https://github.com/hanzoai/desktop/issues/67",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.101983+00:00"
+    },
+    {
+      "id": "hanzoai/studio#1",
+      "repository": "hanzoai/studio",
+      "number": 1,
+      "title": "[Intern] Local node-graph pipeline verification & API health smoke tests",
+      "url": "https://github.com/hanzoai/studio/issues/1",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.167997+00:00"
+    },
+    {
+      "id": "hanzoai/cyber#1",
+      "repository": "hanzoai/cyber",
+      "number": 1,
+      "title": "[Intern] Sandboxed OpenCyber MCP tool discovery & target-scope guardrail tests",
+      "url": "https://github.com/hanzoai/cyber/issues/1",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.237324+00:00"
+    },
+    {
+      "id": "hanzoai/flow#51",
+      "repository": "hanzoai/flow",
+      "number": 51,
+      "title": "[Intern] Clean local boot & 3 starter agentic workflow templates (RAG, Router, Tool Agent)",
+      "url": "https://github.com/hanzoai/flow/issues/51",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.311111+00:00"
+    },
+    {
+      "id": "hanzoai/bot#97",
+      "repository": "hanzoai/bot",
+      "number": 97,
+      "title": "[Intern] Channel adapter unit & mock webhook tests (Slack, Discord, Telegram)",
+      "url": "https://github.com/hanzoai/bot/issues/97",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.379707+00:00"
+    },
+    {
+      "id": "hanzoai/bot#96",
+      "repository": "hanzoai/bot",
+      "number": 96,
+      "title": "[Intern] Offline-first `hanzo-bot onboard` wired to local `engine` (`:1234`) + `cloud` (`:8080`)",
+      "url": "https://github.com/hanzoai/bot/issues/96",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.447143+00:00"
+    },
+    {
+      "id": "hanzoai/agent#15",
+      "repository": "hanzoai/agent",
+      "number": 15,
+      "title": "[Intern] Verify & modernize all multi-agent handoff and tool-loop Python examples",
+      "url": "https://github.com/hanzoai/agent/issues/15",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.513855+00:00"
+    },
+    {
+      "id": "hanzoai/ml#88",
+      "repository": "hanzoai/ml",
+      "number": 88,
+      "title": "[Intern] Tensor ops & quantization (`Q4_K`/`Q8_0` vs `FP16`) accuracy and perf benchmark",
+      "url": "https://github.com/hanzoai/ml/issues/88",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.585442+00:00"
+    },
+    {
+      "id": "hanzoai/mcp#74",
+      "repository": "hanzoai/mcp",
+      "number": 74,
+      "title": "[Intern] Multi-client MCP interoperability matrix (Claude Code, Codex, Cursor, Windsurf, Gemini CLI, VS Code)",
+      "url": "https://github.com/hanzoai/mcp/issues/74",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.655092+00:00"
+    },
+    {
+      "id": "hanzoai/mcp#73",
+      "repository": "hanzoai/mcp",
+      "number": 73,
+      "title": "[Intern] Automated JSON-RPC E2E test harness for all 13 HIP-0300 unified MCP tools",
+      "url": "https://github.com/hanzoai/mcp/issues/73",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.725072+00:00"
+    },
+    {
+      "id": "hanzoai/engine#165",
+      "repository": "hanzoai/engine",
+      "number": 165,
+      "title": "[Intern] Streaming tool-calling & JSON-schema structured output conformance suite",
+      "url": "https://github.com/hanzoai/engine/issues/165",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.794893+00:00"
+    },
+    {
+      "id": "hanzoai/index#55",
+      "repository": "hanzoai/index",
+      "number": 55,
+      "title": "[Intern] Hybrid full-text + vector ranking test suite & recall benchmark",
+      "url": "https://github.com/hanzoai/index/issues/55",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.860243+00:00"
+    },
+    {
+      "id": "hanzoai/engine#164",
+      "repository": "hanzoai/engine",
+      "number": 164,
+      "title": "[Intern] Cross-platform local `zen-nano` inference QA (OpenAI, Anthropic, Embeddings & `/ui`)",
+      "url": "https://github.com/hanzoai/engine/issues/164",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.945422+00:00"
+    },
+    {
+      "id": "hanzoai/s3#56",
+      "repository": "hanzoai/s3",
+      "number": 56,
+      "title": "[Intern] S3 API conformance test suite (multipart upload, range GET, ETag, presigned URLs)",
+      "url": "https://github.com/hanzoai/s3/issues/56",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.015280+00:00"
+    },
+    {
+      "id": "hanzoai/ai#196",
+      "repository": "hanzoai/ai",
+      "number": 196,
+      "title": "[Intern] Local `hanzoai/engine` streaming proxy & 503 failover test suite",
+      "url": "https://github.com/hanzoai/ai/issues/196",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.082534+00:00"
+    },
+    {
+      "id": "hanzoai/kv#15",
+      "repository": "hanzoai/kv",
+      "number": 15,
+      "title": "[Intern] Clean source build, Redis-CLI smoke matrix & baseline throughput benchmark",
+      "url": "https://github.com/hanzoai/kv/issues/15",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.153147+00:00"
+    },
+    {
+      "id": "hanzoai/kms#2",
+      "repository": "hanzoai/kms",
+      "number": 2,
+      "title": "[Intern] Key rotation, versioned secret reads & malformed ciphertext fuzz tests",
+      "url": "https://github.com/hanzoai/kms/issues/2",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.222057+00:00"
+    },
+    {
+      "id": "hanzoai/iam#56",
+      "repository": "hanzoai/iam",
+      "number": 56,
+      "title": "[Intern] Local OIDC PKCE + JWKS end-to-end integration test with `hanzoai/cloud`",
+      "url": "https://github.com/hanzoai/iam/issues/56",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.289104+00:00"
+    },
+    {
+      "id": "hanzoai/commerce#86",
+      "repository": "hanzoai/commerce",
+      "number": 86,
+      "title": "[Intern] Concurrent credit-ledger & idempotency-key race tests (`go test -race`)",
+      "url": "https://github.com/hanzoai/commerce/issues/86",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.358722+00:00"
+    },
+    {
+      "id": "hanzoai/cloud#84",
+      "repository": "hanzoai/cloud",
+      "number": 84,
+      "title": "[Intern] Audit & align `Makefile` targets with canonical Hanzo CLI lifecycle contract",
+      "url": "https://github.com/hanzoai/cloud/issues/84",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.429071+00:00"
+    },
+    {
+      "id": "hanzoai/base#56",
+      "repository": "hanzoai/base",
+      "number": 56,
+      "title": "[Intern] SQLCipher/age-encrypted WAL crash-recovery stress test",
+      "url": "https://github.com/hanzoai/base/issues/56",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.499654+00:00"
+    },
+    {
+      "id": "hanzoai/kata#1",
+      "repository": "hanzoai/kata",
+      "number": 1,
+      "title": "[Intern] End-to-end closed-loop test-repair demo fixture (Detect -> Triage -> Synthesize -> Verify)",
+      "url": "https://github.com/hanzoai/kata/issues/1",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.573477+00:00"
+    },
+    {
+      "id": "hanzoai/visor#1",
+      "repository": "hanzoai/visor",
+      "number": 1,
+      "title": "[Intern] Sandboxed agent execution smoke suite & CPU/memory/egress isolation tests",
+      "url": "https://github.com/hanzoai/visor/issues/1",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.640983+00:00"
+    },
+    {
+      "id": "hanzoai/cloud#83",
+      "repository": "hanzoai/cloud",
+      "number": 83,
+      "title": "[Intern] Multi-arch OCI (`ghcr.io/hanzoai/cloud-oss:main`) & `compose.yml` verification",
+      "url": "https://github.com/hanzoai/cloud/issues/83",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.715390+00:00"
+    },
+    {
+      "id": "hanzoai/cloud#82",
+      "repository": "hanzoai/cloud",
+      "number": 82,
+      "title": "[Intern] Clean-room air-gapped local boot & full `/v1` + `/mcp` smoke script",
+      "url": "https://github.com/hanzoai/cloud/issues/82",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.785303+00:00"
+    },
+    {
+      "id": "hanzoai/vm#1",
+      "repository": "hanzoai/vm",
+      "number": 1,
+      "title": "[Intern] MicroVM cold-boot vs checkpoint-restore benchmark & smoke harness",
+      "url": "https://github.com/hanzoai/vm/issues/1",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.857286+00:00"
+    },
+    {
+      "id": "hanzoai/vfs#132",
+      "repository": "hanzoai/vfs",
+      "number": 132,
+      "title": "[Intern] Cryptographic integrity fault-injection tests for ParaSync delta restore (#126)",
+      "url": "https://github.com/hanzoai/vfs/issues/132",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.929133+00:00"
+    },
+    {
+      "id": "hanzoai/vfs#131",
+      "repository": "hanzoai/vfs",
+      "number": 131,
+      "title": "[Intern] Independent benchmark & memory qualification of RASK sparse-range index (#129 vs shipping intervals)",
+      "url": "https://github.com/hanzoai/vfs/issues/131",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.997922+00:00"
+    },
+    {
+      "id": "hanzoai/gen#20",
+      "repository": "hanzoai/gen",
+      "number": 20,
+      "title": "[Intern] Transcript retry edge-case regression tests (`requestId` idempotency & SIGINT cancellation)",
+      "url": "https://github.com/hanzoai/gen/issues/20",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.064967+00:00"
+    },
+    {
+      "id": "hanzoai/gen#21",
+      "repository": "hanzoai/gen",
+      "number": 21,
+      "title": "[Intern] Multi-agent harness smoke matrix & session summary integration tests",
+      "url": "https://github.com/hanzoai/gen/issues/21",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.139142+00:00"
+    },
+    {
+      "id": "hanzoai/node#24",
+      "repository": "hanzoai/node",
+      "number": 24,
+      "title": "[Intern] Local `hanzod` daemon lifecycle & child-process crash recovery tests",
+      "url": "https://github.com/hanzoai/node/issues/24",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.207736+00:00"
+    },
+    {
+      "id": "hanzoai/cli#110",
+      "repository": "hanzoai/cli",
+      "number": 110,
+      "title": "[Intern] Audit `hanzo start` / `hanzo up` / `hanzo down` resource flags & prerequisite error messages",
+      "url": "https://github.com/hanzoai/cli/issues/110",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.279181+00:00"
+    },
+    {
+      "id": "hanzoai/cli#111",
+      "repository": "hanzoai/cli",
+      "number": 111,
+      "title": "[Intern] Expand `hanzo doctor` diagnostics (kubeconfig, port collisions, stale VM sockets)",
+      "url": "https://github.com/hanzoai/cli/issues/111",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.350127+00:00"
+    },
+    {
+      "id": "hanzoai/cli#112",
+      "repository": "hanzoai/cli",
+      "number": 112,
+      "title": "[Intern] Cross-OS canonical CLI lifecycle QA (`start`/`up`/`ps`/`down`/`restart`/`stop`/`reset`)",
+      "url": "https://github.com/hanzoai/cli/issues/112",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.417559+00:00"
+    },
+    {
+      "id": "xeprotocol/xe#1295",
+      "repository": "xeprotocol/xe",
+      "number": 1295,
+      "title": "[Medium] Lease-cancel refunds only the original cost while deleting the whole escrow incl. renewal top-ups; staged vs live validation disagree (testnet-0006)",
+      "url": "https://github.com/xeprotocol/xe/issues/1295",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.487947+00:00"
+    },
+    {
+      "id": "xeprotocol/xe#1294",
+      "repository": "xeprotocol/xe",
+      "number": 1294,
+      "title": "[Medium] Conflicts whose loser branch (or a downstream receiver chain) contains a lease/multisig block can never resolve — account bricked forever (testnet-0006)",
+      "url": "https://github.com/xeprotocol/xe/issues/1294",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.559410+00:00"
+    },
+    {
+      "id": "xeprotocol/xe#1293",
+      "repository": "xeprotocol/xe",
+      "number": 1293,
+      "title": "[High] Lease-cancel validation unwinds provider accept non-atomically, causing permanent cross-node divergence (testnet-0006)",
+      "url": "https://github.com/xeprotocol/xe/issues/1293",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.628284+00:00"
+    },
+    {
+      "id": "HW12Dev/OTWDPlayFabEmulator#3",
+      "repository": "HW12Dev/OTWDPlayFabEmulator",
+      "number": 3,
+      "title": "I've built a full open-source PlayFab server, and ported your OTWD logic to it",
+      "url": "https://github.com/HW12Dev/OTWDPlayFabEmulator/issues/3",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.698698+00:00"
+    },
+    {
+      "id": "ofirschwartz2/halalit#242",
+      "repository": "ofirschwartz2/halalit",
+      "number": 242,
+      "title": "Daily Twist, more twists: Lucky Day and Bounty (after debt D9)",
+      "url": "https://github.com/ofirschwartz2/halalit/issues/242",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.769314+00:00"
+    },
+    {
+      "id": "ofirschwartz2/halalit#239",
+      "repository": "ofirschwartz2/halalit",
+      "number": 239,
+      "title": "Daily Twist",
+      "url": "https://github.com/ofirschwartz2/halalit/issues/239",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.840962+00:00"
+    },
+    {
+      "id": "Riemann-at-home/riemann-at-home#72",
+      "repository": "Riemann-at-home/riemann-at-home",
+      "number": 72,
+      "title": "Thanksgiving - Bounty of Proof - Nov 26, 2026",
+      "url": "https://github.com/Riemann-at-home/riemann-at-home/issues/72",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.911312+00:00"
+    },
+    {
+      "id": "wr-max52/openspace-game#802",
+      "repository": "wr-max52/openspace-game",
+      "number": 802,
+      "title": "Far side on foot: feet catch and stutter, worst in Cragfall village",
+      "url": "https://github.com/wr-max52/openspace-game/issues/802",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.979334+00:00"
+    },
+    {
+      "id": "PorcupineStudios/ModernMiddleEarth_TARDIS#18",
+      "repository": "PorcupineStudios/ModernMiddleEarth_TARDIS",
+      "number": 18,
+      "title": "Bounties and bounty quests",
+      "url": "https://github.com/PorcupineStudios/ModernMiddleEarth_TARDIS/issues/18",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.050209+00:00"
+    },
+    {
+      "id": "Ayush441-python/AUREN#338",
+      "repository": "Ayush441-python/AUREN",
+      "number": 338,
+      "title": "[Maths Bounty] The /risk correlation matrix implies negative variance for three long-only holdings",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/338",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.119219+00:00"
+    },
+    {
+      "id": "tari-project/special_contributions#712",
+      "repository": "tari-project/special_contributions",
+      "number": 712,
+      "title": "Contribution: fix(consensus): bound timeout votes per sender so committees resume after long quorum loss (tari-project/tari-ootle#3758)",
+      "url": "https://github.com/tari-project/special_contributions/issues/712",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.190549+00:00"
+    },
+    {
+      "id": "bad-antics/lateralus-lang#1093",
+      "repository": "bad-antics/lateralus-lang",
+      "number": 1093,
+      "title": "[bounty] LQL drops matching rows when AND and OR are combined in a WHERE clause",
+      "url": "https://github.com/bad-antics/lateralus-lang/issues/1093",
+      "reward_usd": 10.0,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-27T08:36:17.261239+00:00"
+    },
+    {
+      "id": "agile-students-fall2026/generic-mern-stack-project-bounty#186",
+      "repository": "agile-students-fall2026/generic-mern-stack-project-bounty",
+      "number": 186,
+      "title": "Pull bounty choices from messages list",
+      "url": "https://github.com/agile-students-fall2026/generic-mern-stack-project-bounty/issues/186",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.333523+00:00"
+    },
+    {
+      "id": "glunk-works/bounty-infra#208",
+      "repository": "glunk-works/bounty-infra",
+      "number": 208,
+      "title": "triage findings from #207: Pin the zizmor scanner version explicitly ...",
+      "url": "https://github.com/glunk-works/bounty-infra/issues/208",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.404097+00:00"
+    },
+    {
+      "id": "tari-project/special_contributions#710",
+      "repository": "tari-project/special_contributions",
+      "number": 710,
+      "title": "Security report: tari-ootle consensus: unvalidated CatchUpPageMessage.next_height allows a single Byzantine committee peer to permanently suppress victim block proposals for the entire epoch and trigger tight sync loops (GHSA-49mw-pgvh-wp3c)",
+      "url": "https://github.com/tari-project/special_contributions/issues/710",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.470003+00:00"
+    },
+    {
+      "id": "tari-project/special_contributions#709",
+      "repository": "tari-project/special_contributions",
+      "number": 709,
+      "title": "Security report: tari-ootle unmetered component-state walks on every vault read inside a resource auth hook (check_component_scope) (GHSA-h4vw-wrx8-929c)",
+      "url": "https://github.com/tari-project/special_contributions/issues/709",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.541676+00:00"
+    },
+    {
+      "id": "tari-project/special_contributions#708",
+      "repository": "tari-project/special_contributions",
+      "number": 708,
+      "title": "Security report: tari-ootle unmetered O(N log N) Confidential container commitment moves (>10,000x underpricing) and unpriced discrete substate downs in BucketAction::Burn (GHSA-qgfh-h9fc-gw3g)",
+      "url": "https://github.com/tari-project/special_contributions/issues/708",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.611429+00:00"
+    },
+    {
+      "id": "Ikalus1988/MisakaNet#5866",
+      "repository": "Ikalus1988/MisakaNet",
+      "number": 5866,
+      "title": "decision: does the intake queue belong in this repo's Issues?",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5866",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.683579+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2694",
+      "repository": "paraspell/xcm-tools",
+      "number": 2694,
+      "title": "[Bug bounty] Acala swapCurrency destination-fee over-deduction on native output — same cost charged twice, 15.2x the real destination fee",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2694",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.752678+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2693",
+      "repository": "paraspell/xcm-tools",
+      "number": 2693,
+      "title": "[Bug bounty] findAssetInfoOnDest returns null for Snowbridge when the origin asset is the local representation of an ERC-20 token",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2693",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.830182+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2692",
+      "repository": "paraspell/xcm-tools",
+      "number": 2692,
+      "title": "[Bug bounty] Destination fee silently reported as 0n when the reverse transfer cannot be built — direct transfer, no swap",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2692",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.901580+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2691",
+      "repository": "paraspell/xcm-tools",
+      "number": 2691,
+      "title": "[Bug bounty] Routed-path swap ignores the requested recipient when destination == exchange — the output lands in the sender's account",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2691",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.971952+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2690",
+      "repository": "paraspell/xcm-tools",
+      "number": 2690,
+      "title": "[Bug bounty] Bifrost: omitted slippagePct crashes swapCurrency with a raw BigInt error — and silently excludes Bifrost from auto-select",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2690",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.045375+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2689",
+      "repository": "paraspell/xcm-tools",
+      "number": 2689,
+      "title": "[Bug bounty] PJS signAndSubmit reports success for a failed extrinsic",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2689",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.119257+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2688",
+      "repository": "paraspell/xcm-tools",
+      "number": 2688,
+      "title": "[Bug bounty] Origin fee mislabeled — paymentInfo fee in native DOT reported as USDt/USDC, ~54x the real fee",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2688",
+      "reward_usd": 580.89,
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-27T08:36:18.188064+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2687",
+      "repository": "paraspell/xcm-tools",
+      "number": 2687,
+      "title": "[Bug bounty] Stale cached typed APIs after switching chains on one PAPI instance with object apiOverrides — existential deposit wrong by 10,000x, second getXcmFee throws",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2687",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.259551+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2686",
+      "repository": "paraspell/xcm-tools",
+      "number": 2686,
+      "title": "[Bug bounty] dryRunPreview() with no options mints no fee assets, so valid transfers fail the preview dry-run",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2686",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.331570+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2685",
+      "repository": "paraspell/xcm-tools",
+      "number": 2685,
+      "title": "[Bug bounty] isFeeLeftoverAboveEd omits originFee — swap-execute deposit tries to deliver a sub-ED fee-asset remainder; destination fails and funds are trapped in holding",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2685",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.403793+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2684",
+      "repository": "paraspell/xcm-tools",
+      "number": 2684,
+      "title": "[Bug bounty] PJS origin fee omits the entire XCM delivery fee — FeesPaid events silently dropped",
+      "url": "https://github.com/paraspell/xcm-tools/issues/2684",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.471185+00:00"
+    },
+    {
+      "id": "Ayush441-python/AUREN#337",
+      "repository": "Ayush441-python/AUREN",
+      "number": 337,
+      "title": "[Maths Bounty] Risk Metrics overstates 95% Gaussian expected shortfall by about 6% across all three horizons",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/337",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.543346+00:00"
+    },
+    {
+      "id": "RSPSApp/tsps#6878",
+      "repository": "RSPSApp/tsps",
+      "number": 6878,
+      "title": "[Bug]: Pandemonium - Accidentally tele'd out of sailing boat midquest and now can no longer take cargo",
+      "url": "https://github.com/RSPSApp/tsps/issues/6878",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.617316+00:00"
+    },
+    {
+      "id": "Ayush441-python/AUREN#336",
+      "repository": "Ayush441-python/AUREN",
+      "number": 336,
+      "title": "[Maths Bounty] Risk Metrics reports a Sharpe ratio of 0.65 even when excess returns are negative",
+      "url": "https://github.com/Ayush441-python/AUREN/issues/336",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.689347+00:00"
+    },
+    {
+      "id": "JeelNandaniya8/GHOSTDIFF#1",
+      "repository": "JeelNandaniya8/GHOSTDIFF",
+      "number": 1,
+      "title": "Independent security review requested — research preview",
+      "url": "https://github.com/JeelNandaniya8/GHOSTDIFF/issues/1",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.761056+00:00"
+    },
+    {
+      "id": "sectersion/byline#19",
+      "repository": "sectersion/byline",
+      "number": 19,
+      "title": "DOCS-005: review-artifact.md drops bounty requirement 9 without saying so",
+      "url": "https://github.com/sectersion/byline/issues/19",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.831553+00:00"
+    },
+    {
+      "id": "tari-project/special_contributions#706",
+      "repository": "tari-project/special_contributions",
+      "number": 706,
+      "title": "Contribution: fix(validator_node): look up each called component once when prewarming a transaction (tari-project/tari-ootle#3809)",
+      "url": "https://github.com/tari-project/special_contributions/issues/706",
+      "reward_usd": 0,
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.903408+00:00"
     }
   ],
-  "notice": "A PR is not proof of acceptance or payment.",
-  "generated_at": "2026-11-26T21:44:58.076221+00:00"
+  "history": [
+    {
+      "id": "Ayush441-python/AUREN#344",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.229914+00:00"
+    },
+    {
+      "id": "Ayush441-python/AUREN#345",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.297190+00:00"
+    },
+    {
+      "id": "Ayush441-python/AUREN#346",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.366551+00:00"
+    },
+    {
+      "id": "Ayush441-python/AUREN#343",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.435581+00:00"
+    },
+    {
+      "id": "InferMatrixLab/InferRSI#766",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.502613+00:00"
+    },
+    {
+      "id": "Ayush441-python/AUREN#342",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-27T08:36:12.572071+00:00"
+    },
+    {
+      "id": "bad-antics/lateralus-lang#1106",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-27T08:36:12.637624+00:00"
+    },
+    {
+      "id": "Rohank143/BountyScout#151",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.708942+00:00"
+    },
+    {
+      "id": "dev-kp-eloper/BountyScout#1809",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.776131+00:00"
+    },
+    {
+      "id": "hanzoai/skills#18",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.845377+00:00"
+    },
+    {
+      "id": "hanzoai/browser#1",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.914095+00:00"
+    },
+    {
+      "id": "hanzoai/docs#26",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:12.978694+00:00"
+    },
+    {
+      "id": "hanzoai/python-sdk#55",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.046616+00:00"
+    },
+    {
+      "id": "hanzoai/js-sdk#42",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.115304+00:00"
+    },
+    {
+      "id": "hanzoai/captable#15",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.183055+00:00"
+    },
+    {
+      "id": "hanzoai/o11y#49",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.250375+00:00"
+    },
+    {
+      "id": "hanzoai/mail#1",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.317133+00:00"
+    },
+    {
+      "id": "hanzoai/post#21",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.386022+00:00"
+    },
+    {
+      "id": "hanzoai/esign#2",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.455260+00:00"
+    },
+    {
+      "id": "hanzoai/cal#1",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.524401+00:00"
+    },
+    {
+      "id": "hanzoai/billing#1",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.591775+00:00"
+    },
+    {
+      "id": "hanzoai/team#43",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.660592+00:00"
+    },
+    {
+      "id": "hanzoai/ide#20",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.726798+00:00"
+    },
+    {
+      "id": "hanzoai/gui#21",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.795332+00:00"
+    },
+    {
+      "id": "hanzoai/ui#337",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.863745+00:00"
+    },
+    {
+      "id": "hanzoai/extension#30",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:13.933558+00:00"
+    },
+    {
+      "id": "hanzoai/chat#3",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.003312+00:00"
+    },
+    {
+      "id": "hanzoai/mobile#2",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.072436+00:00"
+    },
+    {
+      "id": "hanzoai/app#140",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.138528+00:00"
+    },
+    {
+      "id": "hanzoai/dev#106",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.207519+00:00"
+    },
+    {
+      "id": "hanzoai/dev#107",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.277026+00:00"
+    },
+    {
+      "id": "hanzoai/desktop#67",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.350683+00:00"
+    },
+    {
+      "id": "hanzoai/studio#1",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.414953+00:00"
+    },
+    {
+      "id": "hanzoai/cyber#1",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.483385+00:00"
+    },
+    {
+      "id": "hanzoai/flow#51",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.552367+00:00"
+    },
+    {
+      "id": "hanzoai/bot#97",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.624752+00:00"
+    },
+    {
+      "id": "hanzoai/bot#96",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.693559+00:00"
+    },
+    {
+      "id": "hanzoai/agent#15",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.764674+00:00"
+    },
+    {
+      "id": "hanzoai/ml#88",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.828780+00:00"
+    },
+    {
+      "id": "hanzoai/mcp#74",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.898923+00:00"
+    },
+    {
+      "id": "hanzoai/mcp#73",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:14.983787+00:00"
+    },
+    {
+      "id": "hanzoai/engine#165",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.051862+00:00"
+    },
+    {
+      "id": "hanzoai/index#55",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.122638+00:00"
+    },
+    {
+      "id": "hanzoai/engine#164",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.190824+00:00"
+    },
+    {
+      "id": "hanzoai/s3#56",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.258971+00:00"
+    },
+    {
+      "id": "hanzoai/ai#196",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.329182+00:00"
+    },
+    {
+      "id": "hanzoai/kv#15",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.398591+00:00"
+    },
+    {
+      "id": "hanzoai/kms#2",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.469253+00:00"
+    },
+    {
+      "id": "hanzoai/iam#56",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.540552+00:00"
+    },
+    {
+      "id": "hanzoai/commerce#86",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.611245+00:00"
+    },
+    {
+      "id": "hanzoai/cloud#84",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.681996+00:00"
+    },
+    {
+      "id": "hanzoai/base#56",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.755547+00:00"
+    },
+    {
+      "id": "hanzoai/kata#1",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.825792+00:00"
+    },
+    {
+      "id": "hanzoai/visor#1",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.898781+00:00"
+    },
+    {
+      "id": "hanzoai/cloud#83",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:15.967458+00:00"
+    },
+    {
+      "id": "hanzoai/cloud#82",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.035332+00:00"
+    },
+    {
+      "id": "hanzoai/vm#1",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.107678+00:00"
+    },
+    {
+      "id": "hanzoai/vfs#132",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.177749+00:00"
+    },
+    {
+      "id": "hanzoai/vfs#131",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.247672+00:00"
+    },
+    {
+      "id": "hanzoai/gen#20",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.318397+00:00"
+    },
+    {
+      "id": "hanzoai/gen#21",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.387561+00:00"
+    },
+    {
+      "id": "hanzoai/node#24",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.456363+00:00"
+    },
+    {
+      "id": "hanzoai/cli#110",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.528585+00:00"
+    },
+    {
+      "id": "hanzoai/cli#111",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.597886+00:00"
+    },
+    {
+      "id": "hanzoai/cli#112",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.667701+00:00"
+    },
+    {
+      "id": "xeprotocol/xe#1295",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.738713+00:00"
+    },
+    {
+      "id": "xeprotocol/xe#1294",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.809892+00:00"
+    },
+    {
+      "id": "xeprotocol/xe#1293",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.878454+00:00"
+    },
+    {
+      "id": "HW12Dev/OTWDPlayFabEmulator#3",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:16.948863+00:00"
+    },
+    {
+      "id": "ofirschwartz2/halalit#242",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.019648+00:00"
+    },
+    {
+      "id": "ofirschwartz2/halalit#239",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.088816+00:00"
+    },
+    {
+      "id": "Riemann-at-home/riemann-at-home#72",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.159690+00:00"
+    },
+    {
+      "id": "wr-max52/openspace-game#802",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.231120+00:00"
+    },
+    {
+      "id": "PorcupineStudios/ModernMiddleEarth_TARDIS#18",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.300507+00:00"
+    },
+    {
+      "id": "Ayush441-python/AUREN#338",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.373811+00:00"
+    },
+    {
+      "id": "tari-project/special_contributions#712",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.439873+00:00"
+    },
+    {
+      "id": "bad-antics/lateralus-lang#1093",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-27T08:36:17.509646+00:00"
+    },
+    {
+      "id": "agile-students-fall2026/generic-mern-stack-project-bounty#186",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.581205+00:00"
+    },
+    {
+      "id": "glunk-works/bounty-infra#208",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.651772+00:00"
+    },
+    {
+      "id": "tari-project/special_contributions#710",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.722012+00:00"
+    },
+    {
+      "id": "tari-project/special_contributions#709",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.793649+00:00"
+    },
+    {
+      "id": "tari-project/special_contributions#708",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.851453+00:00"
+    },
+    {
+      "id": "Ikalus1988/MisakaNet#5866",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:17.941874+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2694",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.013345+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2693",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.086919+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2692",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.156534+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2691",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.228909+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2690",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.300115+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2689",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.372004+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2688",
+      "status": "no_supported_contract",
+      "updated_at": "2026-11-27T08:36:18.438492+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2687",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.512429+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2686",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.583321+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2685",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.658603+00:00"
+    },
+    {
+      "id": "paraspell/xcm-tools#2684",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.730180+00:00"
+    },
+    {
+      "id": "Ayush441-python/AUREN#337",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.799599+00:00"
+    },
+    {
+      "id": "RSPSApp/tsps#6878",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.871614+00:00"
+    },
+    {
+      "id": "Ayush441-python/AUREN#336",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.937283+00:00"
+    },
+    {
+      "id": "JeelNandaniya8/GHOSTDIFF#1",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:18.988803+00:00"
+    },
+    {
+      "id": "sectersion/byline#19",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:19.039120+00:00"
+    },
+    {
+      "id": "tari-project/special_contributions#706",
+      "status": "reward_too_low",
+      "updated_at": "2026-11-27T08:36:19.090802+00:00"
+    }
+  ],
+  "notice": "Une mission détectée n'est pas un revenu. Un Pull Request soumis n'est pas une acceptation. Un paiement est enregistré uniquement après confirmation réelle."
 }
